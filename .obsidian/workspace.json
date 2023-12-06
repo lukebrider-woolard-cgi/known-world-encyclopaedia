@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "b5e84fddc92b8c05",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1bca2c2914b7da8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b44130cd1b0e9807",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae99fbce1eee4e79",
+    "type": "split",
+    "children": [
+      {
+        "id": "4674274889beff16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c5fd6202dfb62f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bc060f7d09cf9a45",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f97fda4d1fc1f524",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "05121c1ec5855164",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8f6ce85c4cbb6c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5022b0e4fe238478",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2592211f1725c942",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f29cbceefeb94a12",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2f28ca0f5f0d3799",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b44130cd1b0e9807",
+  "lastOpenFiles": [
+    "NPCs/Reaccuring NPCs/Captain Cornel Varnis.md",
+    "Locations/Vehicles/Skyship Albatross.md",
+    "D&D/Planning/Ideas and Notes.md",
+    "D&D/Session Notes/7-4-5 Shopping at Skyreach.md",
+    "D&D/Session Notes/8-4-5 Flight to Quintessa.md",
+    "Locations/Cities/Skyreach Mesa.md",
+    "D&D/Session Notes/3-4-5 Journey to Fort Derwent Tarn.md",
+    "NPCs/Encountered/Balrus.md",
+    "NPCs/Encountered/Wilkass.md",
+    "NPCs/Encountered/Thalia.md",
+    "NPCs/Encountered/Galdor.md",
+    "NPCs/Encountered/Windcaller Kyra.md",
+    "D&D/Player Characters/Active/Brie Faiseden.md",
+    "D&D/Player Characters/Active/Erathis Ashguard.md",
+    "D&D/Player Characters/Active/Lydia.md",
+    "D&D/Player Characters/Active/Magnar.md",
+    "D&D/Player Characters/Active/Mela Uak.md",
+    "D&D/Player Characters/Active/Sir Kane Kellester.md",
+    "D&D/Session Notes/4-4-5 The Bitter Breach.md",
+    "D&D/Session Notes/7-4-5 Crossing Windsweep.md",
+    "General Lore/Languages.md",
+    "NPCs/Lore Based/Sir Ironstone.md",
+    "NPCs/Lore Based/Lady Illia Windvale.md",
+    "D&D/Planning",
+    "Species",
+    "Locations/Provinces",
+    "NPCs/Detailed",
+    "NPCs/Reaccuring NPCs",
+    "NPCs/Lore Based",
+    "Locations/Villages",
+    "Locations/Towns",
+    "Locations/Vehicles",
+    "Locations/Cities",
+    "Player Characters/Sir Kane Kellester 1.md",
+    "Erathis.md",
+    "Erathis Ashguard.md",
+    "Untitled.canvas"
+  ]
+}

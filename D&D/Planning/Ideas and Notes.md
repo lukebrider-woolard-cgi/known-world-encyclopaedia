@@ -1,0 +1,11 @@
+## Darrius and the Rogues
+An adventuring group including Darrius Silversong, Ga Nuna, Tutel, and Amalie. They have been hired by Shanair Avento as the competative rivals to the main party who were hired by Dormain Avento. Both groups are to send the Aventos interesting items from Quintessa as part of a competition between the two Thieves Guild leaders.
+## Arcane Meteorite
+Becomes visible during the journey to Quintessa.
+Will fall into the Hidden Marshes, causing several factions to try and claim it including demons and Spectre Knights. 
+## Elements fallen from grace in Quintessa
+An outcast group of antanai still revere the elements, but the majority of their civilisation has become enamoured with arcane magic - and warlock magic in some cases. High Haven now acts as a beacon of elemental power, and this may call to [[Mela Uak]].
+## Ballthasar has taken over a fortress in the Holds of Vultash
+His work in releasing Belphegor the Blight was rewarded by ascension to godhood. He has taken a fortress in the Holds of Vultash as his home, and is extending his influence over the undead of the Known World. This includes the Ruins of Djurnoth. If the party destroy undead here, a maggot wreathed avatar of Ballthasar will appear and mock them. Involve lots of Dex saves for slipperiness. 
+## Dissolution of the Northern Kingdom
+Under a new name, Inquisitor Alabastia has been controlling the government of the Northern Kingdom and the Order of the Iron Rose from the shadows. The Iron Rose have been taking key forts around Greenhart in preparation. The sky pirates' attacks on the kal krom cause an uprising that results in a battle near Avonhead. King Gren is killed in the battle, likely murdered by spies. Alabastia uses the vacuum and unrest to push the Lords into agreeing to split the provinces of the Kingdom - as the country is sick of trying to make things work. 

@@ -1,0 +1,1 @@
+Warden of [[Skyreach Mesa]] - advisor and military protector of the city.
