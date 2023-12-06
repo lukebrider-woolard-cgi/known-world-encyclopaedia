@@ -8,7 +8,7 @@ aliases:
 ## Core Info
 | Level | Known World Class | Subclass | Species | Age | Height | Build |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ranger 5<br>Rogue 3 | Assassin | Gloomstalker<br>Phantom | Human | 33 | 5' 6" | Thin |
+| Ranger 5<br>Rogue 3 | Assassin | Gloomstalker<br>Phantom | [[Human]] | 33 | 5' 6" | Thin |
 ## Milestones
 - [ ] Personal Goal
 - [x] Slay Monsters

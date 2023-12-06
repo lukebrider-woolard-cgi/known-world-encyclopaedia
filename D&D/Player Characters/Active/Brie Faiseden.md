@@ -9,7 +9,7 @@ aliases:
 ## Core Info
 | Level | Known World Class | Subclass | Species | Age | Height | Build |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Sorcerer 6 | Witch | Shadow Magic | Human | 15 | 5' 2" | Thin |
+| Sorcerer 6 | Witch | Shadow Magic | [[Human]] | 15 | 5' 2" | Thin |
 ## Milestones
 - [ ] Personal Goal
 - [x] Slay Monsters

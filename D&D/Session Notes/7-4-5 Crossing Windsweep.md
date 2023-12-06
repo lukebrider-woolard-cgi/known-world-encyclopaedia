@@ -11,7 +11,7 @@
 * After defeating the bovine, the party again dissect them for reagents.
 * The party conclude their journey to [[Skyreach Mesa]].
 ## NPCs Met
-* Gracho Molenson - human sheriff and ranch owner in Boulder’s Creek.
+* Gracho Molenson - [[human]] sheriff and ranch owner in Boulder’s Creek.
 * Scouts of the 3rd Royal Dragoons
 ## Character Development
 * [[Brie Faiseden|Brie]] hears Goßmut for the first time and summons her Goat of Ill Omen. The encounter with the Bovine triggers her fight or flight response, but Goßmut drives her into the fight - albeit recklessly.

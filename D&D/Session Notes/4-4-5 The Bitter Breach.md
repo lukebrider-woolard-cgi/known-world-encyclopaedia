@@ -1,6 +1,6 @@
 *Firstsow-Firefall - year 4 - 5th Age* 
 ## Abridged Session Notes
-* Spent six days in Fort Derwent Tarn. Most investigated surroundings. Found fort is Neandal ruin with crypt. 
+* Spent six days in Fort Derwent Tarn. Most investigated surroundings. Found out the fort is [[Neandal]] ruin with crypt. 
 * <mark>[[Brie Faiseden|Brie]] has nightmare about being sacrificed by Bovine. Wakes to find Goßmut ritual. Keeps quiet about the dream.</mark>
 * [[Lydia]] and [[Brie Faiseden|Brie]] train with herbology. [[Erathis Ashguard|Erathis]] transcribes new spells and examines Arias Greyvale’s spellbook.
 * Mayla arrives from the capital with wagons. Party hand over their Order of the Iron Rose prisoner.
@@ -14,7 +14,7 @@
 * Explore more of the city, then return to the surface. <mark>More time has passed than should have (now month Firefall)</mark>.
 * <mark>Continue through the breach and down the far side into Windsweep Plateau.</mark>
 ## NPCs Met
-* Kordras and Emile - neandal and human couple out on fishing holiday.
+* Kordras and Emile - [[neandal]] and [[human]] couple out on fishing holiday.
 * Clay Golem - a silent construct that mimicked the party’s movements.
 ## Character Development
 * [[Mela Uak]] discovering elements are not as he remembers, drive for knowledge and power made him touch the power source.

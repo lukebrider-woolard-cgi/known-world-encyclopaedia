@@ -10,7 +10,7 @@ aliases:
 ## Core Info
 | Level | Known World Class | Subclass | Species | Age | Height | Build |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Warlock 7<br>Rogue 1 | Elementalist | Pact of the Genie | Olmetek | 31 | 6' 4" | Thin |
+| Warlock 7<br>Rogue 1 | Elementalist | Pact of the Genie | [[Olmetek]] | 31 | 6' 4" | Thin |
 ## Milestones
 - [ ] Personal Goal
 - [x] Slay Monsters

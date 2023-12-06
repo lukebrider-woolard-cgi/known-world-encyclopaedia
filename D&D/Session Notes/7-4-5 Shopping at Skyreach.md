@@ -11,17 +11,17 @@
 * That evening, the party stay at the Sunscape Vista, where they <mark>meet Darrius and the Rogues. They discuss the upcoming competition with Darrius and are introduced to his band.</mark>
 * The following day, the party prepare to depart, collecting items they had commissioned and tying up loose ends.
 * [[Mela Uak]] visits the <mark>skyship called the [[Skyship Albatross|Albatross]] and meets with [[Captain Cornel Varnis]]</mark> who briefs him on the ship and journey.
-* Whilst there, <mark>[[Mela Uak]] spots a potential stowaway and confronts them, meeting [[Magnar]] the neandal hermit.</mark>
+* Whilst there, <mark>[[Mela Uak]] spots a potential stowaway and confronts them, meeting [[Magnar]] the [[neandal]] hermit.</mark>
 * The party all meet and prepare to board. [[Magnar]] is introduced tot he party.
 * The party also <mark>realise that the mysterious piece of metal [[Mela Uak]] found in the ruined warehouse appears similar to something [[Erathis Ashguard|Erathis]] saw on a diagram at Fort Derwent Tarn.</mark>
 * Upon boarding, the party are briefed about the luxury flight and find their accommodation on board.
 ## NPCs Met
-* Galdor - human owner of the curiosities shop Galdor's Goods.
-* Balrus - bortusken engineer in the skyship factory.
-* Windcaller Kyra - human elementalist in the Stroud of Currents.
-* Thalia - human geomorphologist in the hold's library.
-* Wilkass - human enchanter in the hold's library.
-* [[Captain Cornel Varnis]] - human skyship captain of the [[Skyship Albatross|Albatross]].
+* Galdor - [[human]] owner of the curiosities shop Galdor's Goods.
+* Balrus - [[bortusken]] engineer in the skyship factory.
+* Windcaller Kyra - [[human]] elementalist in the Stroud of Currents.
+* Thalia - [[human]] geomorphologist in the hold's library.
+* Wilkass - [[human]] enchanter in the hold's library.
+* [[Captain Cornel Varnis]] - [[human]] skyship captain of the [[Skyship Albatross|Albatross]].
 ## Character Development
 * [[Magnar]] is introduced to the party and is open and honest about some of his past - that he is on the run from some magi and looking to keep moving far away.
 ## Loot Acquired

@@ -1,0 +1,1 @@
+The first monarch of the Northern Kingdom

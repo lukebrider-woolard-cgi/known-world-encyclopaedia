@@ -1,0 +1,1 @@
+High Lady of the Wold when the Plague of Undying was unleashed on her province. She ordered the construction of Holton Citadel and formed the Watchers.

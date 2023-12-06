@@ -1,0 +1,1 @@
+The first Beastwalker. Formerly called Harlan.

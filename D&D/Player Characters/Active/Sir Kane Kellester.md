@@ -9,7 +9,7 @@ aliases:
 ## Core Info
 | Level | Known World Class | Subclass | Species | Age | Height | Build |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Paladin 7 | Demon Hunter | Oath of the Watchers | Human | 27 | 5' 11"" | Muscular |
+| Paladin 7 | Demon Hunter | Oath of the Watchers | [[Human]] | 27 | 5' 11"" | Muscular |
 ## Milestones
 - [ ] Personal Goal
 - [x] Slay Monsters

@@ -1,0 +1,1 @@
+Younger brother to [[Calavar Lancast]] - successor to the throne after the civil war ends.

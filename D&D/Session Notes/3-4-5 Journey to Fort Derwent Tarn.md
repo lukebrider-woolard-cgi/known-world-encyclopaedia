@@ -2,7 +2,7 @@
 ## Abridged Session Notes
 * <mark>Escaping Twynburh at night.</mark> The party takes great efforts to disguise themselves and develop a backstory for their new personas. 
 * <mark>Thieves Guild smuggles the party out of the city in stagecoaches.</mark> The Chartered Company is hired to take them onwards towards the Bitter Breach - 100 miles to the northwest. [[Lydia]] requests newspapers.
-* Broadsheets - 2 days old shows trial, 2 weeks old mentions <mark>kal krom refugees seen in Greenhart.</mark>
+* Broadsheets - 2 days old shows trial, 2 weeks old mentions <mark>[[kal krom]] refugees seen in Greenhart.</mark>
 * Journey through Greenhart. [[Lydia]] and [[Brie Faiseden|Brie]] braid each other’s hair and ask Oskar about the current demon war.
 * On the first day, [[Sir Kane Kellester|Sir Kane]] eats poison berries and gets diarrhoea, [[Lydia]] makes mild poison from the berries. The party are attacked by wolves who are easily defeated.
 * On the second day, there is some hunting done in some woods.
@@ -15,9 +15,9 @@
 * <mark>The fort is taken and Darrius informed.</mark> The party take some loot and await relief from the Thieves Guild.
 * <mark>The mage tried to burn some documents - a map showing taken forts in Greenhart, technical diagrams of a delay fuse, and shipping manifests of goods to the skyship port in [[Skyreach Mesa]].</mark>
 ## NPCs Met
-* Oskar - human stagecoach driver.
-* Marvin and Dela - human travelling farmers (father and daughter). 
-* Arias Greyvale - human former Inquisitor (now deceased).
+* Oskar - [[human]] stagecoach driver.
+* Marvin and Dela - [[human]] travelling farmers (father and daughter). 
+* Arias Greyvale - [[human]] former Inquisitor (now deceased).
 ## Character Development
 * [[Brie Faiseden|Brie]] explains that she died and some magic brought her back - enhancing her abilities.
 * [[Lydia]] confesses to being an assassin who was sent to kill [[Erathis Ashguard|Erathis]], but something went wrong that made her question her orders.

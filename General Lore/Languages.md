@@ -1,23 +1,26 @@
-Common
+Common - the common tongue
 
-Norcern
-Refugean
-Olivencian
-Archaic (original human language still used in parts of southern Elencern)
+[[Human]]:
+- Norcern - the language of the Northern Kingdom
+- Refugean - the language of Refuge
+- Olivencian - the language of Tierra de Olivencia
+- Archaic - the original human language still used in parts of southern Elencern
 
-Olmetik
-Boarish
-Kromish
-Quinthwaith (Antanai)
-Neandal
+[[Neandal]]:
+- Neandal - the language of Neandals in Norcernwere
+- Fenrithi - the language of the Holds of Vultash
+- Cordaril - the language of the Cordaria Dominion
+- Brissair - the language of Brissari
 
-Fenrithi (Holds of Vultash)
-Cordaril
-Brissari
+Olmetik  -the language spoken by all [[Olmetek]]
+Boarish - the language spoken by all [[Bortusken]]
+Kromish - the language spoken by all [[Kal Krom]]
+Quinthwaith - the language spoken by all [[Antanai]]
 
-Demonic / Dark Speech
-Thieves' Cant
-Coven's Cant
-Arcane Runes - constellations and geometric symbols
-Elemental Runes - carved symbols
-Terran - hieroglyphs and proto-elemental runes
+Other Languages
+- Demonic / Dark Speech - appear as mad scrawl and chaotic symbols
+- Thieves' Cant - pictographic symbols and coded speech
+- Coven's Cant - witch symbols
+- Arcane Runes - constellations and geometric symbols
+- Elemental Runes - carved angular symbols
+- Terran - hieroglyphs and proto-elemental runes

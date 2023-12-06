@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 14732626
       }
+    },
+    {
+      "query": "path:Species  ",
+      "color": {
+        "a": 1,
+        "rgb": 15485771
+      }
     }
   ],
   "collapse-display": true,

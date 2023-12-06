@@ -1,0 +1,1 @@
+Mage who discovered Deep Home near Alesund. Worked with [[Bjorn Wildskull]].

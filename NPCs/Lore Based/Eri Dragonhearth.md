@@ -1,0 +1,1 @@
+First advisor to the throne of the Northern Kingdom. Close ally of [[Forela Grimsbane]].
