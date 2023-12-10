@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"D&D/Player Characters\"  ",
@@ -55,18 +55,39 @@
         "a": 1,
         "rgb": 15485771
       }
+    },
+    {
+      "query": "path:Organisations",
+      "color": {
+        "a": 1,
+        "rgb": 11035454
+      }
+    },
+    {
+      "query": "path:\"Magical Sects\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12605122
+      }
+    },
+    {
+      "query": "path:History  ",
+      "color": {
+        "a": 1,
+        "rgb": 4873924
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.993229166666667,
-  "lineSizeMultiplier": 1,
+  "lineSizeMultiplier": 0.40625,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.798309920958754,
+  "scale": 0.637298729901176,
   "close": true
 }

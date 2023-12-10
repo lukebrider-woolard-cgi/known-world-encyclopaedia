@@ -3,7 +3,7 @@
 ## Core Info
 | Level | Known World Class | Subclass | Species | Age | Height | Build |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Cleric 7 | Apothecary | Twilight Domain | [[Neandal]] | 45 | 6' 0" | Toned |
+| Cleric 7 | [[Apothecaries|Apothecary]] | Twilight Domain | [[Neandal]] | 45 | 6' 0" | Toned |
 ## Milestones
 - [ ] Personal Goal
 - [x] Slay Monsters
@@ -77,12 +77,12 @@ None
 	- has innate knowledge of drawing power from gods
 #### Backstory Notes
 - Has a strong connection to the god of the moons
-- Was imprisoned and used by three magi for his powers - they took him in after killing his clan
+- Was imprisoned and used by three [[Mages|magi]] for his powers - they took him in after killing his clan
 #### Current Story Notes
-- Is on the run from the three magi after finally learning the truth about them
+- Is on the run from the three [[Mages|magi]] after finally learning the truth about them
 #### Relationships
 - Deceased clan
-- Three magi - former captors and now hunters
+- Three [[Mages|magi]] - former captors and now hunters
 #### Secrets
 None
 #### Flavour
@@ -99,4 +99,4 @@ Clan lands in the Frostlands
 ###### Current Fears
 - a
 ###### Key Childhood Event
-- Clan were all killed - was taken in by magi - did not know they were the ones who killed his clan
+- Clan were all killed - was taken in by [[Mages|magi]] - did not know they were the ones who killed his clan

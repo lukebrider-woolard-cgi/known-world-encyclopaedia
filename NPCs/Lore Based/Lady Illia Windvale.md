@@ -1,1 +1,0 @@
-High Lady of Windsweep Plateau.

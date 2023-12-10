@@ -84,19 +84,19 @@ None
 - Assassin (Criminal Contact)
 	- knows how to reach someone who can get info
 #### Backstory Notes
-- Set up by the Assassin's Guild
+- Set up by the [[Assassin's Guild]]
 - Followed by and cares for a group of ghostly orphans that she avenged
 #### Current Story Notes
 - Trying to understand who betrayed her - only clue was that she was told to seek out [[Erathis Ashguard|Erathis]]
 #### Relationships
 - Seb, Ava, and Lily (orphans)
 - Clara (contact - barmaid in Twynburh)
-- Kit (Assassin's Guild handler)
+- Kit ([[Assassin's Guild]] handler)
 	- secretly protecting her
 #### Secrets
 - Lydia is not her real name
 - She is from a highborn family in Twynburh
-- Affiliation with the Assassin's Guild
+- Affiliation with the [[Assassin's Guild]]
 - The orphans under her care
 #### Flavour
 ###### Favourite Foods

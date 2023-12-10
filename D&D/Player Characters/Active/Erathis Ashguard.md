@@ -9,7 +9,7 @@ aliases:
 ## Core Info
 | Level | Known World Class | Subclass | Species | Age | Height | Build |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Wizard 8 | Mage | School of Divination | [[Human]] | 37 | 5' 11" | Thin |
+| Wizard 8 | [[Mages|Mage]] | School of Divination | [[Human]] | 37 | 5' 11" | Thin |
 ## Milestones
 - [ ] Personal Goal
 - [x] Slay Monsters

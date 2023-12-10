@@ -34,26 +34,26 @@ Location - Cirrus Butte
 A converted farmhouse and mill, serving dignitaries and wealthy visitors. Sits on top of a small butte on the main mesa. Ferments their own wine called Crimson Moon Wine. 
 #### Skyship Port
 Location - Stratus Butte
-The docks and construction yards on top of the largest butte.
+The docks and construction yards on top of the largest butte. One of the warehouses was recently bombed by an unknown faction.
 #### The Stroud of Currents
 Location - Alto Butte
-A cave network within the smallest butte in the city. This is a refuge for elementalists - particularly those on their first pilgrimage.
+A cave network within the smallest butte in the city. This is a refuge for [[elementalists]] - particularly those on their first pilgrimage.
 ## Important NPCs
-- [[Lady Illia Windvale]]
+- [[Illia Windvale|Lady Illia Windvale]]
 - [[Sir Ironstone]]
 - [[Captain Cornel Varnis]]
 #### Encountered NPCs
 | Title | Name | Species | Gender | Age | Character | Personality and Voice Notes |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Windcaller | Kyra | [[Human]] | Female | Middle-aged | Senior Elementalist at the Stroud of Currents | Wise, calm, wistful |
+| Windcaller | Kyra | [[Human]] | Female | Middle-aged | Senior [[Elementalists|Elementalist]] at the Stroud of Currents | Wise, calm, wistful |
 |  | Galdor | [[Human]] | Male | Adult | Owner of the curiosities store - Galdor's Goods | grandiose and rambling |
-|  | Thalia | [[Human]] | Female | Adult | Geomorphologist mage - caretaker of the mesa - preventing erosion from damaging the city | Measured and intellectual | 
+|  | Thalia | [[Human]] | Female | Adult | Geomorphologist [[Mages|mage]] - caretaker of the mesa - preventing erosion from damaging the city | Measured and intellectual | 
 |  | Wilkass | [[Human]] | Male | Middle-aged | Enchanter who gags if he is near cursed items | Fast talking and excitable |
-|  | Balrus | [[Bortusken]] | Male | Adult | Engineer and smith working in the skyship port | Gruff and to the point |
+|  | Balrus | [[Bortusken]] | Male | Adult | [[Engineers|Engineer]] and smith working in the skyship port | Gruff and to the point |
 ## Factions
 #### Skyship Guild
-Shipwrights and engineers who construct military and civilian skyships.
+Shipwrights and [[Engineers]] who construct military and civilian skyships.
 Ideals - craftsmanship
 #### Geology Guild
-Geologists and geomorphologists (some of whom are mages) who survey the mesa and monitor erosion to protect dwellings and access routes on the mesa.
+Geologists and geomorphologists (some of whom are [[mages]]) who survey the mesa and monitor erosion to protect dwellings and access routes on the mesa.
 Ideals - science and safety

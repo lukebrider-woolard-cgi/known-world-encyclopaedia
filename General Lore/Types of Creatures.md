@@ -2,7 +2,7 @@
 #### Beasts
 Normal animals. The Known World contains a myriad selection of creatures from across the history of the real world. Mammals are dominant in Norcernwere whilst reptiles are dominant in Elencern. Quintessa is primarily large insects, though also has a high concentration of Aberrant and Abomination creatures. 
 #### Magical Beasts
-Normal animals that have been partially empowered by arcana. They are usually larger than their kin and often establish themselves as the dominant member of their collective group or territory. It is these magical beasts that are involved in beastwalker rituals.
+Normal animals that have been partially empowered by arcana. They are usually larger than their kin and often establish themselves as the dominant member of their collective group or territory. It is these magical beasts that are involved in [[Beastwalkers|beastwalker]] rituals.
 #### Aberrants
 Animal-like creatures with arcane mutations. These creatures tend to appear near mana hotspots and display heightened intelligence - with some even being able to create basic tools and weapons, or even simple languages or mimicry. Some even become intelligent enough to be on par with members of the Prime Species. It is theorised that the hominid species of the Known World all evolved from a common aberrant ancestor.
 
@@ -12,13 +12,13 @@ Notable Examples:
 - Amphibian Folk - live in Silverleaf Forest - at war with the rat folk
 - Rat Folk - live in Silverleaf Forest - at war with the amphibian folk
 - Ruffilians - feathered lemurs that live in The Overgrowth
-- Swinious - proto-bortusken that still exist today in the Savage Hills
+- Swinious - proto-[[bortusken]] that still exist today in the Savage Hills
 #### Prime Species
 The most intelligent species in the Known World. Defined as a group who have established a stable civilisation with a rich culture. 
 
 Current list of Prime Species:
-- Humans
-- Neandals
+- [[Human|Humans]]
+- [[Neandal|Neandals]]
 - [[Kal Krom]]
 - [[Bortusken]]
 - [[Olmetek]]

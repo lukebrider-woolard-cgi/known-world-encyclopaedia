@@ -9,7 +9,7 @@ aliases:
 ## Core Info
 | Level | Known World Class | Subclass | Species | Age | Height | Build |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Sorcerer 6 | Witch | Shadow Magic | [[Human]] | 15 | 5' 2" | Thin |
+| Sorcerer 6 | [[Mages|Witch]] | Shadow Magic | [[Human]] | 15 | 5' 2" | Thin |
 ## Milestones
 - [ ] Personal Goal
 - [x] Slay Monsters
@@ -86,7 +86,7 @@ aliases:
 	- exploration recall and survivalist
 #### Backstory Notes
 - Saved by the main party - taken to safety by Ephemeridae
-- Trained as a witch by Clebekah
+- Trained as a [[Mages|witch]] by Clebekah
 #### Current Story Notes
 - Died and was resurrected by Goßmut (goat god of hills and cliffs)
 - Magic of the avatar of Goßmut lives inside her
@@ -103,7 +103,7 @@ None
 ###### Family Size
 Mother and Father, eleven siblings (all deceased)
 ###### Hometown
-Crossroads
+[[Crossroads]]
 ###### Favourite Animals
 - Goats
 ###### Current Fears

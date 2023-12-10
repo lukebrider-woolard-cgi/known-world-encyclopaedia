@@ -1,1 +1,1 @@
-Earth Warden elementalist who discovered Deep Home near Alesund. Worked with [[Eve Shadowfire]].
+Earth Warden [[Elementalists|elementalist]] who discovered Deep Home near Alesund. Worked with [[Eve Shadowfire]].

@@ -4,7 +4,7 @@ An adventuring group including Darrius Silversong, Ga Nuna, Tutel, and Amalie. T
 Becomes visible during the journey to Quintessa.
 Will fall into the Hidden Marshes, causing several factions to try and claim it including demons and Spectre Knights. 
 ## Elements fallen from grace in Quintessa
-An outcast group of [[antanai]] still revere the elements, but the majority of their civilisation has become enamoured with arcane magic - and warlock magic in some cases. High Haven now acts as a beacon of elemental power, and this may call to [[Mela Uak]].
+An outcast group of [[antanai]] still revere the elements, but the majority of their civilisation has become enamoured with arcane magic - and [[Demon Hunters|warlock]] magic in some cases. High Haven now acts as a beacon of elemental power, and this may call to [[Mela Uak]].
 ## Ballthasar has taken over a fortress in the Holds of Vultash
 His work in releasing Belphegor the Blight was rewarded by ascension to godhood. He has taken a fortress in the Holds of Vultash as his home, and is extending his influence over the undead of the Known World. This includes the Ruins of Djurnoth. If the party destroy undead here, a maggot wreathed avatar of Ballthasar will appear and mock them. Involve lots of Dex saves for slipperiness. 
 ## Dissolution of the Northern Kingdom

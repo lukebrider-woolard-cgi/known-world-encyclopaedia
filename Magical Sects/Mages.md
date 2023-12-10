@@ -1,0 +1,44 @@
+---
+aliases:
+  - Mage
+  - Magi
+  - Sorcerer
+  - Witch
+  - Witches
+  - Bard
+  - Bards
+---
+## Who are they:
+The Order of Mages are first and foremost scholars. Formed from those gifted with arcane powers, mages spend much of their lives in pursuit of knowledge.   
+
+In the Known World, magic takes many different forms. But by far the most common is arcane. Mana - the physical force of magical energy storage and transfer - is most easily extracted, exploited, and manipulated by arcane magic.  
+During the [[3rd Age - Turmoil|First Demonic War]], when the Elemental Lords birthed magic into the world, the release of mana was so powerful that it shattered the skies and all but destroyed an entire subcontinent. Some of this magical energy coalesced into stars that filled the sky and become the Constellation Arcana. The rest fell back down to the surface of the world, raining down to infuse the ground, plants, and animals. Some of the more intelligent races began to manifest strange new powers, and amongst them were those gifted with an affinity for the arcane. The guardian races - most notably the dragons - then taught these proto-mages how to safely conjure spells, brew restorative potions, and harness more mana from the vast deposits now scattered across the Known World.  
+At the turn of the [[4th Age - Revival|4th Age]], mages became the principal guardians of magic and sought to learn all they could of its nature. They look to the stars to glean an understanding of the deeper secrets of mana, they travel the world in search of answers to questions yet unthought, and they catalogue all knowledge into a single repository known simply as the Encyclopaedia - a vast library stored safely away in the headquarters of their order: Starlight Tower.  
+## Organisation:
+When an individual with arcane potential reaches puberty, they will begin to manifest magical powers. Mages from Starlight Tower keep a careful eye out for these gifted preteens, eager to nurture their abilities in the safety (and secrecy) afforded by their headquarters. These young mages then go through rigorous study and training, progressing through a scholarly hierarchy:
+
+- **Junior Scribe** (from induction to age 18). They study a full range of subjects.
+- **Senior Scribe** (ages 18 to 21). They begin to narrow down their studies to several advanced subjects and then major in an area of personal interest. Their final year usually involves writing a dissertation in their chosen major. Alternatively, these years can involve a placement at a mage tower anywhere in the world if the mage is majoring in politics or scrying.
+- **Apprentice Mage** - upon graduation, mages will begin working in the field they majored in. Apprentices also craft their first staff or wand when they graduate.
+- **Mage** - an individual who has completed a set amount of time in their field or contributed to the Encyclopedia by submitting a peer-reviewed piece of literature such as a thesis.
+- **Professor** - title given to a mage in a teaching position.
+- **Arch-Mage** - the leading members of the Order of Mages, usually including the headmaster of Starlight Tower and any mages who are direct advisors to world leaders.
+## Subgroups:
+There are a vast number of subgroups and smaller organisations within the Order of Mages, including:  
+_**Lore Keepers**_ - individuals who travel the world interacting with far-off cultures and observing everything from natural processes, conflicts, and even the day-to-day activities of any and every creature they come across. They note all of their studies and discoveries down to be written up later at Starlight tower. As they travel, lore keepers will happily recite and share their knowledge with anyone willing to listen. In this way, they share the tales and stories of the people they meet with others around the world. Lore keepers also impart much wisdom onto the settlements they pass through, sharing the risks of unchecked magic and the world's natural order as passed down through the generations of mages. Their travels also allow them to keep a look out for adolescents in remote locations who have developed arcane abilities. The most famous lore keepers are the Dragonhearths, whose members stretch back all the way to the early proto-mages who were taught by the dragons.
+_**Scryers**_ - mages gifted with telepathy who use their powers to aid in communication. Every day at sundown, scryers all over the Known World meditate to join a collective consciousness where they can share news and information. If a scryer knows another’s exact location, they can also project their thoughts directly as a private message, even over vast distances.
+_**Court Advisors**_ - mages with a talent for politics are assigned to council those in positions of power. They offer wisdom and advice and can act as emissaries between factions and nations. Due to their longer lifespans, it is not uncommon for a court advisor to counsel several generations of rulers.
+_**Bards**_ - mages who prefer using their abilities for entertainment rather than scholarly pursuits. They are often college dropouts, but even fully graduated mages sometimes feel the call of the arts in later life.
+_**Battlemages**_ - arcane wielders who don enchanted suits of armour and wield martial weapons. Over the years, battlemages have been employed to fight in wars or to protect significant sites or people. Starlight Tower is guarded by a group of battlemages, and some members of this order have even served as royal guards.
+_**Inquisitors**_ - created during the rule of King Calvar Lancast, Inquisitors are a group of mages skilled at telepathy, who use their powers for interrogation, subterfuge, and espionage. They were originally tasked with rooting out corruption in the Northern Kingdom but were really acting as secret police and enforcers for the [[Calavar Lancast|Mage King]]. Despite the successful overthrowing and death of King Calvar, the inquisitors are rumoured to still be operating for the new King and government.  
+## Naming:
+When graduating to apprentice, a mage is given a moniker to reflect the skills they have shown during training. Some mages replace their surname (if they had one) with this new name, but others opt to forgo their given moniker and retain their family or cultural naming practices.  
+## Dark Path - Magi:
+Mages who do not show restraint or control, or who use forbidden magic or mana sources (such as blood) are branded Magi. They are viewed as dark sorcerers and receive a lifetime banishment from the Order of Mages. It is forbidden for other mages to interact with banished magi.  
+Sometimes, an individual possessing arcane powers will go unnoticed by other mages and never receive formal training at Starlight Tower. They too will be considered magi.  
+However, not all magi are evil in nature. One such example are the witches. These are women with arcane powers who have formed small covens that have their own traditions and practices. Though they aren’t always hostile to others, their lack of training makes them dangerous in the eyes of other mages.  
+## Magic:
+Mages and Magi harness the power of the arcane. Their magic is fundamentally a science and conforms to physical laws. Arcane magic draws exclusively on mana, which can be harnessed using spells and enchantments. These are meticulously researched and tested, as a never-ending lineage of mages continues to unlock the mysteries of the natural world.  
+When wielding mana, arcane spells often manifest as glowing runes arranged into circles or as constellations. Careful hand movements, rehearsed incantations, and specific material components are used in a precise and practised procedure. The colour of arcane magic tends to be various shades of blue or indigo. The flow of mana conforms to a law of energy conservation, and the wielder will either draw on their own innate reserve of energy or transfer it from another source such as a mana-infused staff or crystal. Spell effects also draw energy from the environment, causing the surrounding air to become cold. Mages describe the sensation of wielding arcane as like a flow of water, as they feed mana from a reserve into their magic. Some spells are gentle, whilst others require great concentration and effort to prevent the flow of energy from overcoming the caster.   Arcane magic is both mentally and physically taxing for the user.  
+## Standard D&D Background:
+A mage who studied at Starlight Tower should start with a proficiency in a scholarly tool such as the Calligrapher's or Alchemist’s supplies. They also tend to be proficient with at least one of the Intelligence skills such as History. The sage background is a good starting point for a mage.

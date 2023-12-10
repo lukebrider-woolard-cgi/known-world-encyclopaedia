@@ -1,1 +1,1 @@
-The first Necromancer. Accidentally caused the Plague of Undying whilst trying to save his wife and others from an outbreak of plague.
+The first [[Apothecaries|Necromancer]]. Accidentally caused the Plague of Undying whilst trying to save his wife and others from an outbreak of plague.
