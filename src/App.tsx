@@ -1,13 +1,13 @@
 import { useEffect, useState } from "react";
 import Markdown from "react-markdown";
-import notes from "../lore/D&D/Planning/Ideas and Notes.md";
+import human from "../lore/Species/Human.md";
 import "./App.css";
 
 function App() {
   const [testText, setTestText] = useState("");
 
   useEffect(() => {
-    fetch(notes)
+    fetch(human)
       .then((res) => res.text())
       .then((text) => setTestText(text));
   }, []);
