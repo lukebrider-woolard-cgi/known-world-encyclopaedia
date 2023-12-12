@@ -15,3 +15,8 @@ A Vite React-TypeScript web app is then used to display select items from this l
 - Run the command `yarn install` in the root of the directory to install node packages.
 - Run the command `yarn vite` in the root of the directory to run a localhost version of the app.
 - The Github Page will be run from the `live` branch.
+
+## Legal
+
+All lore work for the Known World presented in this repository is the intellectual property of Luke Brider-Woolard.
+The Known World© - Luke Brider-Woolard 2013
