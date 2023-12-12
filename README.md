@@ -16,10 +16,8 @@ A Vite React-TypeScript web app is then used to display select items from this l
 - Run the command `yarn install` in the root of the directory to install node packages.
 - Run the command `yarn dev` in the root of the directory to run a localhost version of the app.
 - Make some changes.
-- Run the command `yarn build` in the root of the directory to bundle the web app.
 - Push changes into the `main` branch either directly or via a pull request.
-- Merge changes into the `live` branch using a pull request.
-- The GitHub Page will be run from the `live` branch when a pull request merges using the `dist` directory (so it is essential that the build command is run before deployment).
+- To deploy changes to the GitHub Page, run a pull request from main onto the `live` branch. When the pull request merges succeessfully a GitHub Action triggers automatically - building the app to a `dist` directory which it then deploys as a static web app.
 
 ## Legal
 
