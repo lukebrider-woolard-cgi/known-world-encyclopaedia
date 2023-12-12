@@ -1,22 +1,24 @@
-import { useEffect, useState } from "react";
 import Markdown from "react-markdown";
-import human from "../lore/Species/Human.md";
+import { useArticle } from "./hooks/useArticle";
+import { articles } from "./constants";
+
 import "./App.css";
 
 function App() {
-  const [testText, setTestText] = useState("");
+  const { article, findArticle } = useArticle();
 
-  useEffect(() => {
-    fetch(human)
-      .then((res) => res.text())
-      .then((text) => setTestText(text));
-  }, []);
+  function ArticleButton(name: string) {
+    return (
+      <button onClick={() => findArticle(name)}>{name}</button>
+    )
+  }
 
   return (
     <>
       <h1>Welcome to the Encyclopaedia of the Known World</h1>
       <div className="content">
-        <Markdown>{testText}</Markdown>
+        {articles.map((article) => ArticleButton(article.name))}
+        <Markdown>{article}</Markdown>
       </div>
       <p>The Known World© - Luke Brider-Woolard 2013</p>
     </>
