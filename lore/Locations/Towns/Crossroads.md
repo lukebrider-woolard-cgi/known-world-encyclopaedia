@@ -6,7 +6,7 @@
 ## Notable Locations
 #### Town Hold
 Location - On top of a small bluff on the east side of the town
-The seat of government for the region. The grounds include stables, a mage tower, and an armour. It is well protected by fort walls and the town garrison.
+The seat of government for the region. The grounds include stables, a mage tower, and an armoury. It is well protected by fort walls and the town garrison.
 #### Three Springs Inn
 Location - Centre of the town next to the river
 A fancy inn frequented by merchants and travelling dignitaries. Owned and run by a single family. Serves the town's famous honey mead. 
