@@ -10,7 +10,7 @@ Humans are able to become gifted at anything they set their minds to, and most s
 ## Human Cultures and Naming
 #### Northern Kingdom:
 The Northern Kingdom is a feudal society with many provinces falling under the rule of a single royal family. Other noble families serve as lords and ladies and preside over the individual provinces or large settlements. Each province follows the same laws but maintains a unique blend of its ancient culture mixed with the modern practices of the greater kingdom. The majority of the population revere the Immortals above all others but believe the Elemental Lords created the world. As the Northern Kingdom encompasses much of the continent of Norcernwere, the humans there are varied in accent and appearance. The men of the north tend to have blonde hair, blue eyes, and fair skin, whilst those of the deserts and swamps to the south are tanned with dark hair and eyes. 
-###### Naming
+
 Commoner Names - Birth name, followed by a compound name containing the father or mother’s name if boy or girl respectively, followed by a gendered suffix of either son or den - *e.g. Bob and Mary have a boy and a girl, James Bobson and Jess Maryden. *
 
 Nobility Names - Birth name, followed by a family name. The family name is chosen when first gaining rulership. Marrying into a noble family gains that person the name too, though the rest of their birth family does not.  
