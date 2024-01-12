@@ -5,6 +5,7 @@ aliases:
 ## Current Notes
 - Likes looting
 - Has formed a close bond with [[Brie Faiseden|Brie]] 
+- Epic Boon - choose between ASI that can exceed 20 or Assassin's Eye feat
 ## Core Info
 | Level | Known World Class | Subclass | Species | Age | Height | Build |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

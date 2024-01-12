@@ -5,7 +5,8 @@ export const useArticle = () => {
   const [article, setArticle] = useState("");
 
   const removeProps = (input: string) => {
-    return input.replace(/^---\s((.+)\s)+---\s/gm, "");
+    const allButProps = input.split("---").pop()
+    return allButProps ? allButProps : ""
   };
 
   const removeLinks = (input: string) => {

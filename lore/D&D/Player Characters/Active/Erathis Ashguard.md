@@ -5,7 +5,7 @@ aliases:
 ## Current Notes
 - Has become disenfranchised with the Northern Kingdom
 - Is adding his discoveries to Mikahana's Tome of Notes
-- Idea for Legendary Enhancement - at 0 HP, psychic detonation - deals large AOE damage and restores Erathis to 50% HP
+- Epic Boon - choose between ASI that can exceed 20 or Selfless Portents feat
 ## Core Info
 | Level | Known World Class | Subclass | Species | Age | Height | Build |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

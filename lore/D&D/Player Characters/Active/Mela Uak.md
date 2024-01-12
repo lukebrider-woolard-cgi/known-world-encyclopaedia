@@ -6,7 +6,7 @@ aliases:
 - Touched the elemental power source in Folkesund and briefly saw a vision of the city's history
 - Compulsive liar flaw does not seem to be coming up much
 - Is actively trying to commune with Nimbor - asking for guidance on what path he should follow
-- Idea for Legendary Enhancement - improved Mak Tar spear, +2 magic weapon and summoned panther avatar can be a source point for spells
+- Epic Boon - choose between ASI that can exceed 20 or Nimbor's Tempest feat
 ## Core Info
 | Level | Known World Class | Subclass | Species | Age | Height | Build |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
