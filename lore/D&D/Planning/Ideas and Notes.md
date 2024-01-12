@@ -2,7 +2,7 @@
 An adventuring group including Darrius Silversong, Ga Nuna, Tutel, and Amalie. They have been hired by Shanair Avento as the competative rivals to the main party who were hired by Dormain Avento. Both groups are to send the Aventos interesting items from Quintessa as part of a competition between the two Thieves Guild leaders.
 ## Arcane Meteorite
 Becomes visible during the journey to Quintessa.
-Will fall into the Hidden Marshes, causing several factions to try and claim it including demons and Spectre Knights. 
+Will fall into the Bloodtree Forest, causing several factions to try and claim it including demons and Spectre Knights. 
 ## Elements fallen from grace in Quintessa
 An outcast group of [[antanai]] still revere the elements, but the majority of their civilisation has become enamoured with arcane magic - and [[Demon Hunters|warlock]] magic in some cases. High Haven now acts as a beacon of elemental power, and this may call to [[Mela Uak]].
 ## Ballthasar has taken over a fortress in the Holds of Vultash

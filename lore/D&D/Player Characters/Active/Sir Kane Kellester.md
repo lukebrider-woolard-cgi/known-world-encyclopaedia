@@ -6,6 +6,7 @@ aliases:
 - Wants to gain a speed boost (movement or action economy) - maybe in Legendary Enhancement
 - Has told the party about his past - the cave-in, his injury, and his dead brother
 - Continues to live to his ideals and bonds
+- Epic Boon - choose between ASI that can exceed 20 or Sun's Radiance feat
 ## Core Info
 | Level | Known World Class | Subclass | Species | Age | Height | Build |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

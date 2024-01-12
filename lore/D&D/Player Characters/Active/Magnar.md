@@ -1,5 +1,6 @@
 ## Current Notes
 - Has so far been open and honest with the party about who he is and why he is on the run
+- Epic Boon - choose between ASI that can exceed 20 or Moon God's Blessing feat
 ## Core Info
 | Level | Known World Class | Subclass | Species | Age | Height | Build |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

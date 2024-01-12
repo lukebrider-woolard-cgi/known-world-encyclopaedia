@@ -9,7 +9,7 @@ function App() {
 
   function ArticleButton(name: string) {
     return (
-      <button onClick={() => findArticle(name)}>{name}</button>
+      <button key={name} onClick={() => findArticle(name)}>{name}</button>
     )
   }
 

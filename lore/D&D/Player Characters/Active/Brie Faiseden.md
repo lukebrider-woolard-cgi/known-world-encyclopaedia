@@ -6,6 +6,7 @@ aliases:
 - Goßmut (similar to Avatar of Mak Tar) - lives within her amplifying her powers (based on Baphomet / Witches' Sabbath) - could develop further into needing to exorcise of accept
 - Has formed a close bond with [[Lydia]]
 - Goßmut has spoken to her for the first time when she was running away from the bovine
+- Epic Boon - choose between ASI that can exceed 20 or 1 level of Warlock to make a pact with Goßmut
 ## Core Info
 | Level | Known World Class | Subclass | Species | Age | Height | Build |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
