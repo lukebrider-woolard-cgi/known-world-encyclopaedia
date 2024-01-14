@@ -12,6 +12,13 @@ Markdown files are created in Obsidian as a part of my personal lore notes.
 
 A Vite React-TypeScript web app is then used to display select items from this lore repository.
 
+### Stack:
+
+- React TypeScript (created using Vite)
+- Tailwind CSS
+- Markdown (Obsidian)
+- GitHub Actions
+
 ### Working with the code:
 
 - Clone the repository.

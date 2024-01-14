@@ -1,12 +1,12 @@
 import { useState } from "react";
-import { articles } from "../constants";
 
 export const useArticle = () => {
   const [article, setArticle] = useState("");
+  const [loading, setLoading] = useState(false);
 
   const removeProps = (input: string) => {
     const allButProps = input.split("---").pop()
-    return allButProps ? allButProps : ""
+    return allButProps ? allButProps : "### Issue parsing markdown!"
   };
 
   const removeLinks = (input: string) => {
@@ -22,20 +22,22 @@ export const useArticle = () => {
     return step2;
   };
 
-  const findArticle = (name: string) => {
-    const markdownFile = articles.find(
-      (article) => article.name === name
-    )?.markdown;
-
-    if (markdownFile !== undefined) {
-      fetch(markdownFile)
+  const findArticle = (path: string) => {
+    setLoading(true);
+    setArticle("");
+    try {
+      fetch(path)
         .then((res) => res.text())
         .then((text) => parseMarkdown(text))
-        .then((text) => setArticle(text));
-    } else {
-      setArticle(`###Article not found!`);
+        .then((text) => {
+          setArticle(text)
+          setLoading(false);
+        });
+    } catch {
+      setArticle(`### Article not found!`);
+      setLoading(false);
     }
   };
 
-  return { article, findArticle };
+  return { article, loading, findArticle };
 };
