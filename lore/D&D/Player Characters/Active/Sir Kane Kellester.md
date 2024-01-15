@@ -8,9 +8,9 @@ aliases:
 - Continues to live to his ideals and bonds
 - Epic Boon - choose between ASI that can exceed 20 or Sun's Radiance feat
 ## Core Info
-| Level | Known World Class | Subclass | Species | Age | Height | Build |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Paladin 7 | [[Demon Hunters|Demon Hunter]] | Oath of the Watchers | [[Human]] | 27 | 5' 11"" | Muscular |
+| Level | Known World Class | Subclass | Species | Age | Height | Build |  |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | ---- |
+| Paladin 7 | [[Demon Hunters\|Demon Hunter]] | Oath of the Watchers | [[Human]] | 27 | 5' 11"" | Muscular |
 ## Milestones
 - [ ] Personal Goal
 - [x] Slay Monsters

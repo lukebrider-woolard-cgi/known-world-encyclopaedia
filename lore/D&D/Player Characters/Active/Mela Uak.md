@@ -5,12 +5,12 @@ aliases:
 ## Current Notes
 - Touched the elemental power source in Folkesund and briefly saw a vision of the city's history
 - Compulsive liar flaw does not seem to be coming up much
-- Is actively trying to commune with Nimbor - asking for guidance on what path he should follow
+- Is actively trying to commune with Nimbor - asking for guidance on what path he should follow - start to indicate that he should find an elemental refuge in these lands
 - Epic Boon - choose between ASI that can exceed 20 or Nimbor's Tempest feat
 ## Core Info
-| Level | Known World Class | Subclass | Species | Age | Height | Build |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Warlock 7<br>Rogue 1 | [[Elementalists|Elementalist]] | Pact of the Genie | [[Olmetek]] | 31 | 6' 4" | Thin |
+| Level | Known World Class | Subclass | Species | Age | Height | Build |  |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | ---- |
+| Warlock 7<br>Rogue 1 | [[Elementalists\|Elementalist]] | Pact of the Genie | [[Olmetek]] | 31 | 6' 4" | Thin |
 ## Milestones
 - [ ] Personal Goal
 - [x] Slay Monsters
