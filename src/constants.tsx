@@ -1,9 +1,42 @@
+// Icons
 import { IconType } from "react-icons";
 import { GiBackup } from "react-icons/gi";
 import { GiMagicShield } from "react-icons/gi";
 import { GiClockwork } from "react-icons/gi";
 import { GiGearHammer } from "react-icons/gi";
 import { GiAbstract024 } from "react-icons/gi";
+
+// Prime Species
+import antanai from "../lore/Species/Antanai.md";
+import bortusken from "../lore/Species/Bortusken.md";
+import human from "../lore/Species/Human.md";
+import kalKrom from "../lore/Species/Kal Krom.md";
+import neandal from "../lore/Species/Neandal.md";
+import olmetek from "../lore/Species/Olmetek.md";
+
+// Magical Sects
+import apothecaries from "../lore/Magical Sects/Apothecaries.md";
+import beastwalkers from "../lore/Magical Sects/Beastwalkers.md";
+import demonHunters from "../lore/Magical Sects/Demon Hunters.md";
+import elementalists from "../lore/Magical Sects/Elementalists.md";
+import mages from "../lore/Magical Sects/Mages.md";
+
+// History
+import preExistence from "../lore/History/Pre-existence - Before the Known World.md";
+import firstAge from "../lore/History/1st Age - Founding.md";
+import secondAge from "../lore/History/2nd Age - Tranquillity.md";
+import thirdAge from "../lore/History/3rd Age - Turmoil.md";
+import fourthAge from "../lore/History/4th Age - Revival.md";
+import fifthAge from "../lore/History/5th Age - Discovery.md";
+
+// Guilds
+import assassins from "../lore/Organisations/Assassin's Guild.md";
+import engineers from "../lore/Organisations/Professions/Engineers.md";
+import thieves from "../lore/Organisations/Thieves' Guild.md";
+
+// General
+import languages from "../lore/General Lore/Languages.md";
+import creatures from "../lore/General Lore/Types of Creatures.md";
 
 export type NavigationItem = {
   name: string;
@@ -13,7 +46,7 @@ export type NavigationItem = {
 
 export type Article = {
   name: string;
-  path: string;
+  markdown: string;
 };
 
 export const navigation: NavigationItem[] = [
@@ -23,27 +56,27 @@ export const navigation: NavigationItem[] = [
     articles: [
       {
         name: "Antanai",
-        path: "../lore/Species/Antanai.md",
+        markdown: antanai,
       },
       {
         name: "Bortusken",
-        path: "../lore/Species/Bortusken.md",
+        markdown: bortusken,
       },
       {
         name: "Human",
-        path: "../lore/Species/Human.md",
+        markdown: human,
       },
       {
         name: "Kal Krom",
-        path: "../lore/Species/Kal Krom.md",
+        markdown: kalKrom,
       },
       {
         name: "Neandal",
-        path: "../lore/Species/Neandal.md",
+        markdown: neandal,
       },
       {
         name: "Olmetek",
-        path: "../lore/Species/Olmetek.md",
+        markdown: olmetek,
       },
     ],
   },
@@ -53,23 +86,23 @@ export const navigation: NavigationItem[] = [
     articles: [
       {
         name: "Apothecaries",
-        path: "../lore/Magical Sects/Apothecaries.md",
+        markdown: apothecaries,
       },
       {
         name: "Beastwalkers",
-        path: "../lore/Magical Sects/Beastwalkers.md",
+        markdown: beastwalkers,
       },
       {
         name: "Demon Hunters",
-        path: "../lore/Magical Sects/Demon Hunters.md",
+        markdown: demonHunters,
       },
       {
         name: "Elementalists",
-        path: "../lore/Magical Sects/Elementalists.md",
+        markdown: elementalists,
       },
       {
         name: "Mages",
-        path: "../lore/Magical Sects/Mages.md",
+        markdown: mages,
       },
     ],
   },
@@ -79,27 +112,27 @@ export const navigation: NavigationItem[] = [
     articles: [
       {
         name: "Pre-Existence",
-        path: "../lore/History/Pre-existence - Before the Known World.md"
+        markdown: preExistence,
       },
       {
         name: "1st Age - Founding",
-        path: "../lore/History/1st Age - Founding.md"
+        markdown: firstAge,
       },
       {
         name: "2nd Age - Tranquillity",
-        path: "../lore/History/2nd Age - Tranquillity.md"
+        markdown: secondAge,
       },
       {
         name: "3rd Age - Turmoil",
-        path: "../lore/History/3rd Age - Turmoil.md"
+        markdown: thirdAge,
       },
       {
         name: "4th Age - Revival",
-        path: "../lore/History/4th Age - Revival.md"
+        markdown: fourthAge,
       },
       {
         name: "5th Age - Discovery",
-        path: "../lore/History/5th Age - Discovery.mdd"
+        markdown: fifthAge,
       },
     ],
   },
@@ -109,15 +142,15 @@ export const navigation: NavigationItem[] = [
     articles: [
       {
         name: "Assassin's Guild",
-        path: "../lore/Organisations/Assassin's Guild.md"
+        markdown: assassins,
       },
       {
         name: "Engineers",
-        path: "../lore/Organisations/Professions/Engineers.md"
+        markdown: engineers,
       },
       {
         name: "Thieves' Guild",
-        path: "../lore/Organisations/Thieves' Guild.md"
+        markdown: thieves,
       },
     ],
   },
@@ -127,11 +160,11 @@ export const navigation: NavigationItem[] = [
     articles: [
       {
         name: "Languages",
-        path: "../lore/General Lore/Languages.md"
+        markdown: languages,
       },
       {
         name: "Types of Creatures",
-        path: "../lore/General Lore/Types of Creatures.md"
+        markdown: creatures,
       },
     ],
   },

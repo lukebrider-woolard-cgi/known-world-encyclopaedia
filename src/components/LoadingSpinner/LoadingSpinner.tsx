@@ -7,6 +7,30 @@ type LoadingSpinnerProps = {
 
 // Based off react-spinners circle-loader
 export function LoadingSpinner({ loading }: LoadingSpinnerProps) {
+  const createAnimation = (): string => {
+    const animationName = "chromatic";
+
+    if (typeof window == "undefined" || !window.document) {
+      return animationName;
+    }
+
+    const styleEl = document.createElement("style");
+    document.head.appendChild(styleEl);
+    const styleSheet = styleEl.sheet;
+
+    const keyFrames = `
+      @keyframes ${animationName} {
+        0% {transform: rotate(0deg)} 0% {color: #9ceb34} 20% {color: #eb3483} 40% {color: #a534eb} 50% {transform: rotate(180deg)} 60% {color: #ebb734} 80% {color: #34eb8f} 100% {transform: rotate(360deg)} 100% {color: #9ceb34}
+      }
+    `;
+
+    if (styleSheet) {
+      styleSheet.insertRule(keyFrames, 0);
+    }
+
+    return animationName;
+  };
+
   const wrapper: React.CSSProperties = {
     display: "inherit",
     position: "relative",
@@ -28,11 +52,11 @@ export function LoadingSpinner({ loading }: LoadingSpinnerProps) {
       transition: "2s",
       top: `${i * 0.7 * 2.5}%`,
       left: `${i * 0.35 * 2.5}%`,
-      animation: `multicolor 1s ${(i * 0.2) / 1}s infinite linear`,
+      animation: `${createAnimation()} 1s ${(i * 0.2) / 1}s infinite linear`,
     };
   };
 
-  if (!loading) {
+  if (loading) {
     return null;
   }
 
