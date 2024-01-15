@@ -25,12 +25,18 @@ export function Sidebar({ fetchArticle }: SidebarProps) {
 
   return (
     <>
-      <a className="sm:hidden fixed cursor-pointer" onClick={() => setSidebarOpen(!sidebarOpen)}>
-        <IconContext.Provider value={{ size: "30" }}>
+      <a
+        className="sm:hidden fixed left-2 top-2 cursor-pointer"
+        onClick={() => setSidebarOpen(!sidebarOpen)}
+      >
+        <IconContext.Provider value={{ style: { backgroundColor: "#1f2937" }, size: "50" }}>
           {sidebarOpen ? <IoClose /> : <GiHamburgerMenu />}
         </IconContext.Provider>
       </a>
-      <div className={`${!sidebarOpen && "hidden"} sm:block flex-none sm:flex-shrink-0 h-full w-full sm:w-72 mt-10 sm:mt-0 overflow-y-auto bg-gray-800`}>
+      <div
+        className={`${!sidebarOpen && "hidden"
+          } sm:block flex-none sm:flex-shrink-0 h-full w-full sm:w-72 mt-10 sm:mt-0 overflow-y-auto bg-gray-800`}
+      >
         {navigation.map((navItem) => {
           return (
             <SidebarItem
@@ -50,23 +56,33 @@ function SidebarItem({ item, handleArticleClick }: SidebarItemProps) {
 
   return (
     <div className="p-4 w-full bg-gray-800 hover:brightness-150">
-      <a className="flex flex-row items-center justify-center cursor-pointer space-around" onClick={() => setDropdownOpen(!dropdownOpen)}>
+      <a
+        className="flex flex-row items-center justify-center cursor-pointer space-around"
+        onClick={() => setDropdownOpen(!dropdownOpen)}
+      >
         <IconContext.Provider value={{ size: "30" }}>
-          <div className="pr-2">
-            {item.icon}
-          </div>
+          <div className="pr-2">{item.icon}</div>
         </IconContext.Provider>
         {item.name}
-        <div className="ml-5 sm:ml-auto">{dropdownOpen ? <FaChevronUp /> : <FaChevronDown />}</div>
-
+        <div className="ml-5 sm:ml-auto">
+          {dropdownOpen ? <FaChevronUp /> : <FaChevronDown />}
+        </div>
       </a>
       {dropdownOpen && (
         <div className="pl-4">
           <ul>
             {item.articles.map((article) => {
               return (
-                <li key={article.name} className="mt-1 py-1 bg-gray-800 text-center sm:text-left hover:brightness-200">
-                  <a className="pl-4 w-full block cursor-pointer" onClick={() => handleArticleClick(article.name, article.path)}>
+                <li
+                  key={article.name}
+                  className="mt-1 py-1 bg-gray-800 text-center sm:text-left hover:brightness-200"
+                >
+                  <a
+                    className="pl-4 w-full block cursor-pointer"
+                    onClick={() =>
+                      handleArticleClick(article.name, article.path)
+                    }
+                  >
                     {article.name}
                   </a>
                 </li>
@@ -78,4 +94,3 @@ function SidebarItem({ item, handleArticleClick }: SidebarItemProps) {
     </div>
   );
 }
-

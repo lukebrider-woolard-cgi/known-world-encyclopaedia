@@ -20,7 +20,7 @@ function App() {
       className="flex h-screen overflow-hidden bg-gray-800 md:bg-arcane-lib bg-cover bg-center bg-no-repeat text-white"
     >
       <Sidebar fetchArticle={fetchArticle} />
-      <div className="grow h-full pt-5 px-5 md:px-20 xl:px-60 overflow-y-auto text-center prose-base">
+      <div className="grow h[calc(100%-3.5rem) sm:h-full mt-14 mb-0 sm:mt-0 sm:pt-5 px-5 md:px-20 xl:px-60 overflow-y-auto text-center prose-base">
         <h1>{header}</h1>
         <LoadingSpinner loading={loading} />
         <Markdown>{article}</Markdown>
