@@ -46,7 +46,7 @@ export type NavigationItem = {
 
 export type Article = {
   name: string;
-  markdown: string;
+  path: string;
 };
 
 export const navigation: NavigationItem[] = [
@@ -56,27 +56,27 @@ export const navigation: NavigationItem[] = [
     articles: [
       {
         name: "Antanai",
-        markdown: antanai,
+        path: antanai,
       },
       {
         name: "Bortusken",
-        markdown: bortusken,
+        path: bortusken,
       },
       {
         name: "Human",
-        markdown: human,
+        path: human,
       },
       {
         name: "Kal Krom",
-        markdown: kalKrom,
+        path: kalKrom,
       },
       {
         name: "Neandal",
-        markdown: neandal,
+        path: neandal,
       },
       {
         name: "Olmetek",
-        markdown: olmetek,
+        path: olmetek,
       },
     ],
   },
@@ -86,23 +86,23 @@ export const navigation: NavigationItem[] = [
     articles: [
       {
         name: "Apothecaries",
-        markdown: apothecaries,
+        path: apothecaries,
       },
       {
         name: "Beastwalkers",
-        markdown: beastwalkers,
+        path: beastwalkers,
       },
       {
         name: "Demon Hunters",
-        markdown: demonHunters,
+        path: demonHunters,
       },
       {
         name: "Elementalists",
-        markdown: elementalists,
+        path: elementalists,
       },
       {
         name: "Mages",
-        markdown: mages,
+        path: mages,
       },
     ],
   },
@@ -112,27 +112,27 @@ export const navigation: NavigationItem[] = [
     articles: [
       {
         name: "Pre-Existence",
-        markdown: preExistence,
+        path: preExistence,
       },
       {
         name: "1st Age - Founding",
-        markdown: firstAge,
+        path: firstAge,
       },
       {
         name: "2nd Age - Tranquillity",
-        markdown: secondAge,
+        path: secondAge,
       },
       {
         name: "3rd Age - Turmoil",
-        markdown: thirdAge,
+        path: thirdAge,
       },
       {
         name: "4th Age - Revival",
-        markdown: fourthAge,
+        path: fourthAge,
       },
       {
         name: "5th Age - Discovery",
-        markdown: fifthAge,
+        path: fifthAge,
       },
     ],
   },
@@ -142,15 +142,15 @@ export const navigation: NavigationItem[] = [
     articles: [
       {
         name: "Assassin's Guild",
-        markdown: assassins,
+        path: assassins,
       },
       {
         name: "Engineers",
-        markdown: engineers,
+        path: engineers,
       },
       {
         name: "Thieves' Guild",
-        markdown: thieves,
+        path: thieves,
       },
     ],
   },
@@ -160,11 +160,11 @@ export const navigation: NavigationItem[] = [
     articles: [
       {
         name: "Languages",
-        markdown: languages,
+        path: languages,
       },
       {
         name: "Types of Creatures",
-        markdown: creatures,
+        path: creatures,
       },
     ],
   },

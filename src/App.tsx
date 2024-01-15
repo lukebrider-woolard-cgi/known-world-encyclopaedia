@@ -17,14 +17,10 @@ function App() {
 
   return (
     <div
-      className="flex h-screen overflow-hidden bg-cover bg-center bg-no-repeat text-white"
-      style={{
-        backgroundImage:
-          "linear-gradient(rgba(31, 41, 55, 0.75), rgba(31, 41, 55, 0.75)), url('/known-world-encyclopaedia/background.jpg')",
-      }}
+      className="flex h-screen overflow-hidden bg-gray-800 md:bg-arcane-lib bg-cover bg-center bg-no-repeat text-white"
     >
       <Sidebar fetchArticle={fetchArticle} />
-      <div className="grow h-full pt-5 px-60 overflow-y-auto text-center prose-base">
+      <div className="grow h-full pt-5 px-5 md:px-20 xl:px-60 overflow-y-auto text-center prose-base">
         <h1>{header}</h1>
         <LoadingSpinner loading={loading} />
         <Markdown>{article}</Markdown>
