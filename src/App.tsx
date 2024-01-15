@@ -17,7 +17,7 @@ function App() {
 
   return (
     <div
-      className="flex h-screen overflow-hidden bg-cover bg-center bg-no-repeat text-white md:bg-arcane-lib bg-gray-800"
+      className="flex h-screen overflow-hidden bg-gray-800 md:bg-arcane-lib bg-cover bg-center bg-no-repeat text-white"
     >
       <Sidebar fetchArticle={fetchArticle} />
       <div className="grow h-full pt-5 px-5 md:px-20 xl:px-60 overflow-y-auto text-center prose-base">

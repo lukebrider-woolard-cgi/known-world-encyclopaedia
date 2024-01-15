@@ -30,7 +30,7 @@ export function Sidebar({ fetchArticle }: SidebarProps) {
           {sidebarOpen ? <IoClose /> : <GiHamburgerMenu />}
         </IconContext.Provider>
       </a>
-      <div className={`${!sidebarOpen && "hidden"} sm:block flex-none h-full w-full mt-10 sm:w-72 sm:flex-shrink-0 sm:mt-0 overflow-y-auto bg-gray-800`}>
+      <div className={`${!sidebarOpen && "hidden"} sm:block flex-none sm:flex-shrink-0 h-full w-full sm:w-72 mt-10 sm:mt-0 overflow-y-auto bg-gray-800`}>
         {navigation.map((navItem) => {
           return (
             <SidebarItem
