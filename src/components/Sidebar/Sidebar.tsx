@@ -35,7 +35,7 @@ export function Sidebar({ fetchArticle }: SidebarProps) {
       </a>
       <div
         className={`${!sidebarOpen && "hidden"
-          } sm:block flex-none sm:flex-shrink-0 h-full w-full sm:w-72 mt-10 sm:mt-0 overflow-y-auto bg-gray-800`}
+          } sm:block h[calc(100%-3.5rem) sm:h-full mt-14 sm:mt-0 flex-none sm:flex-shrink-0 w-full sm:w-72 overflow-y-auto bg-gray-800`}
       >
         {navigation.map((navItem) => {
           return (

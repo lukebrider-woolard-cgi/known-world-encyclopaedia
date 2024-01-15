@@ -4,7 +4,7 @@
 ## Core Info
 | Level | Known World Class | Subclass | Species | Age | Height | Build |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Cleric 7 | [[Apothecaries|Apothecary]] | Twilight Domain | [[Neandal]] | 45 | 6' 0" | Toned |
+| Cleric 7 | [[Apothecaries\|Apothecary]] | Twilight Domain | [[Neandal]] | 45 | 6' 0" | Toned |
 ## Milestones
 - [ ] Personal Goal
 - [x] Slay Monsters
