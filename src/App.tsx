@@ -12,7 +12,6 @@ function App() {
 
   function fetchArticle(name: string, path: string) {
     setHeader(name);
-    console.log(path);
     findArticle(path);
   }
 
