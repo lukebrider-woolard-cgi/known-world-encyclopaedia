@@ -50,7 +50,7 @@ function SidebarItem({ item, fetchArticle }: SidebarItemProps) {
             {item.articles.map((article) => {
               return (
                 <li key={article.name} className="mt-1 py-1 bg-gray-800 hover:brightness-200">
-                  <a className="pl-4 w-full block cursor-pointer" onClick={() => fetchArticle(article.name, article.path)}>
+                  <a className="pl-4 w-full block cursor-pointer" onClick={() => fetchArticle(article.name, article.markdown)}>
                     {article.name}
                   </a>
                 </li>
