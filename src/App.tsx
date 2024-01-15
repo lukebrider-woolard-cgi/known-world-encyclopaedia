@@ -20,7 +20,7 @@ function App() {
       className="flex h-screen overflow-hidden bg-cover bg-center bg-no-repeat text-white"
       style={{
         backgroundImage:
-          "linear-gradient(rgba(31, 41, 55, 0.75), rgba(31, 41, 55, 0.75)), url('../background.jpg')",
+          "linear-gradient(rgba(31, 41, 55, 0.75), rgba(31, 41, 55, 0.75)), url('/background.jpg')",
       }}
     >
       <Sidebar fetchArticle={fetchArticle} />
