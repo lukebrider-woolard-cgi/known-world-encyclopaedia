@@ -56,7 +56,7 @@ export function LoadingSpinner({ loading }: LoadingSpinnerProps) {
     };
   };
 
-  if (loading) {
+  if (!loading) {
     return null;
   }
 
