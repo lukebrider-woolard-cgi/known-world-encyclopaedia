@@ -11,8 +11,9 @@ Notable Examples:
 - Beringcia - gorilla-leopard hybrid that live in mountainous regions
 - Amphibian Folk - live in Silverleaf Forest - at war with the rat folk
 - Rat Folk - live in Silverleaf Forest - at war with the amphibian folk
-- Ruffilians - feathered lemurs that live in The Overgrowth
+- Ruffilians - feathered lemurs that live in the Overgrowth
 - Swinious - proto-[[bortusken]] that still exist today in the Savage Hills
+- Serefawn - small deer with deciduous tree antlers
 #### Prime Species
 The most intelligent species in the Known World. Defined as a group who have established a stable civilisation with a rich culture. 
 
