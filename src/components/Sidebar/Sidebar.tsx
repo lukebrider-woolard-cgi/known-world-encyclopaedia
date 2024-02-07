@@ -26,16 +26,18 @@ export function Sidebar({ fetchArticle }: SidebarProps) {
   return (
     <>
       <a
-        className="sm:hidden fixed left-2 top-2 cursor-pointer"
+        className="md:hidden fixed left-2 top-2 cursor-pointer"
         onClick={() => setSidebarOpen(!sidebarOpen)}
       >
-        <IconContext.Provider value={{ style: { backgroundColor: "#1f2937" }, size: "50" }}>
+        <IconContext.Provider
+          value={{ style: { backgroundColor: "#1f2937" }, size: "50" }}
+        >
           {sidebarOpen ? <IoClose /> : <GiHamburgerMenu />}
         </IconContext.Provider>
       </a>
       <div
         className={`${!sidebarOpen && "hidden"
-          } sm:block h[calc(100%-3.5rem) sm:h-full mt-14 sm:mt-0 flex-none sm:flex-shrink-0 w-full sm:w-72 overflow-y-auto bg-gray-800`}
+          } md:block h[calc(100%-3.5rem)] md:h-full mt-14 md:mt-0 flex-none md:flex-shrink-0 w-full md:w-72 overflow-y-auto bg-gray-800`}
       >
         {navigation.map((navItem) => {
           return (
