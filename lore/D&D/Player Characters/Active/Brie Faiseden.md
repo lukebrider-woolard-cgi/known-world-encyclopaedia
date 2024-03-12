@@ -6,11 +6,11 @@ aliases:
 - Goßmut (similar to Avatar of Mak Tar) - lives within her amplifying her powers (based on Baphomet / Witches' Sabbath) - could develop further into needing to exorcise of accept
 - Has formed a close bond with [[Lydia]]
 - Goßmut has spoken to her for the first time when she was running away from the bovine
-- Epic Boon - choose between ASI that can exceed 20 or 1 level of Warlock to make a pact with Goßmut
+- Epic Boon - chose to make a Warlock pact with Goßmut - pact of the blade, can now fight with Ephe's sword
 ## Core Info
-| Level | Known World Class | Subclass | Species | Age | Height | Build |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Sorcerer 6 | [[Mages\|Witch]] | Shadow Magic | [[Human]] | 15 | 5' 2" | Thin |
+|   Level    | Known World Class |   Subclass   |  Species  | Age | Height | Build |
+| :--------: | :---------------: | :----------: | :-------: | :-: | :----: | :---: |
+| Sorcerer 6<br>Warlock 1 | [[Mages\|Witch]]  | Shadow Magic | [[Human]] | 16  | 5' 2"  | Thin  |
 ## Milestones
 - [ ] Personal Goal
 - [x] Slay Monsters
@@ -26,7 +26,7 @@ aliases:
 
 | Durability | |
 |---|---|
-| HP | 44 |
+| HP | 52 |
 | HP Mods | can avoid 0 HP |
 | AC | 11 |
 | AC Mods |  |

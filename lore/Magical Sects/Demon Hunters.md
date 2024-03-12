@@ -11,11 +11,12 @@ After the war, these leaders would join together to form a sacred order of demon
 To this day, demon hunters are highly respected warriors and metalworkers, travelling the world in search of the corruption of demons. However, despite their skills and protections, their task is incredibly dangerous - it is rare for a demon hunter to reach old age. It is also a task that, of late, has become a thankless one. More often than not, demon hunters are seen as paranoid fearmongers. They are sometimes even the focus of superstition, as whispers circulate that the arrival of a demon hunter heralds an approaching doom.  
 ## Organisation:
 Eastsun lies within the Northern Kingdom, and all demon hunters are recognised officially as knights. Young demon hunters who join the order are assigned to squire for an experienced demon hunter until they prove themselves, at which point they will be knighted by their master. Those who are found to be better suited to labour rather than combat are enrolled as apprentice sun-smiths which, though less prestigious, is no less respected by the order. When operating outside of Eastsun demon hunters mostly work alone. But, inside their holy grounds each knight is attended by a retinue of servants. These servants look after their weapons and armour when not in use, anointing them with holy oils. They also dress the demon hunter and will shadow their master around Eastsun, shrouding them in incense and acting as scribes and dogsbodies.  
-Despite being in the middle of the desert, Eastsun is a veritable paradise with amenities unseen in most parts of the world. The underground barracks are spacious and comfortable, complete with hot baths and lavish lounges. Only the best food and drink is available, and demon hunters rarely want for anything. This respite serves as a metaphor for the calm and warming embrace of the sun and is a reminder of the fruits of the hard-fought peace that the demon hunters strive to maintain.    
+Despite being in the middle of the desert, Eastsun is a veritable paradise with amenities unseen in most parts of the world. The underground barracks are spacious and comfortable, complete with hot baths and lavish lounges. Only the best food and drink is available, and demon hunters rarely want for anything. This respite serves as a metaphor for the calm and warming embrace of the sun and is a reminder of the fruits of the hard-fought peace that the demon hunters strive to maintain. 
+
 As a knightly order, they of course swear an oath upon their ascension:
-**Embrace the light.** _In all things, care for and protect those who hold good and honest lives._
-**And be its beacon.** _Be as the sun - a radiant and shining example of virtue and purity._
-**Against the night.** _Stand firm against the wicked, the heretic, and the demon._
+- **Embrace the light.** _In all things, care for and protect those who hold good and honest lives._
+- **And be its beacon.** _Be as the sun - a radiant and shining example of virtue and purity._
+- **Against the night.** _Stand firm against the wicked, the heretic, and the demon._
 ## Naming:
 As members of an order of knights of the Northern Kingdom each demon hunter is titled either Sir or Dame.  
 ## Dark Path - Warlocks:

@@ -6,11 +6,11 @@ aliases:
 - Touched the elemental power source in Folkesund and briefly saw a vision of the city's history
 - Compulsive liar flaw does not seem to be coming up much
 - Is actively trying to commune with Nimbor - asking for guidance on what path he should follow - start to indicate that he should find an elemental refuge in these lands
-- Epic Boon - choose between ASI that can exceed 20 or Nimbor's Tempest feat
+- Epic Boon - chose the Nimbor's Tempest feat
 ## Core Info
 | Level | Known World Class | Subclass | Species | Age | Height | Build |  |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | ---- |
-| Warlock 7<br>Rogue 1 | [[Elementalists\|Elementalist]] | Pact of the Genie | [[Olmetek]] | 31 | 6' 4" | Thin |
+| Warlock 7<br>Rogue 1 | [[Elementalists\|Elementalist]] | Pact of the Genie | [[Olmetek]] | 32 | 6' 4" | Thin |
 ## Milestones
 - [ ] Personal Goal
 - [x] Slay Monsters
@@ -20,7 +20,7 @@ aliases:
 #### Abilities
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 8 | 17 | 14 | 8 | 11 | 16 |
+| 8 | 18 | 14 | 8 | 11 | 16 |
 
 <br>
 
@@ -28,7 +28,7 @@ aliases:
 |---|---|
 | HP | 59 |
 | HP Mods |  |
-| AC | 17 |
+| AC | 18 |
 | AC Mods |  |
 
 <br>
@@ -59,6 +59,7 @@ None
 	- Skirmisher
 - Feats
 	- Actor - *adv. on Deception and Performance when pretending to be someone else*
+	- Nimbor's Tempest - *adv. on first attack if flew from above target*
 - Strengths
 	- 120 ft. magical darkvision
 	- Sneak Attack

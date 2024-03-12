@@ -1,4 +1,4 @@
-*Windsweep Plateau - Northern Kingdom*
+*Windsweep Plateau - Norcernwere*
 
 | Type | Known For | Chief Exports | Theme | Total Pop. | Status |
 |:---:|:---:|:---:|:---:|:---:|:---:|

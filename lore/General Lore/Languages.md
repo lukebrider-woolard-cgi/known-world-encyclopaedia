@@ -3,7 +3,7 @@ Common - the common tongue
 [[Human]]:
 - Norcern - the language of the Northern Kingdom
 - Refugean - the language of Refuge
-- Olivencian - the language of Tierra de Olivencia
+- Olivencian - the language of Olivencia
 - Archaic - the original [[human]] language still used in parts of southern Elencern
 
 [[Neandal]]:

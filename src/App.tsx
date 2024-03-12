@@ -24,7 +24,7 @@ function App() {
         <h1>{header}</h1>
         <LoadingSpinner loading={loading} />
         <Markdown>{article}</Markdown>
-        <i>The Known World© - Luke Brider-Woolard 2013</i>
+        <i>The Known World© - Luke Brider-Woolard 2013-2024</i>
       </div>
     </div>
   );
