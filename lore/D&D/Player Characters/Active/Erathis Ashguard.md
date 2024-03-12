@@ -5,11 +5,11 @@ aliases:
 ## Current Notes
 - Has become disenfranchised with the Northern Kingdom
 - Is adding his discoveries to Mikahana's Tome of Notes
-- Epic Boon - choose between ASI that can exceed 20 or Selfless Portents feat
+- Epic Boon - chose to increase Intelligence
 ## Core Info
 | Level | Known World Class | Subclass | Species | Age | Height | Build |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Wizard 8 | [[Mages\|Mage]] | School of Divination | [[Human]] | 37 | 5' 11" | Thin |
+| Wizard 8 | [[Mages\|Mage]] | School of Divination | [[Human]] | 38 | 5' 11" | Thin |
 ## Milestones
 - [ ] Personal Goal
 - [x] Slay Monsters
@@ -19,7 +19,7 @@ aliases:
 #### Abilities
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 6 | 12 | 14 | 20 | 12 | 14 |
+| 6 | 12 | 14 | 22 | 12 | 14 |
 
 <br>
 
@@ -35,7 +35,7 @@ aliases:
 | Senses | |
 |---|---|
 | Passive Perception | 11 |
-| Passive Investigation | 18 |
+| Passive Investigation | 19 |
 | Passive Insight | 14 |
 
 <br>

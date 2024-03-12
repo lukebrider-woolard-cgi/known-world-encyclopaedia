@@ -6,11 +6,11 @@ aliases:
 - Wants to gain a speed boost (movement or action economy) - maybe in Legendary Enhancement
 - Has told the party about his past - the cave-in, his injury, and his dead brother
 - Continues to live to his ideals and bonds
-- Epic Boon - choose between ASI that can exceed 20 or Sun's Radiance feat
+- Epic Boon - chose the Sun's Radiance feat
 ## Core Info
 | Level | Known World Class | Subclass | Species | Age | Height | Build |  |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | ---- |
-| Paladin 7 | [[Demon Hunters\|Demon Hunter]] | Oath of the Watchers | [[Human]] | 27 | 5' 11"" | Muscular |
+| Paladin 7 | [[Demon Hunters\|Demon Hunter]] | Oath of the Watchers | [[Human]] | 28 | 5' 11"" | Muscular |
 ## Milestones
 - [ ] Personal Goal
 - [x] Slay Monsters
@@ -56,6 +56,7 @@ aliases:
 	- Front Line
 - Feats
 	- Mage Slayer - *good when in melee with casters*
+	- Sun's Radiance - *force an enemy to roll attack with disadvantage + can radiant explode*
 - Strengths
 	- Aura of Protection - *allies in 10 ft. have +3 to saving throws*
 	- Watcher's Will - *can give 3 creatures advantage on INT, WIS, and CHA saving throws*

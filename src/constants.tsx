@@ -20,6 +20,7 @@ import beastwalkers from "../lore/Magical Sects/Beastwalkers.md";
 import demonHunters from "../lore/Magical Sects/Demon Hunters.md";
 import elementalists from "../lore/Magical Sects/Elementalists.md";
 import mages from "../lore/Magical Sects/Mages.md";
+import acolytes from "../lore/Magical Sects/Acolytes.md";
 
 // History
 import preExistence from "../lore/History/Pre-existence - Before the Known World.md";
@@ -50,6 +51,20 @@ export type Article = {
 };
 
 export const navigation: NavigationItem[] = [
+  {
+    name: "General Lore",
+    icon: <GiAbstract024 />,
+    articles: [
+      {
+        name: "Languages",
+        path: languages,
+      },
+      {
+        name: "Types of Creatures",
+        path: creatures,
+      },
+    ],
+  },
   {
     name: "Prime Species",
     icon: <GiBackup />,
@@ -104,6 +119,10 @@ export const navigation: NavigationItem[] = [
         name: "Mages",
         path: mages,
       },
+      {
+        name: "Acolytes",
+        path: acolytes,
+      }
     ],
   },
   {
@@ -151,20 +170,6 @@ export const navigation: NavigationItem[] = [
       {
         name: "Thieves' Guild",
         path: thieves,
-      },
-    ],
-  },
-  {
-    name: "General Lore",
-    icon: <GiAbstract024 />,
-    articles: [
-      {
-        name: "Languages",
-        path: languages,
-      },
-      {
-        name: "Types of Creatures",
-        path: creatures,
       },
     ],
   },

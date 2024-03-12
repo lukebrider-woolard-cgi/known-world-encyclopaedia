@@ -1,8 +1,8 @@
-*Greenhart - Northern Kingdom*
+*Greenhart - Norcernwere*
 
 | Type | Trade | Wealth | Population | Staples | Exports | Status |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Rural Town | Agriculture Trade Hub | Moderate | ~1250 | Honey Mead | Farm Produce | Neutral |
+| Town | Agriculture Trade Hub | Moderate | ~1250 | Honey Mead | Farm Produce | Neutral |
 ## Notable Locations
 #### Town Hold
 Location - On top of a small bluff on the east side of the town
@@ -31,7 +31,7 @@ An old fort that has fallen into disrepair. It was used as a garrison during the
 #### Encountered NPCs
 | Title | Name | Species | Gender | Age | Character | Personality and Voice Notes | Status |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  | Pettorich Silversight | [[Human]] | Male | Elder | Advisor to three generations of Oaksprings - was not interested in the war | Qizened but caring | Alive |
+|  | Pettorich Silversight | [[Human]] | Male | Elder | Advisor to three generations of Oaksprings - was not interested in the war | Wizened but caring | Alive |
 |  | Mathius Elmbrew | [[Human]] | Male | Adult | Not a serious mage who is trying to improve the local mead recipe with his alchemy skills - has fallen for Herilla | Cool and charismatic | Alive |
 |  | Sybil | [[Human]] | Female | Teen | Senior scribe studying under Pettorich. Writing her dissertation on Lady Oakspring's struggles with taking on leadership at a young age | Energetic and eager | Alive |
 |  | Quinten | [[Human]] | Male | Adult | Antique dealer who buys and sells art | Fake posh | Alive |

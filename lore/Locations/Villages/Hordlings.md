@@ -1,4 +1,4 @@
-*Greenhart - Northern Kingdom*
+*Greenhart - Norcernwere*
 
 | Type | Trade | Wealth | Population | Staples | Exports | Status |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

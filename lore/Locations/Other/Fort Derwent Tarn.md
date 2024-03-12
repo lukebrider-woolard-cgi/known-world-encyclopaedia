@@ -1,4 +1,4 @@
-*The Belt Mountains - Northern Kingdom*
+*The Belt Mountains - Norcernwere*
 
 | Type | Trade | Wealth | Population | Staples | Exports | Status |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|

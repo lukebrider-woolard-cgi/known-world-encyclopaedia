@@ -1,10 +1,10 @@
 ## Current Notes
 - Has so far been open and honest with the party about who he is and why he is on the run
-- Epic Boon - choose between ASI that can exceed 20 or Moon God's Blessing feat
+- Epic Boon - chose the Moon God's Blessing feat
 ## Core Info
 | Level | Known World Class | Subclass | Species | Age | Height | Build |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Cleric 7 | [[Apothecaries\|Apothecary]] | Twilight Domain | [[Neandal]] | 45 | 6' 0" | Toned |
+| Cleric 7 | [[Apothecaries\|Apothecary]] | Twilight Domain | [[Neandal]] | 46 | 6' 0" | Toned |
 ## Milestones
 - [ ] Personal Goal
 - [x] Slay Monsters
@@ -51,7 +51,7 @@ None
 	- Frontline
 	- Support
 - Feats
-	- None
+	- Moon God's Blessing - *can swap position with Moonbeam spell as bonus action*
 - Strengths
 	- Strong in dim light or darkness - can see and fly
 	- Can grant strong darkvision to three others

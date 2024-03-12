@@ -1,4 +1,4 @@
-*Windsweep Plateau - Northern Kingdom*
+*Windsweep Plateau - Norcernwere*
 
 | Type | Trade | Wealth | Population | Staples | Exports | Status |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
