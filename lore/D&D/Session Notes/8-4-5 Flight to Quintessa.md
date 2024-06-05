@@ -1,4 +1,4 @@
-*Barleyfest-Darkeneve - year 4 - [[5th Age - Discovery|5th Age]]* 
+*Barleyfest-Darkeneve - year 4 - [[5th Age|5th Age]]* 
 ## Abridged Session Notes
 * On the evening that the skyship [[Skyship Albatross|Albatross]] sets sail, Captain Varnis puts on a welcome feast. <mark>The party each receive a bespoke meal organised by Dormian.</mark>
 * Also on board as passengers is Lorekeeper Rior Dragonhearth, Darrius and the Rogues (Ga Nuna, Tutel, and Amalie), and a monster hunting couple called Hugo and Nestar.

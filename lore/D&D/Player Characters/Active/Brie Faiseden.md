@@ -8,9 +8,9 @@ aliases:
 - Goßmut has spoken to her for the first time when she was running away from the bovine
 - Epic Boon - chose to make a Warlock pact with Goßmut - pact of the blade, can now fight with Ephe's sword
 ## Core Info
-|   Level    | Known World Class |   Subclass   |  Species  | Age | Height | Build |
-| :--------: | :---------------: | :----------: | :-------: | :-: | :----: | :---: |
-| Sorcerer 6<br>Warlock 1 | [[Mages\|Witch]]  | Shadow Magic | [[Human]] | 16  | 5' 2"  | Thin  |
+|          Level          | Known World Class |   Subclass   |  Species  | Age | Height | Build |
+| :---------------------: | :---------------: | :----------: | :-------: | :-: | :----: | :---: |
+| Sorcerer 6<br>Warlock 1 | [[Mages\|Witch]]<br>[[Acolytes\|Acolyte]]  | Shadow Magic | [[Human]] | 16  | 5' 2"  | Thin  |
 ## Milestones
 - [ ] Personal Goal
 - [x] Slay Monsters

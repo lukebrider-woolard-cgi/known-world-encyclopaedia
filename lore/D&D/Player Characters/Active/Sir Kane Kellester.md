@@ -50,7 +50,8 @@ aliases:
 - Demonic
 #### Lingering Injuries
 - Nerve Damage (acid) - *effects the DC of touch-based checks*
-- Broken Ribs - *breathing heavily hurts*
+- Broken Ribs (bludgeoning) - *breathing heavily hurts*
+- Sterile (slashing)
 ## Mechanics
 - Party Role
 	- Front Line

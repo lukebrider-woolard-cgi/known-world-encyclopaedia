@@ -1,4 +1,4 @@
-*Firefall - year 4 - [[5th Age - Discovery|5th Age]]* 
+*Firefall - year 4 - [[5th Age|5th Age]]* 
 ## Abridged Session Notes
 * Arrive in the village of [[Boulder's Creek]]. Meet with Gracho and purchase horses.
 * At night, [[Erathis Ashguard|Erathis]] uses a protection spell around the party’s campsite. [[Brie Faiseden|Brie]] and [[Lydia]] perform alchemy - craft Aloe Ointment and discover Cepholon Beast blood has poison resistance property.

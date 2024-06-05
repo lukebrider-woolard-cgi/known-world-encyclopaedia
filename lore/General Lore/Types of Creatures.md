@@ -4,7 +4,7 @@ Normal animals. The Known World contains a myriad selection of creatures from ac
 #### Magical Beasts
 Normal animals that have been partially empowered by arcane mana. They are usually larger than their kin and often establish themselves as the dominant member of their collective group or territory. It is these magical beasts that are involved in [[Beastwalkers|beastwalker]] rituals.
 #### Aberrants
-Animal-like creatures with arcane mutations. These creatures tend to appear near mana hotspots and display heightened intelligence - with some even being able to create basic tools and weapons, or even simple languages or mimicry. Some even become intelligent enough to be on par with members of the Prime Species. It is theorised that the hominid species of the Known World all evolved from a common aberrant ancestor.
+Animal-like creatures with arcane mutations. These creatures tend to appear near mana hotspots and display heightened intelligence - with some even being able to create basic tools and weapons, or even simple languages or mimicry. Some even become intelligent enough to be on par with members of the Prime Species. It is theorised that the hominid prime species of the Known World all evolved from a common aberrant ancestor.
 
 **Notable Examples:**
 - Unknown early hominid from which the humanoid prime species evolved
@@ -77,11 +77,12 @@ Demons formed by the consumption of a single soul.
 - Shattered - possessed corpses that have been hideously altered and reformed into deadly ambushers - usually found in cold climates where the bodies do not readily decompose.
 - Deathgaze Priests - lesser demon lieutenants that can project a debilitating aura and can render mortals unconscious with a single glance.
 - Flayers - warrior demons devoted to the Harbinger Ragellus. They wield deadly weapons and often form the primary foot soldier ranks of demonic armies. 
+- Incubi and Succubi - demons devoted to the Harbinger Nuxille that seduce mortals so that their souls can be possessed.
 #### Greater Demons
 Demons formed by the consumption of multiple souls. 
 
 **Notable Examples:**
-- Besiegers - living artillery platforms that hurl hellfire, corrosive bile, or pestilent fog projectiles from their gapping jaws.
+- Besiegers - living artillery platforms that hurl hellfire, corrosive bile, or pestilent fog projectiles from their gaping jaws.
 - Infernal Constructs - mechanical monstrosities created in the material plane and then animated by a greater demon.
 #### The Harbingers
 The commanders of the demonic hordes. Each represents negative, destructive, or otherwise sinful domains, and so their names have become curse words in the Known World. 

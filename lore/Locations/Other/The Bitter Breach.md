@@ -6,7 +6,7 @@
 ## Notable Locations
 #### Folkesund
 Location - Deep underground beneath the mountain pass
-The ruins of an ancient, underground civilisation that likely existed in the [[2nd Age - Tranquillity]][[2nd Age - Tranquillity|2nd Age]] or [[3rd Age - Turmoil|3rd Age]]. 
+The ruins of an ancient, underground civilisation that likely existed in the [[2nd Age]][[2nd Age|2nd Age]] or [[3rd Age|3rd Age]]. 
 ## Important NPCs
 #### Encountered NPCs
 | Title | Name | Species | Gender | Age | Character | Personality and Voice Notes | Status |

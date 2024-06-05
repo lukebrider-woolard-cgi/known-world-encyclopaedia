@@ -91,6 +91,8 @@ None
 - Followed by and cares for a group of ghostly orphans that she avenged
 #### Current Story Notes
 - Trying to understand who betrayed her - only clue was that she was told to seek out [[Erathis Ashguard|Erathis]]
+- Continue training Brie with melee combat
+- Wants to begin journaling reagents of the new continue
 #### Relationships
 - Seb, Ava, and Lily (orphans)
 - Clara (contact - barmaid in Twynburh)

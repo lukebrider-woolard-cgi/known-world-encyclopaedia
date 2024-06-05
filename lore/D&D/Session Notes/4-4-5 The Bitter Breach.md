@@ -1,4 +1,4 @@
-*Firstsow-Firefall - year 4 - [[5th Age - Discovery|5th Age]]* 
+*Firstsow-Firefall - year 4 - [[5th Age|5th Age]]* 
 ## Abridged Session Notes
 * Spent six days in [[Fort Derwent Tarn]]. Most investigated surroundings. Found out the fort is [[Neandal]] ruin with crypt. 
 * <mark>[[Brie Faiseden|Brie]] has nightmare about being sacrificed by Bovine. Wakes to find Goßmut ritual. Keeps quiet about the dream.</mark>

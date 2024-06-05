@@ -1,4 +1,4 @@
-*Lighteneve-Firstsow - year 4 - [[5th Age - Discovery|5th Age]]* 
+*Lighteneve-Firstsow - year 4 - [[5th Age|5th Age]]* 
 ## Abridged Session Notes
 * <mark>Escaping Twynburh at night.</mark> The party takes great efforts to disguise themselves and develop a backstory for their new personas. 
 * <mark>Thieves Guild smuggles the party out of the city in stagecoaches.</mark> The Chartered Company is hired to take them onwards towards [[the Bitter Breach]] - 100 miles to the northwest. [[Lydia]] requests newspapers.
