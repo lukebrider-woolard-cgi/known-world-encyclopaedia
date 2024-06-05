@@ -20,10 +20,12 @@ function App() {
       className="flex h-screen overflow-hidden bg-gray-800 md:bg-arcane-lib bg-cover bg-center bg-no-repeat text-white"
     >
       <Sidebar fetchArticle={fetchArticle} />
-      <div className="grow h[calc(100%-3.5rem)] md:h-full mt-14 md:mt-0 px-5 md:px-20 xl:px-60 overflow-y-auto text-center prose-base">
-        <h1>{header}</h1>
+      <div className="grow h[calc(100%-3.5rem)] md:h-full mt-14 md:mt-0 px-5 md:px-20 xl:px-60 2xl:px-96 overflow-y-auto text-center prose-base">
+        <h1 className="mt-3 font-lora">{header}</h1>
         <LoadingSpinner loading={loading} />
-        <Markdown>{article}</Markdown>
+        <div className="text-left">
+          <Markdown>{article}</Markdown>
+        </div>
         <i>The Known World© - Luke Brider-Woolard 2013-2024</i>
       </div>
     </div>
