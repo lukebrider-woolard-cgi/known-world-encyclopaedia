@@ -1,4 +1,4 @@
-*Barleyfest-Darkeneve - year 4 - [[5th Age|5th Age]]* 
+*Refuge Archipelago. Barleyfest-Darkeneve - year 4 - 5th Age* 
 ## Abridged Session Notes
 * On the evening that the skyship [[Skyship Albatross|Albatross]] sets sail, Captain Varnis puts on a welcome feast. <mark>The party each receive a bespoke meal organised by Dormian.</mark>
 * Also on board as passengers is Lorekeeper Rior Dragonhearth, Darrius and the Rogues (Ga Nuna, Tutel, and Amalie), and a monster hunting couple called Hugo and Nestar.
@@ -17,8 +17,8 @@
 * Furgin - [[antanai]] felonil emissary.
 * Zorlek - [[antanai]] xanthell emissary.
 * Hugo and Nestar - [[human]] couple and monster hunters.
+* Lorekeeper Rior Dragonhearth - [[human]] mage and travelling lorekeeper
 ## Character Development
 * [[Magnar]] begins to cement himself into the party. 
 ## Loot Acquired
 * Komeklion parts - acid sac, two phials of blood, a bag of teeth, and the head (as proof of the kill).
-## Links

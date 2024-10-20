@@ -1,36 +1,23 @@
 import { useState } from "react";
 
 export const useArticle = () => {
-  const [article, setArticle] = useState("");
+  const [title, setTitle] = useState("");
+  const [article, setArticle] = useState(
+    "# Welcome to the Encyclopaedia of the Known World"
+  );
   const [loading, setLoading] = useState(false);
-
-  const removeProps = (input: string) => {
-    const allButProps = input.split("---").pop()
-    return allButProps ? allButProps : "### Issue parsing markdown!"
-  };
-
-  const removeLinks = (input: string) => {
-    return input
-      .replace(/\[\[.+\|/gm, "")
-      .replace(/\[\[/gm, "")
-      .replace(/\]\]/gm, "");
-  };
-
-  const parseMarkdown = (input: string) => {
-    const step1 = removeProps(input);
-    const step2 = removeLinks(step1);
-    return step2;
-  };
 
   const findArticle = (path: string) => {
     setLoading(true);
+    setTitle("");
     setArticle("");
     try {
       fetch(path)
         .then((res) => res.text())
-        .then((text) => parseMarkdown(text))
         .then((text) => {
-          setArticle(text)
+          const { title, article } = extractTitle(text);
+          setTitle(title);
+          setArticle(article);
           setLoading(false);
         });
     } catch {
@@ -39,5 +26,13 @@ export const useArticle = () => {
     }
   };
 
-  return { article, loading, findArticle };
+  return { title, article, loading, findArticle };
 };
+
+function extractTitle(articleText: string): { title: string; article: string } {
+  const result = articleText.split(/(^#[\w\s]+\s)/);
+  const title = result[1].length > 0 ? result[1].slice(1).trim() : "";
+  const article = result[2].length > 0 ? result[2] : "";
+
+  return { title, article };
+}

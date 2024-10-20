@@ -14,8 +14,8 @@ aliases:
 ## Milestones
 - [ ] Personal Goal
 - [x] Slay Monsters
-- [ ] Story Progression
-- [ ] Other
+- [x] Story Progression
+- [x] Other
 ## Stats
 #### Abilities
 | STR | DEX | CON | INT | WIS | CHA |

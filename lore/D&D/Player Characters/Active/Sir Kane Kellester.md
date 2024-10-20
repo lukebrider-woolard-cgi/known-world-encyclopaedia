@@ -8,14 +8,14 @@ aliases:
 - Continues to live to his ideals and bonds
 - Epic Boon - chose the Sun's Radiance feat
 ## Core Info
-| Level | Known World Class | Subclass | Species | Age | Height | Build |  |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | ---- |
-| Paladin 7 | [[Demon Hunters\|Demon Hunter]] | Oath of the Watchers | [[Human]] | 28 | 5' 11"" | Muscular |
+|   Level   |        Known World Class        |       Subclass       |  Species  | Age | Height  |  Build   |     |
+| :-------: | :-----------------------------: | :------------------: | :-------: | :-: | :-----: | :------: | --- |
+| Paladin 8 | [[Demon Hunters\|Demon Hunter]] | Oath of the Watchers | [[Human]] | 28  | 5' 11"" | Muscular |     |
 ## Milestones
 - [ ] Personal Goal
 - [x] Slay Monsters
-- [ ] Story Progression
-- [ ] Other
+- [x] Story Progression
+- [x] Other
 ## Stats
 #### Abilities
 | STR | DEX | CON | INT | WIS | CHA |

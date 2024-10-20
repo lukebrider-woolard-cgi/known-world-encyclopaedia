@@ -7,19 +7,19 @@ import { FaChevronDown } from "react-icons/fa6";
 import { FaChevronUp } from "react-icons/fa6";
 
 type SidebarProps = {
-  fetchArticle: (name: string, path: string) => void;
+  fetchArticle: (path: string) => void;
 };
 
 type SidebarItemProps = {
   item: NavigationItem;
-  handleArticleClick: (name: string, path: string) => void;
+  handleArticleClick: (path: string) => void;
 };
 
 export function Sidebar({ fetchArticle }: SidebarProps) {
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
-  function handleArticleClick(articleName: string, article: string) {
-    fetchArticle(articleName, article);
+  function handleArticleClick(article: string) {
+    fetchArticle(article);
     setSidebarOpen(false);
   }
 
@@ -82,7 +82,7 @@ function SidebarItem({ item, handleArticleClick }: SidebarItemProps) {
                   <a
                     className="pl-4 w-full block cursor-pointer"
                     onClick={() =>
-                      handleArticleClick(article.name, article.path)
+                      handleArticleClick(article.path)
                     }
                   >
                     {article.name}

@@ -23,12 +23,7 @@ import mages from "../lore/Magical Sects/Mages.md";
 import acolytes from "../lore/Magical Sects/Acolytes.md";
 
 // History
-import preExistence from "../lore/History/Before Existence.md";
-import firstAge from "../lore/History/1st Age.md";
-import secondAge from "../lore/History/2nd Age.md";
-import thirdAge from "../lore/History/3rd Age.md";
-import fourthAge from "../lore/History/4th Age.md";
-import fifthAge from "../lore/History/5th Age.md";
+import history from "../lore/History/World History.md";
 
 // Guilds
 import assassins from "../lore/Organisations/Assassin's Guild.md";
@@ -130,28 +125,8 @@ export const navigation: NavigationItem[] = [
     icon: <GiClockwork />,
     articles: [
       {
-        name: "Before Existence",
-        path: preExistence,
-      },
-      {
-        name: "1st Age",
-        path: firstAge,
-      },
-      {
-        name: "2nd Age",
-        path: secondAge,
-      },
-      {
-        name: "3rd Age",
-        path: thirdAge,
-      },
-      {
-        name: "4th Age",
-        path: fourthAge,
-      },
-      {
-        name: "5th Age",
-        path: fifthAge,
+        name: "World History",
+        path: history,
       },
     ],
   },

@@ -8,13 +8,13 @@ aliases:
 - Has revealed her orphans to the party
 - Epic Boon - chose the Assassin's Eye feat
 ## Core Info
-| Level | Known World Class | Subclass | Species | Age | Height | Build |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ranger 5<br>Rogue 3 | Assassin | Gloomstalker<br>Phantom | [[Human]] | 34 | 5' 6" | Thin |
+|        Level        | Known World Class |        Subclass         |  Species  | Age | Height | Build |
+| :-----------------: | :---------------: | :---------------------: | :-------: | :-: | :----: | :---: |
+| Ranger 5<br>Rogue 4 |     Assassin      | Gloomstalker<br>Phantom | [[Human]] | 34  | 5' 6"  | Thin  |
 ## Milestones
 - [ ] Personal Goal
 - [x] Slay Monsters
-- [ ] Story Progression
+- [x] Story Progression
 - [x] Other
 ## Stats
 #### Abilities
@@ -61,6 +61,7 @@ None
 	- Sharpshooter
 	- Indebted Orphans
 	- Assassin's Eye - *OneD&D Hunter's Mark that gives allies Wisdom mod to hit*
+	- Fey Touched - *Dissonant Whispers*
 - Strengths
 	- High burst damage on first turn
 	- Good mobility

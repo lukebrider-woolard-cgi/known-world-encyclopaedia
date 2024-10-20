@@ -30,7 +30,7 @@ Creatures who have been possessed by demons that have become trapped in the Mort
 **Notable Examples:**
 - The Cephalon Beast - giant squid-like monstrosity
 - Komeklion - humanoid lizards
-## Demigods / Guardians
+## Guardians
 The species created by the Elemental Lords and charged with caretaking the Known World after the elements were locked away in their own planes. Most of the demigod species are immortal unless slain, and each were the protectors of their respective domain in the early world. However, they became mutated when magic was released, with some even becoming hostile and violent towards mortals. 
 #### Dragons
 Wise and noble, dragons are some of the most powerful creatures known. Gargantuan winged reptiles with four legs and the ability to breathe fire. In old age, the dragons could consume themselves in flame and be born anew from the ashes. When magic was released and began to empower mortals, the dragons were the first to fully understand the dangers of this new power. They taught the early mages restraint and cautioned them of the destruction the unchecked magic could cause.
@@ -42,8 +42,8 @@ The stone titans are recorded as appearing vaguely humanoid, though they are sai
 
 **Giants**
 Given the immaturity of studies into the stone titans, several theories exist around the creation of the stone giants. During the First Demonic War, likely around the advent of magic, it has been speculated that the stone titans became increasingly tyrannical. Alternatively, they may have done so earlier, as they were worshipped by their mortal subjects as gods. However, another theory assumes that instead, they were motivated by the need to protect their civilisations - and perhaps mortals - from the endless waves of demonic assaults on the world. In all cases, their hubris or desperation led them in pursuit of engineering life itself. However, it is clear that they were exploiting mortals to help gather resources and construct their experiments. Eventually, either through some catastrophic failure or divine intervention, all of the stone titans and giants were stripped of life - frozen in place for all time. This event seems to coincide with a great calamity that sunk a large portion of land in the area today known as the Stormy Coast. 
-#### Sea Witches
-Very little is known about the sea witches. Recovered ancient drawings show them as ammonite or nautilus headed creatures with elongated, tentacled bodies. Some modern sailors hold to superstitions that the sea witches magically lure ships into dangerous waters, or tell stories of giant tentacled creatures attacking ships that stray too far from the coastline. 
+#### Sirens
+Very little is known about the sirens. Recovered ancient drawings show them as ammonite or nautilus headed creatures with elongated, tentacled bodies. Some modern sailors hold to superstitions that the sirens magically lure ships into dangerous waters, or tell stories of giant tentacled creatures attacking ships that stray too far from the coastline. 
 #### Banshees
 Basically nothing is known about the banshees save for their name. There are no consistent accounts of their appearance or where they dwelt. Some speculate from this that they were shapeshifters, whilst others posit that they went extinct long before recorded history began.
 #### Herdeer and Bovine
@@ -73,7 +73,7 @@ Creatures from the void that seek to spread chaos and destruction. To enter the 
 Demons formed by the consumption of a single soul. 
 
 **Notable Examples:**
-- Imps - small, skittering, red skinned demons that work in swarms. Whilst dangerous, they mostly seek to sew chaos.
+- Imps - small, skittering demons that work in swarms. Whilst dangerous, they mostly seek to sow chaos.
 - Shattered - possessed corpses that have been hideously altered and reformed into deadly ambushers - usually found in cold climates where the bodies do not readily decompose.
 - Deathgaze Priests - lesser demon lieutenants that can project a debilitating aura and can render mortals unconscious with a single glance.
 - Flayers - warrior demons devoted to the Harbinger Ragellus. They wield deadly weapons and often form the primary foot soldier ranks of demonic armies. 

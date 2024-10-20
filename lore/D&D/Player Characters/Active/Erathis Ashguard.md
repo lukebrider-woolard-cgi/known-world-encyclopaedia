@@ -7,14 +7,14 @@ aliases:
 - Is adding his discoveries to Mikahana's Tome of Notes
 - Epic Boon - chose to increase Intelligence
 ## Core Info
-| Level | Known World Class | Subclass | Species | Age | Height | Build |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Wizard 8 | [[Mages\|Mage]] | School of Divination | [[Human]] | 38 | 5' 11" | Thin |
+|  Level   | Known World Class |       Subclass       |  Species  | Age | Height | Build |
+| :------: | :---------------: | :------------------: | :-------: | :-: | :----: | :---: |
+| Wizard 9 |  [[Mages\|Mage]]  | School of Divination | [[Human]] | 38  | 5' 11" | Thin  |
 ## Milestones
 - [ ] Personal Goal
 - [x] Slay Monsters
-- [ ] Story Progression
-- [ ] Other
+- [x] Story Progression
+- [x] Other
 ## Stats
 #### Abilities
 | STR | DEX | CON | INT | WIS | CHA |

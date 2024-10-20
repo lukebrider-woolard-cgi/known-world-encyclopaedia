@@ -1,4 +1,4 @@
-*Firefall - year 4 - [[5th Age|5th Age]]* 
+*Skyreach Mesa, Windsweep Plateau, Norcernwere. Firefall - year 4 - 5th Age* 
 ## Abridged Session Notes
 * After arriving in the city, the party split up to carry out errands and go shopping.
 * [[Sir Kane Kellester|Sir Kane]], [[Erathis Ashguard|Erathis]], and [[Brie Faiseden|Brie]] visit a jeweller and sell some gems, including one Elemental Power gemstone.
