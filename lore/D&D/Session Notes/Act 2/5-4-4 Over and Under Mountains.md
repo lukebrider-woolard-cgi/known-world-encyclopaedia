@@ -1,18 +1,18 @@
 *The Bitter Breach, The Belt, Norcernwere. Firstsow-Firefall - year 4 - 5th Age* 
 ## Abridged Session Notes
 * Spent six days in [[Fort Derwent Tarn]]. Most investigated surroundings. Found out the fort is [[Neandal]] ruin with crypt. 
-* <mark>[[Brie Faiseden|Brie]] has nightmare about being sacrificed by Bovine. Wakes to find Goßmut ritual. Keeps quiet about the dream.</mark>
+* [[Brie Faiseden|Brie]] has nightmare about being sacrificed by Bovine. Wakes to find Goßmut ritual. Keeps quiet about the dream.
 * [[Lydia]] and [[Brie Faiseden|Brie]] train with herbology. [[Erathis Ashguard|Erathis]] transcribes new spells and examines Arias Greyvale’s spellbook.
-* Mayla arrives from the capital with wagons. Party hand over their Order of the Iron Rose prisoner.
-* <mark>Party heads up the mountain and enters [[the Bitter Breach]].</mark>
+* Mayla arrives from the capital with wagons. Party hand over their [[Order of the Iron Rose]] prisoner.
+* Party heads up the mountain and enters [[the Bitter Breach]].
 * Find fishing nook and meet Kordras and Emile.
 * Discovered a mining complex and partially explored. Spent the night in the barracks after easily clearing it of Shattered.
-* Delve deeper into the mines and find a sleeping giant bear (The Dreamer) but avoid. Eventually, <mark>discover an abandoned civilisation deep underground (Folkesund).</mark>
-* <mark>Find and activate a crystal power source</mark> - after it petrified [[Mela Uak]]. Whilst stunned he witnessed a glimpse of the city’s past. 
+* Delve deeper into the mines and find a sleeping giant bear (The Dreamer) but avoid. Eventually, discover an abandoned civilisation deep underground (Folkesund).
+* Find and activate a crystal power source - after it petrified [[Mela Uak]]. Whilst stunned he witnessed a glimpse of the city’s past. 
 * Discovered a Golem Forge with a recently activated clay golem that was in mirror mode. Also learn how to create a smaller golem.
 * The golems followed and mimicked the party but could not leave the city. 
-* Explore more of the city, then return to the surface. <mark>More time has passed than should have (now month Firefall)</mark>.
-* <mark>Continue through the breach and down the far side into Windsweep Plateau.</mark>
+* Explore more of the city, then return to the surface. More time has passed than should have (now month Firefall).
+* Continue through the breach and down the far side into Windsweep Plateau.
 ## NPCs Met
 * Kordras and Emile - [[neandal]] and [[human]] couple out on fishing holiday.
 * Clay Golem - a silent construct that mimicked the party’s movements.

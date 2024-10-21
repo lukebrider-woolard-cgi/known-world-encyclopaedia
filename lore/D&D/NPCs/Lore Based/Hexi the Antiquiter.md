@@ -1,4 +1,4 @@
->The answer to what I am is not a simple one. I am of the demonic Harbinger, Nexus, yet I am possessed of free will. I am a cataloguer of all things, yet I myself do not belong. I am all you think I am, and much more beyond that. I am the observer of fates - the collector of moments. 
+>The answer to what I am is not a simple one. I am of the demonic [[The Seven Harbingers|Harbinger]], Nexus, yet I am possessed of free will. I am a cataloguer of all things, yet I myself do not belong. I am all you think I am, and much more beyond that. I am the observer of fates - the collector of moments. 
 
 Hexi is a time-hoping entity that appears at major world events to collect observations and trinkets. It was formerly an enigmatic demon or ascendant, but by its very nature gained free will and its independence. Now, it travels through time using an artefact called the Coin of Weaving Fates. Whilst it has experienced the past and future, it only knows with certainty what it has experienced in the linear past. This way, it only has a rudimentary ability in foresight. 
 

@@ -17,8 +17,6 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 15 | 10 | 16 | 8 | 16 | 12 |
 
-<br>
-
 | Durability | |
 |---|---|
 | HP | 66 |
@@ -26,16 +24,12 @@
 | AC | 18 |
 | AC Mods | Shield (20) |
 
-<br>
-
 | Senses | |
 |---|---|
 | Passive Perception | 16 |
 | Passive Investigation | 9 |
 | Passive Insight | 16 |
 | Darkvision | 300 ft. - can be shared |
-
-<br>
 
 | Speeds | |
 |---|---|

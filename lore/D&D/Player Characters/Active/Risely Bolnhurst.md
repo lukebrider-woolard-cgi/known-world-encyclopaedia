@@ -1,6 +1,5 @@
 ## Current Notes
-- Has so far been open and honest with the party about who he is and why he is on the run
-- Epic Boon - chose the Moon God's Blessing feat
+
 ## Core Info
 |   Level   |    Known World Class    |  Subclass  |  Species  | Age | Height |   Build   |
 | :-------: | :---------------------: | :--------: | :-------: | :-: | :----: | :-------: |
@@ -16,8 +15,6 @@
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 17  | 18  | 14  | 10  | 12  |  8  |
 
-<br>
-
 | Durability |     |
 | ---------- | --- |
 | HP         | 68  |
@@ -25,16 +22,12 @@
 | AC         | 15  |
 | AC Mods    |     |
 
-<br>
-
 | Senses                |     |
 | --------------------- | --- |
 | Passive Perception    | 11  |
 | Passive Investigation | 10  |
 | Passive Insight       | 14  |
 | Darkvision            |     |
-
-<br>
 
 | Speeds           |     |
 | ---------------- | --- |
@@ -59,6 +52,7 @@ None
 	- 
 ## Important Items
 - Flintlock Pistol
+- Brie's Friendship Bracelet - *Help as bonus action*
 ## Story
 | Characteristics |              |
 | --------------- | ------------ |
@@ -72,7 +66,7 @@ None
 	- has excellent memory for terrain, maps, and geography
 #### Backstory Notes
 - Was a member of a family of minor nobility in Greenhart
-- Father was killed by Lester Bell one of the three [[Mages|magi]] who are searching for acolytes
+- Father was killed by Lester Bell one of the three [[Mages|magi]] who are searching for [[acolytes]]
 #### Current Story Notes
 - Is hunting Lester Bell after promising his dying mother that he would get revenge
 #### Relationships

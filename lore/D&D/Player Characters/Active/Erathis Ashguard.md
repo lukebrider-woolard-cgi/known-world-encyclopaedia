@@ -9,36 +9,30 @@ aliases:
 ## Core Info
 |  Level   | Known World Class |       Subclass       |  Species  | Age | Height | Build |
 | :------: | :---------------: | :------------------: | :-------: | :-: | :----: | :---: |
-| Wizard 9 |  [[Mages\|Mage]]  | School of Divination | [[Human]] | 38  | 5' 11" | Thin  |
+| Wizard 10 |  [[Mages\|Mage]]  | School of Divination | [[Human]] | 38  | 5' 11" | Thin  |
 ## Milestones
 - [ ] Personal Goal
-- [x] Slay Monsters
-- [x] Story Progression
-- [x] Other
+- [ ] Slay Monsters
+- [ ] Story Progression
+- [ ] Other
 ## Stats
 #### Abilities
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 6 | 12 | 14 | 22 | 12 | 14 |
 
-<br>
-
 | Durability | |
 |---|---|
-| HP | 50 |
+| HP | 62 |
 | HP Mods |  |
 | AC | 11 |
 | AC Mods | Mage Armor (14), Shield Spell (+5) |
-
-<br>
 
 | Senses | |
 |---|---|
 | Passive Perception | 11 |
 | Passive Investigation | 19 |
 | Passive Insight | 14 |
-
-<br>
 
 | Speeds | |
 |---|---|
@@ -92,7 +86,7 @@ None
 #### Backstory Notes
 - Unresolved guilt for being an Inquisitor and leaving his family
 #### Current Story Notes
-- Still wary of Alabastia, Inquisition, and Order of the Iron Rose
+- Still wary of [[Inquisitor Alabastia|Alabastia]], Inquisition, and [[Order of the Iron Rose]]
 - Wants to discover Alabastia's fate, aware Inquisition may still exist
 #### Relationships
 - Gideon Gillson (father)
@@ -118,4 +112,4 @@ Twynburh
 ###### Current Fears
 Withdrawal from magic - resulting from his prolonged incarceration
 ###### Key Childhood Event
-Taken during adolescence to become a mage
+Taken during adolescence to become a [[Mages|mage]]

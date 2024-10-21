@@ -22,8 +22,6 @@ aliases:
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 16 | 11 | 16 | 6 | 10 | 16 |
 
-<br>
-
 | Durability | |
 |---|---|
 | HP | 67 |
@@ -31,15 +29,11 @@ aliases:
 | AC | 23 |
 | AC Mods | Shield of Faith (25) |
 
-<br>
-
 | Senses | |
 |---|---|
 | Passive Perception | 10 |
 | Passive Investigation | 8 |
 | Passive Insight | 13 |
-
-<br>
 
 | Speeds | |
 |---|---|

@@ -1,0 +1,2 @@
+Rangers who protect the northern frontier against wild neandals. They patrol the forests and tundras of Evergreen and the Frostlands. It is tradition in Northwatch, the capital of Evergreen for firstborn children to join the Sentinels when they reach adolescence. Some Neandals have also been known to join the Sentinels, as the organisation often helps protect the more civilised clans from their more savage kin. 
+

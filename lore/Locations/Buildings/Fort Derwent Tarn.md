@@ -1,8 +1,8 @@
 *The Belt Mountains - Norcernwere*
 
-| Type | Trade | Wealth | Population | Staples | Exports | Status |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Border Fort | Secret Thieves' Guild Drop | - | - | - | - | Ruin |
+| Type | Trade | Wealth | Population | Status |
+|:---:|:---:|:---:|:---:|:---:|
+| Border Fort | Secret [[Thieves' Guild]] Drop | - | ~10-20 | Ruin |
 ## Notable Locations
 #### Fort Keep
 Location - Against a large cliff
@@ -18,3 +18,6 @@ An ancient neandal keep and crypt
 Occupied the fort as part of their plan to dissolve the Northern Kingdom and control Greenhart.
 #### Thieves' Guild
 Use the fort as a drop for goods being smuggled between Windsweep Plateau and Greenhart.
+
+## Notes
+- Has been retaken by the Iron Rose a few months later

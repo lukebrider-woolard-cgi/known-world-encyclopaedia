@@ -1,8 +1,12 @@
+---
+aliases:
+  - Harbinger
+---
 Bringers of the demon host.
 
 | Harbinger |   Name    |        Represents        |                                    Notes                                    |
 | :-------: | :-------: | :----------------------: | :-------------------------------------------------------------------------: |
-|  Blight   | Belphegor | Rot, rust, and spoiling  | Trapped in grub form with Ballthasar after cultists attempted to summon him |
+|  Blight   | Belphegor | Rot, rust, and spoiling  | Trapped in grub form with [[Ballthasar]] after cultists attempted to summon him |
 | Pestilent | Putrillus |   Sickness and disease   |                                                                             |
 | Covetous  |  Nuxille  |     Lust and desire      |                                                                             |
 | Incensed  | Ragellus  |   Anger and bloodlust    |                                                                             |

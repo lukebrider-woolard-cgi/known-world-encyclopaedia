@@ -10,7 +10,7 @@ aliases:
 ## Core Info
 |        Level        | Known World Class |        Subclass         |  Species  | Age | Height | Build |
 | :-----------------: | :---------------: | :---------------------: | :-------: | :-: | :----: | :---: |
-| Ranger 5<br>Rogue 4 |     Assassin      | Gloomstalker<br>Phantom | [[Human]] | 34  | 5' 6"  | Thin  |
+| Ranger 5<br>Rogue 5 |     Assassin      | Gloomstalker<br>Phantom | [[Human]] | 34  | 5' 6"  | Thin  |
 ## Milestones
 - [ ] Personal Goal
 - [x] Slay Monsters
@@ -22,16 +22,12 @@ aliases:
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 8 | 16 | 14 | 10 | 16 | 10 |
 
-<br>
-
 | Durability | |
 |---|---|
 | HP | 65 |
 | HP Mods |  |
 | AC | 14 |
 | AC Mods |  |
-
-<br>
 
 | Senses | |
 |---|---|
@@ -92,7 +88,7 @@ None
 - Followed by and cares for a group of ghostly orphans that she avenged
 #### Current Story Notes
 - Trying to understand who betrayed her - only clue was that she was told to seek out [[Erathis Ashguard|Erathis]]
-- Continue training Brie with melee combat
+- Continue training [[Brie Faiseden|Brie]] with melee combat
 - Wants to begin journaling reagents of the new continue
 #### Relationships
 - Seb, Ava, and Lily (orphans)

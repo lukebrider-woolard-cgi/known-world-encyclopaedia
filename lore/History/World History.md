@@ -95,4 +95,4 @@ By the beginning of the 4th Age, the prime races had spread to every corner of t
 
 ### An Age of Heroes
 
-Following the turmoil of the last few years, armies and navies now lie in ruins. Many heroes and indeed villains have been born from the fires of war. Some become adventurers, who seek to find riches and glory from amongst the ashes of the past. Instead of nations, it is these intrepid individuals who will shape the world going forward. In light of increasing industrialisation, a new demonic assault, and the prevalence of adventurers dictating world events, mages and scholars announce that the 5th Age has begun.
+Following the turmoil of the last few years, armies and navies now lie in ruins. Many heroes and indeed villains have been born from the fires of war. Some become adventurers, who seek to find riches and glory from amongst the ashes of the past. Instead of nations, it is these intrepid individuals who will shape the world going forward. In light of increasing industrialisation, a new demonic assault, and the prevalence of adventurers dictating world events, [[mages]] and scholars announce that the 5th Age has begun.

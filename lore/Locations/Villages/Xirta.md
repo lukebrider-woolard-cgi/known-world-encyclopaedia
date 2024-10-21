@@ -8,12 +8,12 @@
 A lake in the centre of the caldera from which it is believed the Antanai first arrived in Quintessa. The lake and its surroundings form a potent elemental nexus. 
 ## Important NPCs
 #### Encountered NPCs
-| Title | Name | Species | Gender |  Age  | Character | Personality and Voice Notes | Status |
-| :---: | :----------------------------------: | :-------------------: | :----: | :---: | :---: | :---: | :---: |
-| Farseer | Nurn (hidden flame) | [[Antanai]] - Felonil | Male | Elder | Secretly a spy sent from Manasong Palace |  | Alive  |
-| Farseer | Arnold (a swift current) | [[Antanai]] - Xanthell |  Male  | Adult |  |  | Alive  |
-| Farseer | Filik (sharp flint) | [[Antanai]] - Settoln | Female | Elder |  |  | Alive  |
-| Farseer | Vernulé (the north wind) | [[Antanai]] - Chrysiri |  Female  | Adult |  |  | Alive  |
+|  Title  |           Name           |        Species         |        Gender         |  Age  | Character |       Personality and Voice Notes        | Status |       |
+| :-----: | :----------------------: | :--------------------: | :-------------------: | :---: | :-------: | :--------------------------------------: | :----: | ----- |
+| Farseer |   Nurn (hidden flame)    | [[Antanai]] - Felonil | Male  |   Elder   | Secretly a spy sent from Manasong Palace |        | Alive |
+| Farseer | Arnold (a swift current) | [[Antanai]] - Xanthell |         Male          | Adult |           |                                          | Alive  |       |
+| Farseer |   Filik (sharp flint)    | [[Antanai]] - Settoln  |        Female         | Elder |           |                                          | Alive  |       |
+| Farseer | Vernulé (the north wind) | [[Antanai]] - Chrysiri |        Female         | Adult |           |                                          | Alive  |       |
 
 ## Factions
 #### Antanai Outcasts

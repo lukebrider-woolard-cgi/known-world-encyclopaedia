@@ -12,7 +12,7 @@ Location - Northwest of the village on a hill
 A large manor house at the top of a small nearby hill. Home of the sheriff (formally Sheriff Fenchurst).
 #### Clebekah's Hut
 Location - An hour to the east of the village
-A stereotypical witches hut. Home of the witch Clebekah. 
+A stereotypical witches hut. Home of the [[Mages|witch]] [[Clebekah]]. 
 #### Brilla's Herbalist Store
 Location - Eastern edge of the village
 Brilla's home from which she sells herbal reagents and foraged food.
@@ -23,7 +23,7 @@ A large oak tree that was used to hang prisoners of war.
 Location - North of the village off the main road
 A tented camp sheltered under a rocky outcrop near the main road.
 ## Important NPCs
-Clebekah
+[[Clebekah]]
 #### Encountered NPCs
 | Title | Name | Species | Gender | Age | Character | Personality and Voice Notes | Status |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

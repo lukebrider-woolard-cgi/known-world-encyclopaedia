@@ -5,4 +5,4 @@
 ## Character Development
 ## Loot Acquired
 ## Links
-[Planning doc](https://docs.google.com/document/d/1HVTgKiu8UgVkYUGLeOf6sk2t3edr65fPqi30gy-zwiI/edit?usp=drive_link)
+[Planning doc](https://docs.google.com/document/d/1l2vJrhXZmbisllYp2hqVRWBOJTlX5fNBlzM7ToKgcB4/edit?usp=drive_link)

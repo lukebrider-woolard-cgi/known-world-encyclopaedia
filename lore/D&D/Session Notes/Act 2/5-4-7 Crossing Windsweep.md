@@ -5,7 +5,7 @@
 * The party spotted an encampment of soldiers. They attempted to go around but were not careful, and so were spotted by scouts of the 3rd Royal Dragoons. Were able to convince the scouts that they were just passing through.
 * In the middle of the journey, the party encounter thunderstorms and spot many large mammals along the plateau.
 * During the last stages, the party fight a wild entelodont. After killing it they dissect it for reagents. 
-* Whilst looting, the party are <mark>attacked by three rampaging bovine. The fight is tough for [[Brie Faiseden|Brie]] who hears the voice of Goßmut and summons her Goat of Ill Omen for the first time.</mark>
+* Whilst looting, the party are attacked by three rampaging bovine. The fight is tough for [[Brie Faiseden|Brie]] who hears the voice of Goßmut and summons her Goat of Ill Omen for the first time.
 * [[Brie Faiseden|Brie]] also attempts to fight one bovine in melee combat but is quickly downed.
 * [[Erathis Ashguard|Erathis]] turns himself into a Giant Ape.
 * After defeating the bovine, the party again dissect them for reagents.

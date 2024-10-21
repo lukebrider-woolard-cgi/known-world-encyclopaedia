@@ -5,42 +5,36 @@ aliases:
 ## Current Notes
 - Touched the elemental power source in Folkesund and briefly saw a vision of the city's history
 - Compulsive liar flaw does not seem to be coming up much
-- Is actively trying to commune with Nimbor - asking for guidance on what path he should follow - start to indicate that he should find an elemental refuge in these lands
+- Is actively trying to commune with Nimbor - asking for guidance on what path he should follow - found High Haven and received clarity that he is on the right path
 - Epic Boon - chose the Nimbor's Tempest feat
 ## Core Info
 | Level | Known World Class | Subclass | Species | Age | Height | Build |  |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | ---- |
-| Warlock 7<br>Rogue 1 | [[Elementalists\|Elementalist]] | Pact of the Genie | [[Olmetek]] | 32 | 6' 4" | Thin |
+| Warlock 9<br>Rogue 1 | [[Elementalists\|Elementalist]] | Pact of the Genie | [[Olmetek]] | 32 | 6' 4" | Thin |
 ## Milestones
 - [ ] Personal Goal
-- [x] Slay Monsters
-- [x] Story Progression
-- [x] Other
+- [ ] Slay Monsters
+- [ ] Story Progression
+- [ ] Other
 ## Stats
 #### Abilities
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 8 | 18 | 14 | 8 | 11 | 16 |
-
-<br>
+| 8 | 20 | 14 | 8 | 11 | 16 |
 
 | Durability | |
 |---|---|
-| HP | 59 |
+| HP | 73 |
 | HP Mods |  |
-| AC | 18 |
+| AC | 19 |
 | AC Mods |  |
-
-<br>
 
 | Senses | |
 |---|---|
-| Passive Perception | 13 |
+| Passive Perception | 14 |
 | Passive Investigation | 9 |
 | Passive Insight | 10 |
 | Darkvision (magical) | 120 ft. |
-
-<br>
 
 | Speeds | |
 |---|---|
@@ -72,7 +66,7 @@ None
 	- Low Strength and Intelligence
 ## Important Items
 - Chiik Mak Tar (pact weapon) - *can summon the avatar of Mak Tar*
-- Studded Leather Armor
+- Studded Leather Armor +1
 - Rope of Climbing
 - Statuette of Nimbor
 - Screaming Cummerbund - *1 charge of Shatter spell and +1 partial armor*
