@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Article, navigation, NavigationItem } from "../../constants";
+import { Article, navigation, NavigationItem } from "../../utils/constants";
 import { IconContext } from "react-icons";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { IoClose } from "react-icons/io5";

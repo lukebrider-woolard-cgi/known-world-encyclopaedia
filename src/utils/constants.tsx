@@ -7,32 +7,32 @@ import { GiGearHammer } from "react-icons/gi";
 import { GiAbstract024 } from "react-icons/gi";
 
 // Prime Species
-import antanai from "../lore/Species/Antanai.md";
-import bortusken from "../lore/Species/Bortusken.md";
-import human from "../lore/Species/Human.md";
-import kalKrom from "../lore/Species/Kal Krom.md";
-import neandal from "../lore/Species/Neandal.md";
-import olmetek from "../lore/Species/Olmetek.md";
+import antanai from "../../lore/Species/Antanai.md";
+import bortusken from "../../lore/Species/Bortusken.md";
+import human from "../../lore/Species/Human.md";
+import kalKrom from "../../lore/Species/Kal Krom.md";
+import neandal from "../../lore/Species/Neandal.md";
+import olmetek from "../../lore/Species/Olmetek.md";
 
 // Magical Sects
-import apothecaries from "../lore/Magical Sects/Apothecaries.md";
-import beastwalkers from "../lore/Magical Sects/Beastwalkers.md";
-import demonHunters from "../lore/Magical Sects/Demon Hunters.md";
-import elementalists from "../lore/Magical Sects/Elementalists.md";
-import mages from "../lore/Magical Sects/Mages.md";
-import acolytes from "../lore/Magical Sects/Acolytes.md";
+import apothecaries from "../../lore/Magical Sects/Apothecaries.md";
+import beastwalkers from "../../lore/Magical Sects/Beastwalkers.md";
+import demonHunters from "../../lore/Magical Sects/Demon Hunters.md";
+import elementalists from "../../lore/Magical Sects/Elementalists.md";
+import mages from "../../lore/Magical Sects/Mages.md";
+import acolytes from "../../lore/Magical Sects/Acolytes.md";
 
 // History
-import history from "../lore/History/World History.md";
+import history from "../../lore/History/World History.md";
 
 // Guilds
-import assassins from "../lore/Organisations/Assassin's Guild.md";
-import engineers from "../lore/Organisations/Professions/Engineers.md";
-import thieves from "../lore/Organisations/Thieves' Guild.md";
+import assassins from "../../lore/Organisations/Assassin's Guild.md";
+import engineers from "../../lore/Organisations/Professions/Engineers.md";
+import thieves from "../../lore/Organisations/Thieves' Guild.md";
 
 // General
-import languages from "../lore/General Lore/Languages.md";
-import creatures from "../lore/General Lore/Types of Creatures.md";
+import languages from "../../lore/General Lore/Languages.md";
+import creatures from "../../lore/General Lore/Types of Creatures.md";
 
 export type NavigationItem = {
   name: string;
@@ -117,7 +117,7 @@ export const navigation: NavigationItem[] = [
       {
         name: "Acolytes",
         path: acolytes,
-      }
+      },
     ],
   },
   {
