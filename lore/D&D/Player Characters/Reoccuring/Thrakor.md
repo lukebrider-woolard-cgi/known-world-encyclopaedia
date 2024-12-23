@@ -1,0 +1,1 @@
+Has a scar on his right temple from where he was shot in the head - only survived due to being healed by [[Sir Kane Kellester|Sir Kane]]. 

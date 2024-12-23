@@ -1,22 +1,21 @@
 ## Current Notes
+- Faced and killed one of the Sorcerers Three - Horis Salt.
 - Has so far been open and honest with the party about who he is and why he is on the run
 - Epic Boon - chose the Moon God's Blessing feat
 ## Core Info
-| Level | Known World Class | Subclass | Species | Age | Height | Build |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Cleric 7 | [[Apothecaries\|Apothecary]] | Twilight Domain | [[Neandal]] | 46 | 6' 0" | Toned |
+|  Level   |      Known World Class       |    Subclass     |   Species   | Age | Height | Build |
+| :------: | :--------------------------: | :-------------: | :---------: | :-: | :----: | :---: |
+| Cleric 9 | [[Apothecaries\|Apothecary]] | Twilight Domain | [[Neandal]] | 46  | 6' 0"  | Toned |
 ## Milestones
 - [ ] Personal Goal
-- [x] Slay Monsters
-- [ ] Story Progression
+- [ ] Slay Monsters
+- [x] Story Progression
 - [ ] Other
 ## Stats
 #### Abilities
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 15 | 10 | 16 | 8 | 16 | 12 |
-
-<br>
 
 | Durability | |
 |---|---|
@@ -25,16 +24,12 @@
 | AC | 18 |
 | AC Mods | Shield (20) |
 
-<br>
-
 | Senses | |
 |---|---|
 | Passive Perception | 16 |
 | Passive Investigation | 9 |
 | Passive Insight | 16 |
 | Darkvision | 300 ft. - can be shared |
-
-<br>
 
 | Speeds | |
 |---|---|

@@ -17,7 +17,7 @@ Boarish - the language spoken by all [[Bortusken]]
 Kromish - the language spoken by all [[Kal Krom]]
 Quinthwaith - the language spoken by all [[Antanai]]
 
-Other Languages
+Other Languages:
 - Demonic / Dark Speech - appear as mad scrawl and chaotic symbols
 - Thieves' Cant - pictographic symbols and coded speech
 - Coven's Cant - [[Mages|witch]] symbols

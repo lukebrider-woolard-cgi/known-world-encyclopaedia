@@ -1,0 +1,1 @@
+An adventuring group including Darrius Silversong, Ga Nuna, Tutel, and Amalie. They have been hired by Shanair Avento as the competitive rivals to the main party who were hired by Dormain Avento. Both groups are to send the Aventos interesting items from Quintessa as part of a competition between the two Thieves Guild leaders.

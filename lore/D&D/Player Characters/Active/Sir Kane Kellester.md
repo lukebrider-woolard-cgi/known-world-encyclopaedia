@@ -8,21 +8,19 @@ aliases:
 - Continues to live to his ideals and bonds
 - Epic Boon - chose the Sun's Radiance feat
 ## Core Info
-| Level | Known World Class | Subclass | Species | Age | Height | Build |  |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | ---- |
-| Paladin 7 | [[Demon Hunters\|Demon Hunter]] | Oath of the Watchers | [[Human]] | 28 | 5' 11"" | Muscular |
+|   Level   |        Known World Class        |       Subclass       |  Species  | Age | Height  |  Build   |     |
+| :-------: | :-----------------------------: | :------------------: | :-------: | :-: | :-----: | :------: | --- |
+| Paladin 8 | [[Demon Hunters\|Demon Hunter]] | Oath of the Watchers | [[Human]] | 28  | 5' 11"" | Muscular |     |
 ## Milestones
 - [ ] Personal Goal
 - [x] Slay Monsters
-- [ ] Story Progression
-- [ ] Other
+- [x] Story Progression
+- [x] Other
 ## Stats
 #### Abilities
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 16 | 11 | 16 | 6 | 10 | 16 |
-
-<br>
 
 | Durability | |
 |---|---|
@@ -31,15 +29,11 @@ aliases:
 | AC | 23 |
 | AC Mods | Shield of Faith (25) |
 
-<br>
-
 | Senses | |
 |---|---|
 | Passive Perception | 10 |
 | Passive Investigation | 8 |
 | Passive Insight | 13 |
-
-<br>
 
 | Speeds | |
 |---|---|
@@ -50,7 +44,8 @@ aliases:
 - Demonic
 #### Lingering Injuries
 - Nerve Damage (acid) - *effects the DC of touch-based checks*
-- Broken Ribs - *breathing heavily hurts*
+- Broken Ribs (bludgeoning) - *breathing heavily hurts*
+- Sterile (slashing)
 ## Mechanics
 - Party Role
 	- Front Line
