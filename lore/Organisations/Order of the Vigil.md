@@ -1,0 +1,1 @@
+The armed forces and guards raised by Lady Holton to contain the undead within the Deadwold.

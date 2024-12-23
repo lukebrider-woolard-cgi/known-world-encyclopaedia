@@ -61,18 +61,20 @@ export function LoadingSpinner({ loading }: LoadingSpinnerProps) {
   }
 
   return (
-    <div className="flex flex-col items-center">
-      <span style={wrapper}>
-        <span style={style(0)} />
-        <span style={style(1)} />
-        <span style={style(2)} />
-        <span style={style(3)} />
-        <span style={style(4)} />
-      </span>
-      <IconContext.Provider value={{ size: "40", className: "-mt-4" }}>
-        <GiHandBandage />
-      </IconContext.Provider>
-      <p className="font-serif mt-0">...Summoning Article...</p>
-    </div >
+    <div className="w-full flex items-center justify-center">
+      <div className="flex flex-col items-center">
+        <span style={wrapper}>
+          <span style={style(0)} />
+          <span style={style(1)} />
+          <span style={style(2)} />
+          <span style={style(3)} />
+          <span style={style(4)} />
+        </span>
+        <IconContext.Provider value={{ size: "40", className: "-mt-4" }}>
+          <GiHandBandage />
+        </IconContext.Provider>
+        <p className="font-serif mt-0">...Summoning Article...</p>
+      </div >
+    </div>
   )
 }

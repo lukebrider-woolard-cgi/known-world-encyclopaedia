@@ -10,6 +10,11 @@
     @apply font-lora;
   }
 
+  h1,
+  i {
+    @apply text-center;
+  }
+
   h2 {
     @apply underline;
   }

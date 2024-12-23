@@ -30,10 +30,10 @@ Creatures who have been possessed by demons that have become trapped in the Mort
 **Notable Examples:**
 - The Cephalon Beast - giant squid-like monstrosity
 - Komeklion - humanoid lizards
-## Demigods / Guardians
+## Guardians
 The species created by the Elemental Lords and charged with caretaking the Known World after the elements were locked away in their own planes. Most of the demigod species are immortal unless slain, and each were the protectors of their respective domain in the early world. However, they became mutated when magic was released, with some even becoming hostile and violent towards mortals. 
 #### Dragons
-Wise and noble, dragons are some of the most powerful creatures known. Gargantuan winged reptiles with four legs and the ability to breathe fire. In old age, the dragons could consume themselves in flame and be born anew from the ashes. When magic was released and began to empower mortals, the dragons were the first to fully understand the dangers of this new power. They taught the early mages restraint and cautioned them of the destruction the unchecked magic could cause.
+Wise and noble, dragons are some of the most powerful creatures known. Gargantuan winged reptiles with four legs and the ability to breathe fire. In old age, the dragons could consume themselves in flame and be born anew from the ashes. When magic was released and began to empower mortals, the dragons were the first to fully understand the dangers of this new power. They taught the early [[mages]] restraint and cautioned them of the destruction the unchecked magic could cause.
 
 **Wyverns** 
 Dragons mutated the ability to lay eggs. Wyverns soon hatched from these clutches, smaller and leaner than their parents and with only their hind legs and wings. The wyverns were also completely bestial, quickly becoming apex predators wherever they went and devastating ecosystems. Many dragons took to killing their own offspring - a process that often drove them to madness. Due to their status as magical beasts, wyverns are often seen as the ultimate form that can be acquired by a [[Beastwalkers|beastwalker]]. 
@@ -42,8 +42,8 @@ The stone titans are recorded as appearing vaguely humanoid, though they are sai
 
 **Giants**
 Given the immaturity of studies into the stone titans, several theories exist around the creation of the stone giants. During the First Demonic War, likely around the advent of magic, it has been speculated that the stone titans became increasingly tyrannical. Alternatively, they may have done so earlier, as they were worshipped by their mortal subjects as gods. However, another theory assumes that instead, they were motivated by the need to protect their civilisations - and perhaps mortals - from the endless waves of demonic assaults on the world. In all cases, their hubris or desperation led them in pursuit of engineering life itself. However, it is clear that they were exploiting mortals to help gather resources and construct their experiments. Eventually, either through some catastrophic failure or divine intervention, all of the stone titans and giants were stripped of life - frozen in place for all time. This event seems to coincide with a great calamity that sunk a large portion of land in the area today known as the Stormy Coast. 
-#### Sea Witches
-Very little is known about the sea witches. Recovered ancient drawings show them as ammonite or nautilus headed creatures with elongated, tentacled bodies. Some modern sailors hold to superstitions that the sea witches magically lure ships into dangerous waters, or tell stories of giant tentacled creatures attacking ships that stray too far from the coastline. 
+#### Sirens
+Very little is known about the sirens. Recovered ancient drawings show them as ammonite or nautilus headed creatures with elongated, tentacled bodies. Some modern sailors hold to superstitions that the sirens magically lure ships into dangerous waters, or tell stories of giant tentacled creatures attacking ships that stray too far from the coastline. 
 #### Banshees
 Basically nothing is known about the banshees save for their name. There are no consistent accounts of their appearance or where they dwelt. Some speculate from this that they were shapeshifters, whilst others posit that they went extinct long before recorded history began.
 #### Herdeer and Bovine
@@ -66,18 +66,18 @@ Mortals who have been so heavily imbued with magical power that they have ascend
 - The Dreamer - a large cave bear near Folkesund.
 - Goßmut - goat god of hills and cliffs - was sacrificed by bovine.
 - Mak Tar - patron panther god of the Tar Tribe of [[olmetek]].
-- The Saints Eternal - three supremely powerful apothecaries that sometimes appear in times of war or disaster as gleaming armoured battle healers.
+- The Saints Eternal - three supremely powerful [[apothecaries]] that sometimes appear in times of war or disaster as gleaming armoured battle healers.
 ## Demons
 Creatures from the void that seek to spread chaos and destruction. To enter the material plane, they must first consume the unprotected souls of dead mortals. Demons come in a myriad of shapes and sizes, and each may hold allegiance to one or many of [[The Seven Harbingers]].
 #### Lesser Demons
 Demons formed by the consumption of a single soul. 
 
 **Notable Examples:**
-- Imps - small, skittering, red skinned demons that work in swarms. Whilst dangerous, they mostly seek to sew chaos.
+- Imps - small, skittering demons that work in swarms. Whilst dangerous, they mostly seek to sow chaos.
 - Shattered - possessed corpses that have been hideously altered and reformed into deadly ambushers - usually found in cold climates where the bodies do not readily decompose.
 - Deathgaze Priests - lesser demon lieutenants that can project a debilitating aura and can render mortals unconscious with a single glance.
-- Flayers - warrior demons devoted to the Harbinger Ragellus. They wield deadly weapons and often form the primary foot soldier ranks of demonic armies. 
-- Incubi and Succubi - demons devoted to the Harbinger Nuxille that seduce mortals so that their souls can be possessed.
+- Flayers - warrior demons devoted to the [[The Seven Harbingers|Harbinger]] Ragellus. They wield deadly weapons and often form the primary foot soldier ranks of demonic armies. 
+- Incubi and Succubi - demons devoted to the [[The Seven Harbingers|Harbinger]] Nuxille that seduce mortals so that their souls can be possessed.
 #### Greater Demons
 Demons formed by the consumption of multiple souls. 
 
@@ -96,7 +96,7 @@ The commanders of the demonic hordes. Each represents negative, destructive, or 
 #### Ascendants
 Mortals who have aligned themselves with demons and show enough devotion or potential to be gifted demonic powers. They are the dark equivalent to saints. 
 ## Undead
-Mortal creatures afflicted with the Plague of Undying. When a creature expires from this contagion, their soul remains trapped in their body through necromantic magic. However, any memories or free will is lost, and these creatures either revert to the most basic of instincts, or become thralls to those capable of controlling them through necromancy. The bodies of plague slain continue to rot, albeit at a slower rate than normal. This makes them even more dangerous, as they can continue to spread pestilence and taint long after they are turned. Even when all the flesh, muscles, and connective tissue has decomposed, their skeletons can still remain animated. Undead can only be put down if the body is utterly destroyed or the soul is released by holy magic.
+Mortal creatures afflicted with the Plague of Undying. When a creature expires from this contagion, their soul remains trapped in their body through necromantic magic. However, any memories or free will is lost, and these creatures either revert to the most basic of instincts, or become thralls to those capable of controlling them through [[Apothecaries|necromancy]]. The bodies of plague slain continue to rot, albeit at a slower rate than normal. This makes them even more dangerous, as they can continue to spread pestilence and taint long after they are turned. Even when all the flesh, muscles, and connective tissue has decomposed, their skeletons can still remain animated. Undead can only be put down if the body is utterly destroyed or the soul is released by holy magic.
 
 **Dark Rangers**
 During the defence of the Wold and the surrounding provinces, many soldiers fell to the Plague of Undying. However, there are a scattered few who were either too stubborn to die, or who possessed some kind of unknown magical protection. Whatever the case, these plague cursed individuals, though not completely immune to the effects of this contagion, were able to survive in a kind of limbo between life and death. Unable to return to society, they have instead sworn oaths to patrol the Deadwold and its borders. Their connection to the necromantic plague allows them to track down concentrations of plague slain, which they then thin down or redirect away from troubling the outside world. But their most favoured quarry are the necromancers and plague priests, which they hunt with a relentlessness and determination that can only be the product of a lust for vengeance. 

@@ -14,5 +14,5 @@ The ruins of an ancient, underground civilisation that likely existed in the [[2
 | Sheriff | Gracho Molenson | [[Human]] | Male | Middle-aged | Cattle rancher and stables owner - is the also the sheriff | Country rancher | Alive |
 ## Factions
 #### Villagers
-The villagers of Boulder's Creek are hard farmers, ranchers, and miners.
+The villagers of [[Boulder's Creek]] are hard farmers, ranchers, and miners.
 Ideals - community and solitude

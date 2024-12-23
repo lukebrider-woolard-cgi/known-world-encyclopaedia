@@ -1,0 +1,47 @@
+*Holton Citadel, Deadwold, Norcernwere. Firstsow - year 2 - 5th Age* 
+## Abridged Session Notes
+
+## NPCs Met
+## Character Development
+## Loot Acquired
+## Links
+[Planning doc](https://docs.google.com/document/d/1EKXGZIpBUTAjC_fIO80WDJ4BgyX_MQfDOIkHs2TD-5k/edit?usp=drive_link)
+
+### Old Prose
+
+One by one a collection of rough and ramshackle individuals began arriving at the inn. All were individually aware that an upcoming heist had been planned by the thieves guild. One of the first to arrive was the scheming bortusken ﻿[[Thrakor]]﻿. Two other existing members of the guild also separately made their way to the inn, the gunslingers Douglas and Hyran. Whilst Douglas had been approached for his knowledge of bortusken inventions, Hyran had secretly been sent as an enforcer - having been told in no uncertain terms to "make an example" of anyone who tried to swindle the guild. The olmetek known as Weasel arrived at the behest of the Terracotta City branch of the guild, along with the understanding that the lords of the city-state had specifically requested this heist be carried out. Two other odd individuals were also already staying at the inn. A shadowy human named Malexius had his own private reasons for seeking favour with the guild. He was contrasted in the extreme by the loud and gleaming figure of [[Sir Kane Kellester|Sir Kane]] - a [[Demon Hunters|demon hunter]] who seemed to be following his own machinations that required information the guild might possess.
+
+Upon conversing with the barkeeper and gaining access to a private room, the group woke up an ageing [[Mages|mage]] who used his scrying abilities to put them all in contact with ﻿Dormian﻿ of the Twynburh branch of the guild.
+
+﻿Dormian﻿ welcomed those he was familiar with and explained to the group that the Northern Kingdom was engaged in finding and hoarding arcoal to continue the expansion of their royal skyfleet. Outwardly it seemed their goal was to control the skyship industry and profit from the expansion to trade that the flying marvels had opened up. The lords of Terracotta City wanted a piece of the pie - to maintain the competition of their own established trade network. As such, they had commissioned the guild to supply shipments of arcoal. One such source had been identified - a large deposit of arcoal was being mined in the Rocky Coast, with shipments then being sent by skyship to Twynburh via Holton Citadel. The party were tasked to intercept one such shipment, and ﻿Dormian﻿'s sources indicated that such as ship was overnighting in the castle - so tonight was the opportune time to carry out a heist. He recommended that the party commandeer the ship. As there were no pilots amongst them, he suggested they sought out a bortusken by the name of Phineas - a gambler and former skyship pilot who owed the guild a lot of money. ﻿Dormian﻿ was willing to forgive the bortusken’s debt if he assisted in the heist.
+
+As for how to get to the skyship, there were two currently moored to a tower that had been built onto the upper reaches of the eastern castle. There were several ways to get to it:
+
+A dangerous climb up the side of the towering castle.
+
+Gaining access to the citadel's undercroft to move unseen to a higher part of the castle with a safer climb.
+
+Or, sneaking through the inside of the garrisoned and heavily fortified castle.
+
+With these suggestions made, ﻿Dormian﻿ seemed to sense some uneasiness and therefore remarked that no one had told the party this was going to be easy. However, if they were successful they were to fly the skyship to Oasar in southern Norcernwere - avoiding Twynburh at all costs given that it has the busiest airspace in the Kingdom.
+
+After concluding their telepathic meeting with ﻿Dormian﻿, the newly formed group headed back into the main space of the inn and managed to casually extract the whereabouts of Phineas from a couple of gamblers. Upon finding the address within the eastern portion of the citadel, the group split up to cover all means of escape in case the bortusken bolted. Weasel used her natural abilities to climb up into a first-floor window, but quickly discovered she had entered a neighbouring apartment. Down below, ﻿[[Thrakor]]﻿ and [[Sir Kane Kellester|Sir Kane]] attempted to coerce Phineas into letting them in, only to then try and forcibly grapple the nervous bortusken when he had begun to open his door. After some frustrating negotiations (Phineas only spoke limited common) the party convinced him to join them so he might clear his debts with the guild. [[Sir Kane Kellester|Sir Kane]] gave Phineas a literal piggyback - which seemed to delight their new companion.
+
+The party agreed that the safest option for ascending to the moored skyships was to travel through the undercroft. After some searching, they found their way below the eastern castle and managed to find a trapdoor in the ceiling that seemed to lead into passages within the bridge that connects the two sides of the citadel. However, whilst exploring these old sewers the group was set upon by a small horde of lethargic zombies. A quick skirmish saw these undead fiends dispatched in a shower of blades, bullets, and rotten gore.
+
+Making their way up onto the surface of the bridge, the party discovered that much of this concourse used to be filled with dwellings and businesses just like the eastern castle. However, this neighbourhood had been ravaged by the plague and lay mostly desolate and destroyed. Sneaking past more undead and without detection by the guards of the eastern castle, Weasel once again used her climbing skills - and the clever application of a silencing spell - to lay a safety line around the dizzying height of the side of the castle. One by one the group then used this line to make their way to the roof of the castle. From there, it was a relatively simple climb to gain access to the skyship tower. The group then discovered two identical and unmanned skyships - the Precept and the Intrepid - and so split up to try and figure out which was their prize. After discovering the arcoal within the cargo hold of the ship he was exploring (the Intrepid), ﻿[[Thrakor]]﻿ - ever the schemer - convinced Weasel that they could make their escape without the rest of the party. However, the ever-suspicious and observant Hyran discovered the plot, and the split party rushed to board the correct ship just as the last mooring lines were cut.
+
+The commotion alerted some nearby guards, but Phineas acted quickly and activated the ship's emergency steam propulsion to thrust them out of reach of the castle. Now in the clear, the betrayed party sought to discover the mastermind of the plot to leave them behind. However, both Weasel and ﻿[[Thrakor]]﻿ were such experienced liars that neither could be completely absolved or condemned. In an act of rash over-confidence, ﻿[[Thrakor]]﻿ attempted to magically charm the party to his side. But before he could complete the incantation, Hyran pulled out his hand cannon and summarily shot [[Thrakor]] in the head. Only his thick bortusken skull and the pity of [[Sir Kane Kellester|Sir Kane]] saved the [[Mages|bard]] from certain death. Unable to decide who the main culprit was, the others bound Weasel and ﻿[[Thrakor]]﻿ to the ship.
+
+As dawn broke, the Intrepid soared high above the borders of the Silverleaf forest. Suddenly, their path was blocked by three other skyships. Fearing that this was the royal skyfleet the party took up positions around the ship and prepared to fight or flee. As the intercepting craft drew closer the group were able to make out the colours that were being flown atop their masts. All three were flying a black flag with a white raven skull and crossbones. The largest ship also had a second flag - a lilac, bell-shaped flower on a field of emerald.
+
+Deducing that these 'sky pirates' were also after the valuable shipment of arcoal, the party swung into action. Douglas took on the role of captain and expertly directed the craft to keep to the windward side of the enemy squadron. Although skyships are able to fly into the wind, this still put the pirates at a severe disadvantage and allowed a combination of spells, ballistas, and gunfire to slowly chip away at the pirate ships. After several tense minutes, the first of the two smaller ships was neutralised when all three of its crew were picked off by precise ranged attacks. The second small ship soon suffered an unpleasant fate as the thick ropes securing its blimp were severed - causing the hull to plummet hundreds of feet into the forest below.
+
+  
+
+The pirate flagship then suddenly rushed forward in a ramming manoeuvre. A now freed ﻿[[Thrakor]]﻿ - who had been acting as a lookout - cried out a warning which allowed Douglas to make a last-second evasive turn. The pirates crashed the bow of their ship into the Intrepid, but the force of the collision had a much worse effect on the pirates. Their bow snapped off and several control and structural ropes snapped. The now crippled pirate ship listed sharply as its crew scrambled to keep their vessel aloft. With the enemy fighting for their lives, the party were able to once again engage their emergency steam propulsion and soared out of danger.
+
+  
+  
+
+After many days of tense travel, this unlikely group of thieves successfully brought their captured ship and tales of sky pirates to Oasar.

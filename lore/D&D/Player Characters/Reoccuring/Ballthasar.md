@@ -1,0 +1,1 @@
+A former servant and now Ascendant of the [[The Seven Harbingers|Harbinger]] Belphagor the Blight. 

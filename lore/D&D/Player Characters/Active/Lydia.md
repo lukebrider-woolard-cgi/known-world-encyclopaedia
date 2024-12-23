@@ -8,21 +8,19 @@ aliases:
 - Has revealed her orphans to the party
 - Epic Boon - chose the Assassin's Eye feat
 ## Core Info
-| Level | Known World Class | Subclass | Species | Age | Height | Build |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ranger 5<br>Rogue 3 | Assassin | Gloomstalker<br>Phantom | [[Human]] | 34 | 5' 6" | Thin |
+|        Level        | Known World Class |        Subclass         |  Species  | Age | Height | Build |
+| :-----------------: | :---------------: | :---------------------: | :-------: | :-: | :----: | :---: |
+| Ranger 5<br>Rogue 5 |     Assassin      | Gloomstalker<br>Phantom | [[Human]] | 34  | 5' 6"  | Thin  |
 ## Milestones
 - [ ] Personal Goal
-- [x] Slay Monsters
+- [ ] Slay Monsters
 - [ ] Story Progression
-- [x] Other
+- [ ] Other
 ## Stats
 #### Abilities
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 8 | 16 | 14 | 10 | 16 | 10 |
-
-<br>
 
 | Durability | |
 |---|---|
@@ -30,8 +28,6 @@ aliases:
 | HP Mods |  |
 | AC | 14 |
 | AC Mods |  |
-
-<br>
 
 | Senses | |
 |---|---|
@@ -61,6 +57,7 @@ None
 	- Sharpshooter
 	- Indebted Orphans
 	- Assassin's Eye - *OneD&D Hunter's Mark that gives allies Wisdom mod to hit*
+	- Fey Touched - *Dissonant Whispers*
 - Strengths
 	- High burst damage on first turn
 	- Good mobility
@@ -91,7 +88,7 @@ None
 - Followed by and cares for a group of ghostly orphans that she avenged
 #### Current Story Notes
 - Trying to understand who betrayed her - only clue was that she was told to seek out [[Erathis Ashguard|Erathis]]
-- Continue training Brie with melee combat
+- Continue training [[Brie Faiseden|Brie]] with melee combat
 - Wants to begin journaling reagents of the new continue
 #### Relationships
 - Seb, Ava, and Lily (orphans)
