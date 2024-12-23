@@ -13,9 +13,9 @@ aliases:
 | Ranger 5<br>Rogue 5 |     Assassin      | Gloomstalker<br>Phantom | [[Human]] | 34  | 5' 6"  | Thin  |
 ## Milestones
 - [ ] Personal Goal
-- [x] Slay Monsters
-- [x] Story Progression
-- [x] Other
+- [ ] Slay Monsters
+- [ ] Story Progression
+- [ ] Other
 ## Stats
 #### Abilities
 | STR | DEX | CON | INT | WIS | CHA |

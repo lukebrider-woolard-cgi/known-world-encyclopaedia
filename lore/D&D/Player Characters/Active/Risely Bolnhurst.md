@@ -3,12 +3,12 @@
 ## Core Info
 |   Level   |    Known World Class    |  Subclass  |  Species  | Age | Height |   Build   |
 | :-------: | :---------------------: | :--------: | :-------: | :-: | :----: | :-------: |
-| Fighter 8 | [[Engineers\|Engineer]] | Gunslinger | [[Human]] | 42  | 5' 11" | Weathered |
+| Fighter 9 | [[Engineers\|Engineer]] | Gunslinger | [[Human]] | 42  | 5' 11" | Weathered |
 ## Milestones
 - [ ] Personal Goal
 - [ ] Slay Monsters
-- [x] Story Progression
-- [x] Other
+- [ ] Story Progression
+- [ ] Other
 ## Stats
 #### Abilities
 | STR | DEX | CON | INT | WIS | CHA |
@@ -17,7 +17,7 @@
 
 | Durability |     |
 | ---------- | --- |
-| HP         | 68  |
+| HP         | 76  |
 | HP Mods    |     |
 | AC         | 15  |
 | AC Mods    |     |

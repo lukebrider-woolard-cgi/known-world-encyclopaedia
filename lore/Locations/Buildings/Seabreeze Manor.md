@@ -40,16 +40,16 @@ A coastal cave which can be accessed from the sea, or by a staircase leading fro
 ## Important NPCs
 [[Thrakor]]
 #### Encountered NPCs
-| Title | Name | Species | Gender |  Age  | Character | Personality and Voice Notes | Status |
-| :---: | :----------------------------------: | :-------------------: | :----: | :---: | :---: | :---: | :---: |
-|  | [[Thrakor]] | [[Bortusken]] | Male | Adult | Scheming PC Bard | Gravely voice | Alive  |
-|  | Katharryn | [[Human]]|  Female  | Middle-aged | Servant and administrator |  | Alive  |
-|  | Perry | [[Human]] | Male | Middle-aged | Servant and handyman |  | Alive  |
-| Guard Dog | Tess | Canine |  Female  | Adult |  |  | Alive  |
-|  | Gertie | Cow |  Female  | Adult |  |  | Alive  |
-|  | Mrs Featherington | Chicken |  Female  | Adult |  |  | Alive  |
-|  | Henrietta | Chicken |  Female  | Adult |  |  | Alive  |
-|  | Gertie | Chicken |  Female  | Adult |  |  | Alive  |
+|   Title   |       Name        |    Species    | Gender |     Age     |         Character         | Personality and Voice Notes | Status |
+| :-------: | :---------------: | :-----------: | :----: | :---------: | :-----------------------: | :-------------------------: | :----: |
+|           |    [[Thrakor]]    | [[Bortusken]] |  Male  |    Adult    |     Scheming PC Bard      |        Gravely voice        | Alive  |
+|           |     Katharryn     |   [[Human]]   | Female | Middle-aged | Servant and administrator |                             | Alive  |
+|           |       Perry       |   [[Human]]   |  Male  | Middle-aged |   Servant and handyman    |                             | Alive  |
+| Guard Dog |       Tess        |    Canine     | Female |    Adult    |                           |                             | Alive  |
+|           |      Gertie       |      Cow      | Female |    Adult    |                           |                             | Alive  |
+|           | Mrs Featherington |    Chicken    | Female |    Adult    |                           |                             | Alive  |
+|           |     Henrietta     |    Chicken    | Female |    Adult    |                           |                             | Alive  |
+|           |      Scratch      |    Chicken    | Female |    Adult    |                           |                             | Alive  |
 ## Factions
 #### Thieves' Guild
 Use the cave beneath the manor as a drop for goods being smuggled into Twynburh.
