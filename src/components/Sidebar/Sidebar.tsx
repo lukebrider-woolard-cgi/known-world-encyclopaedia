@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { navigation, NavigationItem } from "../../constants";
+import { Article, navigation, NavigationItem } from "../../constants";
 import { IconContext } from "react-icons";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { IoClose } from "react-icons/io5";
@@ -7,18 +7,18 @@ import { FaChevronDown } from "react-icons/fa6";
 import { FaChevronUp } from "react-icons/fa6";
 
 type SidebarProps = {
-  fetchArticle: (path: string) => void;
+  fetchArticle: (article: Article) => void;
 };
 
 type SidebarItemProps = {
   item: NavigationItem;
-  handleArticleClick: (path: string) => void;
+  handleArticleClick: (article: Article) => void;
 };
 
 export function Sidebar({ fetchArticle }: SidebarProps) {
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
-  function handleArticleClick(article: string) {
+  function handleArticleClick(article: Article) {
     fetchArticle(article);
     setSidebarOpen(false);
   }
@@ -82,7 +82,7 @@ function SidebarItem({ item, handleArticleClick }: SidebarItemProps) {
                   <a
                     className="pl-4 w-full block cursor-pointer"
                     onClick={() =>
-                      handleArticleClick(article.path)
+                      handleArticleClick(article)
                     }
                   >
                     {article.name}

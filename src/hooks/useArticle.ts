@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Article } from "../constants";
 
 export const useArticle = () => {
   const [title, setTitle] = useState("");
@@ -7,17 +8,16 @@ export const useArticle = () => {
   );
   const [loading, setLoading] = useState(false);
 
-  const findArticle = (path: string) => {
+  const findArticle = (article: Article) => {
     setLoading(true);
     setTitle("");
     setArticle("");
     try {
-      fetch(path)
+      fetch(article.path)
         .then((res) => res.text())
         .then((text) => {
-          const { title, article } = extractTitle(text);
-          setTitle(title);
-          setArticle(article);
+          setTitle(article.name);
+          setArticle(text);
           setLoading(false);
         });
     } catch {
@@ -28,11 +28,3 @@ export const useArticle = () => {
 
   return { title, article, loading, findArticle };
 };
-
-function extractTitle(articleText: string): { title: string; article: string } {
-  const result = articleText.split(/(^#[\w\s]+\s)/);
-  const title = result[1].length > 0 ? result[1].slice(1).trim() : "";
-  const article = result[2].length > 0 ? result[2] : "";
-
-  return { title, article };
-}
