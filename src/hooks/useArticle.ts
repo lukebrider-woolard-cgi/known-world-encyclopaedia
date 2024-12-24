@@ -32,12 +32,19 @@ export const useArticle = () => {
 };
 
 function removeProps(content: string): string {
-  const propsRegex = /---(\n.*)*---/g;
-  return content.replace(propsRegex, "");
+  const propWrapper = "---";
+
+  if (content.includes("aliases:")) {
+    const second = content.lastIndexOf(propWrapper);
+    return content.slice(second + 2);
+  }
+
+  return content;
 }
 
 function removeLinks(content: string): string {
   const linkRegex = /\[\[.*\]\]/g;
+
   return content.replace(linkRegex, (match) => {
     if (match.includes("|")) {
       const aliasLink = match.indexOf("|");

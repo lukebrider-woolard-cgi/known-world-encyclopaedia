@@ -2,7 +2,12 @@
 import typography from "@tailwindcss/typography";
 
 export default {
-  content: ["./index.html", "./src/App.tsx", "./src/components/**/*.{ts,tsx}"],
+  content: [
+    "./index.html",
+    "./src/App.tsx",
+    "./src/pages/**/*.{ts,tsx}",
+    "./src/components/**/*.{ts,tsx}",
+  ],
   theme: {
     extend: {
       backgroundImage: {

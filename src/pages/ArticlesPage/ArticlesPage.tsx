@@ -40,15 +40,13 @@ export function ArticlesPage({ loading, title, content }: ArticlePageProps) {
     )
   } else {
     return (
-      <div className="mt-14 md:mt-3 px-5 md:px-20 xl:px-60 2xl:px-96 overflow-y-auto prose-base">
+      <article className="mt-14 md:mt-3 px-5 md:px-20 xl:px-60 2xl:px-96 overflow-y-auto prose-base">
         <h1>{title}</h1>
         <TableOfContents headings={headings}></TableOfContents>
         <Markdown value={content} renderer={{ heading: headingRenderer }} gfm={true} breaks={true} openLinksInNewTab={false} />
-      </div>
+      </article>
     )
   }
-
-
 }
 
 function TableOfContents({ headings }: TableOfContentsProps) {
