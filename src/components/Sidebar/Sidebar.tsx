@@ -10,11 +10,22 @@ import { GiWorld } from "react-icons/gi";
 
 type SidebarCategoryProps = {
   category: Category;
+  isOpen: boolean;
+  handleCategoryClick: (category: Category) => void;
   handleArticleClick: () => void;
 };
 
 export function Sidebar() {
-  const [sidebarOpen, setSidebarOpen] = useState(false);
+  const [sidebarOpen, setSidebarOpen] = useState<boolean>(false);
+  const [dropdownOpen, setDropdownOpen] = useState<Category | null>(null);
+
+  function handleCategoryClick(category: Category) {
+    if (dropdownOpen === category) {
+      setDropdownOpen(null)
+    } else {
+      setDropdownOpen(category);
+    }
+  }
 
   function handleArticleClick() {
     setSidebarOpen(false);
@@ -38,12 +49,12 @@ export function Sidebar() {
       >
         <li key="map" className="p-4 w-full bg-gray-800 hover:brightness-150">
           <Link to="/known-world-encyclopaedia/maps" className="flex flex-row items-center justify-start cursor-pointer space-around">
-            <>
-              <IconContext.Provider value={{ size: "30" }}>
-                <div className="pr-2"><GiWorld /></div>
-              </IconContext.Provider>
-              <a>Maps</a>
-            </>
+            <IconContext.Provider value={{ size: "30" }}>
+              <div className="pr-2">
+                <GiWorld />
+              </div>
+            </IconContext.Provider>
+            <a>Maps</a>
           </Link>
         </li>
         {wiki.map((category) => {
@@ -51,6 +62,8 @@ export function Sidebar() {
             <SidebarCategory
               key={category.name}
               category={category}
+              isOpen={category === dropdownOpen}
+              handleCategoryClick={handleCategoryClick}
               handleArticleClick={handleArticleClick}
             />
           );
@@ -60,24 +73,24 @@ export function Sidebar() {
   );
 }
 
-function SidebarCategory({ category, handleArticleClick }: SidebarCategoryProps) {
-  const [dropdownOpen, setDropdownOpen] = useState(false);
+function SidebarCategory({ category, isOpen, handleCategoryClick, handleArticleClick }: SidebarCategoryProps) {
+
 
   return (
     <div className="p-4 w-full bg-gray-800 hover:brightness-150">
       <a
         className="flex flex-row items-center justify-center cursor-pointer space-around"
-        onClick={() => setDropdownOpen(!dropdownOpen)}
+        onClick={() => handleCategoryClick(category)}
       >
         <IconContext.Provider value={{ size: "30" }}>
           <div className="pr-2">{category.icon}</div>
         </IconContext.Provider>
         {category.name}
         <div className="ml-5 sm:ml-auto">
-          {dropdownOpen ? <FaChevronUp /> : <FaChevronDown />}
+          {isOpen ? <FaChevronUp /> : <FaChevronDown />}
         </div>
       </a>
-      {dropdownOpen && (
+      {isOpen && (
         <div className="pl-4">
           <ul>
             {category.articles.map((article) => {
