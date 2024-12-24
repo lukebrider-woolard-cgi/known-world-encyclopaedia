@@ -40,10 +40,11 @@ export function ArticlesPage({ loading, title, content }: ArticlePageProps) {
     )
   } else {
     return (
-      <article className="mt-14 md:mt-3 px-5 md:px-20 xl:px-60 2xl:px-96 overflow-y-auto prose-base">
+      <article className="mt-14 md:mt-3 ~px-20/96 overflow-y-auto prose-base">
         <h1>{title}</h1>
         <TableOfContents headings={headings}></TableOfContents>
         <Markdown value={content} renderer={{ heading: headingRenderer }} gfm={true} breaks={true} openLinksInNewTab={false} />
+        <div className="min-h-6"></div>
       </article>
     )
   }
@@ -52,13 +53,14 @@ export function ArticlesPage({ loading, title, content }: ArticlePageProps) {
 function TableOfContents({ headings }: TableOfContentsProps) {
   return (
     <nav>
+      {headings.length > 0 ? <b>Contents:</b> : <></>}
       <ul>
         {headings.map(heading => (
           <li
             key={heading.id}
             style={{ marginLeft: `${heading.level - 2}em` }}
           >
-            <a href={`#${heading.id}`}>
+            <a className="text-blue-300 hover:text-blue-200" href={`#${heading.id}`}>
               {heading.text}
             </a>
           </li>
