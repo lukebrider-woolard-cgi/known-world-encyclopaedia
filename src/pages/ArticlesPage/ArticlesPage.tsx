@@ -4,7 +4,7 @@ import Markdown from "marked-react";
 import LoadingSpinner from "../../components/LoadingSpinner";
 import TableOfContents, { type Headings } from "../../components/TableOfContents";
 import { headingRenderer } from "../../utils/headingRenderer";
-import { Article, navigation } from "../../utils/constants";
+import { wiki, Article } from "../../utils/constants";
 
 export function ArticlesPage() {
   const [headings, setHeadings] = useState<Headings[]>([]);
@@ -20,7 +20,7 @@ export function ArticlesPage() {
     setTitle("");
     setContent("");
 
-    const article: Article = navigation
+    const article: Article = wiki
       .find((cat) => cat.id === categoryId)!
       .articles.find((art) => art.id === articleId)!;
 

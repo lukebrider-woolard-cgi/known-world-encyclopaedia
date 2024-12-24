@@ -40,7 +40,7 @@ import wardens from "../../lore/Organisations/Order of Wardens.md";
 import languages from "../../lore/General Lore/Languages.md";
 import creatures from "../../lore/General Lore/Types of Creatures.md";
 
-export type NavigationItem = {
+export type Category = {
   id: string;
   name: string;
   icon: React.ReactElement<IconType>;
@@ -53,7 +53,7 @@ export type Article = {
   path: string;
 };
 
-export const navigation: NavigationItem[] = [
+export const wiki: Category[] = [
   {
     id: "general",
     name: "General Lore",

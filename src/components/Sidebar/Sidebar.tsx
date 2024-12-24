@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Link } from "react-router"
-import { navigation, NavigationItem } from "../../utils/constants";
+import { wiki, Category } from "../../utils/constants";
 import { IconContext } from "react-icons";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { IoClose } from "react-icons/io5";
@@ -8,8 +8,8 @@ import { FaChevronDown } from "react-icons/fa6";
 import { FaChevronUp } from "react-icons/fa6";
 import { GiWorld } from "react-icons/gi";
 
-type SidebarItemProps = {
-  item: NavigationItem;
+type SidebarCategoryProps = {
+  category: Category;
   handleArticleClick: () => void;
 };
 
@@ -46,11 +46,11 @@ export function Sidebar() {
             </>
           </Link>
         </li>
-        {navigation.map((navItem) => {
+        {wiki.map((category) => {
           return (
-            <SidebarItem
-              key={navItem.name}
-              item={navItem}
+            <SidebarCategory
+              key={category.name}
+              category={category}
               handleArticleClick={handleArticleClick}
             />
           );
@@ -60,7 +60,7 @@ export function Sidebar() {
   );
 }
 
-function SidebarItem({ item, handleArticleClick }: SidebarItemProps) {
+function SidebarCategory({ category, handleArticleClick }: SidebarCategoryProps) {
   const [dropdownOpen, setDropdownOpen] = useState(false);
 
   return (
@@ -70,9 +70,9 @@ function SidebarItem({ item, handleArticleClick }: SidebarItemProps) {
         onClick={() => setDropdownOpen(!dropdownOpen)}
       >
         <IconContext.Provider value={{ size: "30" }}>
-          <div className="pr-2">{item.icon}</div>
+          <div className="pr-2">{category.icon}</div>
         </IconContext.Provider>
-        {item.name}
+        {category.name}
         <div className="ml-5 sm:ml-auto">
           {dropdownOpen ? <FaChevronUp /> : <FaChevronDown />}
         </div>
@@ -80,14 +80,14 @@ function SidebarItem({ item, handleArticleClick }: SidebarItemProps) {
       {dropdownOpen && (
         <div className="pl-4">
           <ul>
-            {item.articles.map((article) => {
+            {category.articles.map((article) => {
               return (
                 <li
                   key={article.name}
                   className="mt-1 py-1 bg-gray-800 text-center sm:text-left hover:brightness-200"
                 >
                   <Link
-                    to={`articles/category/${item.id}/article/${article.id}`}
+                    to={`articles/category/${category.id}/article/${article.id}`}
                     className="pl-4 w-full block cursor-pointer"
                     onClick={() =>
                       handleArticleClick()
