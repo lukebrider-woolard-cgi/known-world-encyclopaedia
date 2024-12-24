@@ -1,25 +1,22 @@
 import { useState } from "react";
-import { Article, navigation, NavigationItem } from "../../utils/constants";
+import { Link } from "react-router"
+import { navigation, NavigationItem } from "../../utils/constants";
 import { IconContext } from "react-icons";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { IoClose } from "react-icons/io5";
 import { FaChevronDown } from "react-icons/fa6";
 import { FaChevronUp } from "react-icons/fa6";
-
-type SidebarProps = {
-  fetchArticle: (article: Article) => void;
-};
+import { GiWorld } from "react-icons/gi";
 
 type SidebarItemProps = {
   item: NavigationItem;
-  handleArticleClick: (article: Article) => void;
+  handleArticleClick: () => void;
 };
 
-export function Sidebar({ fetchArticle }: SidebarProps) {
+export function Sidebar() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
-  function handleArticleClick(article: Article) {
-    fetchArticle(article);
+  function handleArticleClick() {
     setSidebarOpen(false);
   }
 
@@ -39,6 +36,16 @@ export function Sidebar({ fetchArticle }: SidebarProps) {
         className={`${!sidebarOpen && "hidden"
           } md:block h[calc(100%-3.5rem)] md:h-full mt-14 md:mt-0 flex-none md:flex-shrink-0 w-full md:w-72 overflow-y-auto bg-gray-800`}
       >
+        <li key="map" className="p-4 w-full bg-gray-800 hover:brightness-150">
+          <Link to="/known-world-encyclopaedia/maps" className="flex flex-row items-center justify-start cursor-pointer space-around">
+            <>
+              <IconContext.Provider value={{ size: "30" }}>
+                <div className="pr-2"><GiWorld /></div>
+              </IconContext.Provider>
+              <a>Maps</a>
+            </>
+          </Link>
+        </li>
         {navigation.map((navItem) => {
           return (
             <SidebarItem
@@ -79,14 +86,15 @@ function SidebarItem({ item, handleArticleClick }: SidebarItemProps) {
                   key={article.name}
                   className="mt-1 py-1 bg-gray-800 text-center sm:text-left hover:brightness-200"
                 >
-                  <a
+                  <Link
+                    to={`articles/category/${item.id}/article/${article.id}`}
                     className="pl-4 w-full block cursor-pointer"
                     onClick={() =>
-                      handleArticleClick(article)
+                      handleArticleClick()
                     }
                   >
                     {article.name}
-                  </a>
+                  </Link>
                 </li>
               );
             })}

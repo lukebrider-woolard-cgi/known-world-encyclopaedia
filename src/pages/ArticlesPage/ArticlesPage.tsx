@@ -1,26 +1,44 @@
 import { useEffect, useState } from "react";
+import { useParams } from "react-router";
 import Markdown from "marked-react";
 import LoadingSpinner from "../../components/LoadingSpinner";
+import TableOfContents, { type Headings } from "../../components/TableOfContents";
 import { headingRenderer } from "../../utils/headingRenderer";
+import { Article, navigation } from "../../utils/constants";
 
-type ArticlePageProps = {
-  loading: boolean;
-  title: string;
-  content: string;
-};
-
-type TableOfContentsProps = {
-  headings: Headings[];
-};
-
-interface Headings {
-  id: string;
-  text: string;
-  level: number;
-}
-
-export function ArticlesPage({ loading, title, content }: ArticlePageProps) {
+export function ArticlesPage() {
   const [headings, setHeadings] = useState<Headings[]>([]);
+  const { categoryId, articleId } = useParams();
+  const [title, setTitle] = useState("");
+  const [content, setContent] = useState(
+    "# Welcome to the Encyclopaedia of the Known World"
+  );
+  const [loading, setLoading] = useState(false);
+
+  useEffect(() => {
+    setLoading(true);
+    setTitle("");
+    setContent("");
+
+    const article: Article = navigation
+      .find((cat) => cat.id === categoryId)!
+      .articles.find((art) => art.id === articleId)!;
+
+    try {
+      fetch(article.path)
+        .then((res) => res.text())
+        .then((text) => {
+          setTitle(article.name);
+          text = removeProps(text);
+          text = removeLinks(text);
+          setContent(text);
+          setLoading(false);
+        });
+    } catch {
+      setContent(`### Article with categoryId ${categoryId} and articleId ${articleId} not found!`);
+      setLoading(false);
+    }
+  }, [categoryId, articleId])
 
   useEffect(() => {
     const elements = Array.from(document.querySelectorAll("h2, h3, h4"))
@@ -50,22 +68,25 @@ export function ArticlesPage({ loading, title, content }: ArticlePageProps) {
   }
 }
 
-function TableOfContents({ headings }: TableOfContentsProps) {
-  return (
-    <nav>
-      {headings.length > 0 ? <b>Contents:</b> : <></>}
-      <ul>
-        {headings.map(heading => (
-          <li
-            key={heading.id}
-            style={{ marginLeft: `${heading.level - 2}em` }}
-          >
-            <a className="text-blue-300 hover:text-blue-200" href={`#${heading.id}`}>
-              {heading.text}
-            </a>
-          </li>
-        ))}
-      </ul>
-    </nav>
-  );
+function removeProps(content: string): string {
+  const propWrapper = "---";
+
+  if (content.includes("aliases:")) {
+    const second = content.lastIndexOf(propWrapper);
+    return content.slice(second + 2);
+  }
+
+  return content;
+}
+
+function removeLinks(content: string): string {
+  const linkRegex = /\[\[.*?\]\]/g;
+
+  return content.replace(linkRegex, (match) => {
+    if (match.includes("|")) {
+      const aliasLink = match.indexOf("|");
+      return match.slice(aliasLink + 1, -2);
+    }
+    return match.slice(2, -2);
+  });
 }
