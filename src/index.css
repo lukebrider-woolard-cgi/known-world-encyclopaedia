@@ -4,13 +4,6 @@
 
 @layer base {
   h1,
-  h2,
-  h3,
-  h4 {
-    @apply font-lora;
-  }
-
-  h1,
   i {
     @apply text-center;
   }
