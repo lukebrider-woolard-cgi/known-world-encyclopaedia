@@ -43,7 +43,9 @@ function removeProps(content: string): string {
 }
 
 function removeLinks(content: string): string {
-  const linkRegex = /\[\[.*\]\]/g;
+  const linkRegex = /\[\[.*?\]\]/g;
+
+  console.log(content.match(linkRegex));
 
   return content.replace(linkRegex, (match) => {
     if (match.includes("|")) {
