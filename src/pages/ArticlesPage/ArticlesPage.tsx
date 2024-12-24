@@ -7,13 +7,13 @@ import { headingRenderer } from "../../utils/headingRenderer";
 import { wiki, Article } from "../../utils/constants";
 
 export function ArticlesPage() {
-  const [headings, setHeadings] = useState<Headings[]>([]);
   const { categoryId, articleId } = useParams();
-  const [title, setTitle] = useState("");
-  const [content, setContent] = useState(
+  const [headings, setHeadings] = useState<Headings[]>([]);
+  const [title, setTitle] = useState<string>("");
+  const [content, setContent] = useState<string>(
     "# Welcome to the Encyclopaedia of the Known World"
   );
-  const [loading, setLoading] = useState(false);
+  const [loading, setLoading] = useState<boolean>(false);
 
   useEffect(() => {
     setLoading(true);

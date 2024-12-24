@@ -33,7 +33,7 @@ export function Sidebar() {
 
   return (
     <>
-      <a
+      <button
         className="md:hidden fixed left-2 top-2 cursor-pointer"
         onClick={() => setSidebarOpen(!sidebarOpen)}
       >
@@ -42,54 +42,54 @@ export function Sidebar() {
         >
           {sidebarOpen ? <IoClose /> : <GiHamburgerMenu />}
         </IconContext.Provider>
-      </a>
+      </button>
       <div
         className={`${!sidebarOpen && "hidden"
-          } md:block h[calc(100%-3.5rem)] md:h-full mt-14 md:mt-0 flex-none md:flex-shrink-0 w-full md:w-72 overflow-y-auto bg-gray-800`}
+          } md:block h[calc(100%-3.5rem)] md:h-full mt-14 md:mt-0 flex-none w-full md:w-72 overflow-y-auto bg-gray-800`}
       >
-        <li key="map" className="p-4 w-full bg-gray-800 hover:brightness-150">
-          <Link to="/known-world-encyclopaedia/maps" className="flex flex-row items-center justify-start cursor-pointer space-around">
+        <div className="flex flex-col items-center">
+          <Link to="/known-world-encyclopaedia/maps" className="flex items-center p-4 w-72 md:w-full bg-gray-800 hover:brightness-150">
             <IconContext.Provider value={{ size: "30" }}>
               <div className="pr-2">
                 <GiWorld />
               </div>
             </IconContext.Provider>
-            <a>Maps</a>
+            <p>Maps</p>
           </Link>
-        </li>
-        {wiki.map((category) => {
-          return (
-            <SidebarCategory
-              key={category.name}
-              category={category}
-              isOpen={category === dropdownOpen}
-              handleCategoryClick={handleCategoryClick}
-              handleArticleClick={handleArticleClick}
-            />
-          );
-        })}
+          {wiki.map((category) => {
+            return (
+              <SidebarCategory
+                key={category.name}
+                category={category}
+                isOpen={category === dropdownOpen}
+                handleCategoryClick={handleCategoryClick}
+                handleArticleClick={handleArticleClick}
+              />
+            );
+          })}
+        </div>
       </div>
     </>
   );
 }
 
 function SidebarCategory({ category, isOpen, handleCategoryClick, handleArticleClick }: SidebarCategoryProps) {
-
-
   return (
-    <div className="p-4 w-full bg-gray-800 hover:brightness-150">
-      <a
-        className="flex flex-row items-center justify-center cursor-pointer space-around"
+    <div className="w-72 md:w-full p-4 bg-gray-800 hover:brightness-150">
+      <button
+        className=" w-full flex items-center justify-between"
         onClick={() => handleCategoryClick(category)}
       >
-        <IconContext.Provider value={{ size: "30" }}>
-          <div className="pr-2">{category.icon}</div>
-        </IconContext.Provider>
-        {category.name}
-        <div className="ml-5 sm:ml-auto">
+        <div className="flex items-center">
+          <IconContext.Provider value={{ size: "30" }}>
+            <div className="pr-2">{category.icon}</div>
+          </IconContext.Provider>
+          {category.name}
+        </div>
+        <div className="ml-5 md:ml-0">
           {isOpen ? <FaChevronUp /> : <FaChevronDown />}
         </div>
-      </a>
+      </button>
       {isOpen && (
         <div className="pl-4">
           <ul>
@@ -97,7 +97,7 @@ function SidebarCategory({ category, isOpen, handleCategoryClick, handleArticleC
               return (
                 <li
                   key={article.name}
-                  className="mt-1 py-1 bg-gray-800 text-center sm:text-left hover:brightness-200"
+                  className="mt-1 py-1 bg-gray-800 text-center md:text-left hover:brightness-200"
                 >
                   <Link
                     to={`articles/category/${category.id}/article/${article.id}`}
