@@ -27,8 +27,14 @@ import history from "../../lore/History/World History.md";
 
 // Guilds
 import assassins from "../../lore/Organisations/Assassin's Guild.md";
+import cultOfEternalNight from "../../lore/Organisations/Cult of the Eternal Night.md";
 import engineers from "../../lore/Organisations/Professions/Engineers.md";
+import inquisition from "../../lore/Organisations/The Inquisition.md";
+import ironRose from "../../lore/Organisations/Order of the Iron Rose.md";
+import sentinels from "../../lore/Organisations/Order of Sentinels.md";
 import thieves from "../../lore/Organisations/Thieves' Guild.md";
+import vigil from "../../lore/Organisations/Order of the Vigil.md";
+import wardens from "../../lore/Organisations/Order of Wardens.md";
 
 // General
 import languages from "../../lore/General Lore/Languages.md";
@@ -139,8 +145,32 @@ export const navigation: NavigationItem[] = [
         path: assassins,
       },
       {
+        name: "Cult of the Eternal Night",
+        path: cultOfEternalNight
+      },
+      {
         name: "Engineers",
         path: engineers,
+      },
+      {
+        name: "The Inquisition",
+        path: inquisition
+      },
+      {
+        name: "Order of the Iron Rose",
+        path: ironRose
+      },
+      {
+        name: "Order of Sentinels",
+        path: sentinels
+      },
+      {
+        name: "Order of the Vigil",
+        path: vigil
+      },
+      {
+        name: "Order of Wardens",
+        path: wardens
       },
       {
         name: "Thieves' Guild",
