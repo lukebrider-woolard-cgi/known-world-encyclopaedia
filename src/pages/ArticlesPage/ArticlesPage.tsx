@@ -58,11 +58,10 @@ export function ArticlesPage() {
     )
   } else {
     return (
-      <article className="mt-14 md:mt-3 ~px-20/96 overflow-y-auto prose-base">
+      <article className="w-full max-h-[90%] md:max-h-[95%] mt-14 md:mt-3 ~px-20/96 overflow-y-auto prose-base">
         <h1>{title}</h1>
         <TableOfContents headings={headings}></TableOfContents>
         <Markdown value={content} renderer={{ heading: headingRenderer }} gfm={true} breaks={true} openLinksInNewTab={false} />
-        <div className="min-h-6"></div>
       </article>
     )
   }
