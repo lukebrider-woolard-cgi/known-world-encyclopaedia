@@ -1,10 +1,6 @@
 // Icons
 import { IconType } from "react-icons";
-import { GiBackup } from "react-icons/gi";
-import { GiMagicShield } from "react-icons/gi";
-import { GiClockwork } from "react-icons/gi";
-import { GiGearHammer } from "react-icons/gi";
-import { GiAbstract024 } from "react-icons/gi";
+import { GiBackup, GiMagicShield, GiClockwork, GiGearHammer, GiAbstract024, GiTowerFlag } from "react-icons/gi";
 
 // Prime Species
 import antanai from "../../lore/Species/Antanai.md";
@@ -24,6 +20,9 @@ import acolytes from "../../lore/Magical Sects/Acolytes.md";
 
 // History
 import history from "../../lore/History/World History.md";
+
+// Locations
+import seabreeze from "../../lore/Locations/Buildings/Seabreeze Manor.md";
 
 // Guilds
 import assassins from "../../lore/Organisations/Assassin's Guild.md";
@@ -48,7 +47,7 @@ export type Category = {
 };
 
 export type Article = {
-  id: string
+  id: string;
   name: string;
   path: string;
 };
@@ -158,6 +157,18 @@ export const wiki: Category[] = [
     ],
   },
   {
+    id: "locations",
+    name: "Locations",
+    icon: <GiTowerFlag />,
+    articles: [
+      {
+        id: "seabreeze-manor",
+        name: "Seabreeze Manor",
+        path: seabreeze,
+      },
+    ],
+  },
+  {
     id: "guilds",
     name: "Guilds & Professions",
     icon: <GiGearHammer />,
@@ -170,7 +181,7 @@ export const wiki: Category[] = [
       {
         id: "cult-of-eternal-night",
         name: "Cult of the Eternal Night",
-        path: cultOfEternalNight
+        path: cultOfEternalNight,
       },
       {
         id: "engineers",
@@ -180,27 +191,27 @@ export const wiki: Category[] = [
       {
         id: "inquisition",
         name: "The Inquisition",
-        path: inquisition
+        path: inquisition,
       },
       {
         id: "order-of-iron-rose",
         name: "Order of the Iron Rose",
-        path: ironRose
+        path: ironRose,
       },
       {
         id: "order-of-sentinels",
         name: "Order of Sentinels",
-        path: sentinels
+        path: sentinels,
       },
       {
         id: "order-of-vigil",
         name: "Order of the Vigil",
-        path: vigil
+        path: vigil,
       },
       {
         id: "order-of-wardens",
         name: "Order of Wardens",
-        path: wardens
+        path: wardens,
       },
       {
         id: "thieves-guild",
@@ -213,5 +224,5 @@ export const wiki: Category[] = [
 
 export enum Maps {
   Provincial = "The Known World Provinces.jpg",
-  Thematic = "The Known World.jpg"
+  Thematic = "The Known World.jpg",
 }

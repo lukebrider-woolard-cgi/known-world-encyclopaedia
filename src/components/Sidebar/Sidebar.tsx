@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Link } from "react-router"
+import { Link } from "react-router";
 import { wiki, Category } from "../../utils/constants";
 import { IconContext } from "react-icons";
 import { GiHamburgerMenu } from "react-icons/gi";
@@ -21,7 +21,7 @@ export function Sidebar() {
 
   function handleCategoryClick(category: Category) {
     if (dropdownOpen === category) {
-      setDropdownOpen(null)
+      setDropdownOpen(null);
     } else {
       setDropdownOpen(category);
     }
@@ -33,24 +33,23 @@ export function Sidebar() {
 
   return (
     <>
-      <button
-        className="md:hidden fixed left-2 top-2 cursor-pointer"
-        onClick={() => setSidebarOpen(!sidebarOpen)}
-      >
-        <IconContext.Provider
-          value={{ style: { backgroundColor: "#1f2937" }, size: "50" }}
-        >
+      <button className='md:hidden fixed left-2 top-2 cursor-pointer' onClick={() => setSidebarOpen(!sidebarOpen)}>
+        <IconContext.Provider value={{ style: { backgroundColor: "#1f2937" }, size: "50" }}>
           {sidebarOpen ? <IoClose /> : <GiHamburgerMenu />}
         </IconContext.Provider>
       </button>
       <div
-        className={`${!sidebarOpen && "hidden"
-          } md:block h[calc(100%-3.5rem)] md:h-full mt-14 md:mt-0 flex-none w-full md:w-72 overflow-y-auto bg-gray-800`}
+        className={`${
+          !sidebarOpen && "hidden"
+        } md:block h[calc(100%-3.5rem)] md:h-full mt-14 md:mt-0 flex-none w-full md:w-72 overflow-y-auto bg-gray-800`}
       >
-        <div className="flex flex-col items-center">
-          <Link to="/known-world-encyclopaedia/maps" className="flex items-center p-4 w-72 md:w-full bg-gray-800 hover:brightness-150">
+        <div className='flex flex-col items-center'>
+          <Link
+            to='/known-world-encyclopaedia/maps'
+            className='flex items-center p-4 w-72 md:w-full bg-gray-800 hover:brightness-150'
+          >
             <IconContext.Provider value={{ size: "30" }}>
-              <div className="pr-2">
+              <div className='pr-2'>
                 <GiWorld />
               </div>
             </IconContext.Provider>
@@ -75,36 +74,26 @@ export function Sidebar() {
 
 function SidebarCategory({ category, isOpen, handleCategoryClick, handleArticleClick }: SidebarCategoryProps) {
   return (
-    <div className="w-72 md:w-full p-4 bg-gray-800 hover:brightness-150">
-      <button
-        className=" w-full flex items-center justify-between"
-        onClick={() => handleCategoryClick(category)}
-      >
-        <div className="flex items-center">
+    <div className='w-72 md:w-full p-4 bg-gray-800 hover:brightness-150'>
+      <button className=' w-full flex items-center justify-between' onClick={() => handleCategoryClick(category)}>
+        <div className='flex items-center'>
           <IconContext.Provider value={{ size: "30" }}>
-            <div className="pr-2">{category.icon}</div>
+            <div className='pr-2'>{category.icon}</div>
           </IconContext.Provider>
           {category.name}
         </div>
-        <div className="ml-5 md:ml-0">
-          {isOpen ? <FaChevronUp /> : <FaChevronDown />}
-        </div>
+        <div className='ml-5 md:ml-0'>{isOpen ? <FaChevronUp /> : <FaChevronDown />}</div>
       </button>
       {isOpen && (
-        <div className="pl-4">
+        <div className='pl-4'>
           <ul>
             {category.articles.map((article) => {
               return (
-                <li
-                  key={article.name}
-                  className="mt-1 py-1 bg-gray-800 text-center md:text-left hover:brightness-200"
-                >
+                <li key={article.name} className='mt-1 py-1 bg-gray-800 text-center md:text-left hover:brightness-200'>
                   <Link
                     to={`articles/category/${category.id}/article/${article.id}`}
-                    className="pl-4 w-full block cursor-pointer"
-                    onClick={() =>
-                      handleArticleClick()
-                    }
+                    className='pl-4 w-full block cursor-pointer'
+                    onClick={() => handleArticleClick()}
                   >
                     {article.name}
                   </Link>

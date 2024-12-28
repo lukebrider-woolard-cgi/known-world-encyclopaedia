@@ -3,7 +3,7 @@ import { GiHandBandage } from "react-icons/gi";
 
 type LoadingSpinnerProps = {
   loading: boolean;
-}
+};
 
 // Based off react-spinners circle-loader
 export function LoadingSpinner({ loading }: LoadingSpinnerProps) {
@@ -36,7 +36,7 @@ export function LoadingSpinner({ loading }: LoadingSpinnerProps) {
     position: "relative",
     width: "50px",
     height: "50px",
-    transform: "rotate(-120deg)"
+    transform: "rotate(-120deg)",
   };
 
   const style = (i: number): React.CSSProperties => {
@@ -61,8 +61,8 @@ export function LoadingSpinner({ loading }: LoadingSpinnerProps) {
   }
 
   return (
-    <div className="w-full flex items-center justify-center">
-      <div className="flex flex-col items-center">
+    <div className='w-full flex items-center justify-center'>
+      <div className='flex flex-col items-center'>
         <span style={wrapper}>
           <span style={style(0)} />
           <span style={style(1)} />
@@ -73,8 +73,8 @@ export function LoadingSpinner({ loading }: LoadingSpinnerProps) {
         <IconContext.Provider value={{ size: "40", className: "-mt-4" }}>
           <GiHandBandage />
         </IconContext.Provider>
-        <p className="font-serif mt-0">...Summoning Article...</p>
-      </div >
+        <p className='font-serif mt-0'>...Summoning Article...</p>
+      </div>
     </div>
-  )
+  );
 }

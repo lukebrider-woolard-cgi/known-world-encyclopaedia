@@ -1,5 +1,5 @@
-import { MapPin, type MapPinProps } from "./MapPin";
+import { MapPin, type IMapPin } from "./MapPin";
 
 export default MapPin;
 
-export type { MapPinProps };
+export type { IMapPin };
