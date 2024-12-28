@@ -12,7 +12,7 @@ export function MapsPage() {
   const [mapPins, setMapPins] = useState<MapPinProps[]>([]);
 
   useEffect(() => {
-    fetch("/map-pins.json")
+    fetch("/known-world-encyclopaedia/map-pins.json")
       .then((res) => res.text())
       .then((text) => {
         const jsonResponse = JSON.parse(text);
