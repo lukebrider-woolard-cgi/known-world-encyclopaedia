@@ -4,15 +4,13 @@ import Markdown from "marked-react";
 import LoadingSpinner from "../../components/LoadingSpinner";
 import TableOfContents, { type Headings } from "../../components/TableOfContents";
 import { headingRenderer } from "../../utils/headingRenderer";
-import { wiki, Article } from "../../utils/constants";
+import { wiki, type Article } from "../../utils/constants";
 
 export function ArticlesPage() {
   const { categoryId, articleId } = useParams();
   const [headings, setHeadings] = useState<Headings[]>([]);
   const [title, setTitle] = useState<string>("");
-  const [content, setContent] = useState<string>(
-    "# Welcome to the Encyclopaedia of the Known World"
-  );
+  const [content, setContent] = useState<string>("");
   const [loading, setLoading] = useState<boolean>(false);
 
   useEffect(() => {
