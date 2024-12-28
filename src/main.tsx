@@ -11,13 +11,12 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route path="known-world-encyclopaedia" element={<App />}>
+        <Route path='known-world-encyclopaedia' element={<App />}>
           <Route index element={<WelcomePage />} />
-          <Route path="articles/category/:categoryId/article/:articleId" element={<ArticlesPage />} />
-          <Route path="maps" element={<MapsPage />} />
+          <Route path='articles/category/:categoryId/article/:articleId' element={<ArticlesPage />} />
+          <Route path='maps' element={<MapsPage />} />
         </Route>
       </Routes>
-
     </BrowserRouter>
   </React.StrictMode>
 );

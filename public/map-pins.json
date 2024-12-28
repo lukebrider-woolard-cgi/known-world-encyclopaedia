@@ -3,16 +3,16 @@
     {
       "type": "base",
       "name": "Seabreeze Manor",
-      "link": "",
-      "prose": "",
+      "link": "/articles/category/locations/article/seabreeze-manor",
+      "prose": "A stately manor house recently purchased by the Avento family and occupied by Thrakor.\nPublically, Thrakor has been rewarded for engineering services to the Kingdom. Secretly, the manor is now a smuggling drop and safehouse.",
       "coordsX": 45.7,
       "coordsY": 69.8
     },
     {
       "type": "target",
-      "name": "Sorcerers Three",
+      "name": "The Sorcerers Three",
       "link": "",
-      "prose": "",
+      "prose": "Magnar and Risely are hunting down three sorcerers who seem to be trying to harness the power of gods.\nOne sorcerer has already been dealt with.\nErathis has tracked the remaining two to the Silverleaf Forest, where they appear to be experimenting on local aberrant creatures.",
       "coordsX": 30.3,
       "coordsY": 74.7
     },
@@ -20,7 +20,7 @@
       "type": "intrigue",
       "name": "Twynburh",
       "link": "",
-      "prose": "",
+      "prose": "Someone in the upper echelons of the new Greenhart administration wants Erathis, and by extension the party, dead.\nErathis has also tried to get in touch with his family.\nLydia may have some useful assassin's guild contacts",
       "coordsX": 44.7,
       "coordsY": 70.1
     },
@@ -28,7 +28,7 @@
       "type": "target",
       "name": "Ballthasar Ascended",
       "link": "",
-      "prose": "",
+      "prose": "The party fought Ballthasar in the Ruins of Djurnoth, though it turned out only to be a projection or shade.\nHe is still out there somewhere...",
       "coordsX": 71.7,
       "coordsY": 27
     }

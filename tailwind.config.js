@@ -4,12 +4,7 @@ import typography from "@tailwindcss/typography";
 
 export default {
   content: {
-    files: [
-      "./index.html",
-      "./src/App.tsx",
-      "./src/pages/**/*.{ts,tsx}",
-      "./src/components/**/*.{ts,tsx}",
-    ],
+    files: ["./index.html", "./src/App.tsx", "./src/pages/**/*.{ts,tsx}", "./src/components/**/*.{ts,tsx}"],
     extract,
   },
   theme: {
@@ -30,6 +25,16 @@ export default {
     },
     screens,
     fontSize,
+    // typography: {
+    //   DEFAULT: {
+    //     css: {
+    //       p: {
+    //         marginTop: 0,
+    //         marginBottom: "1rem",
+    //       },
+    //     },
+    //   },
+    // },
   },
   plugins: [fluid, typography],
 };

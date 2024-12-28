@@ -18,9 +18,7 @@ export function ArticlesPage() {
     setTitle("");
     setContent("");
 
-    const article: Article = wiki
-      .find((cat) => cat.id === categoryId)!
-      .articles.find((art) => art.id === articleId)!;
+    const article: Article = wiki.find((cat) => cat.id === categoryId)!.articles.find((art) => art.id === articleId)!;
 
     try {
       fetch(article.path)
@@ -36,14 +34,14 @@ export function ArticlesPage() {
       setContent(`### Article with categoryId ${categoryId} and articleId ${articleId} not found!`);
       setLoading(false);
     }
-  }, [categoryId, articleId])
+  }, [categoryId, articleId]);
 
   useEffect(() => {
     const elements = Array.from(document.querySelectorAll("h2, h3, h4"))
-      .filter(element => element.id)
+      .filter((element) => element.id)
       .map((element) => ({
         id: element.id,
-        text: element.textContent?.replace(':', '') ?? "",
+        text: element.textContent?.replace(":", "") ?? "",
         level: Number(element.tagName.substring(1)),
       }));
 
@@ -51,17 +49,21 @@ export function ArticlesPage() {
   }, [content]);
 
   if (loading) {
-    return (
-      <LoadingSpinner loading={loading} />
-    )
+    return <LoadingSpinner loading={loading} />;
   } else {
     return (
-      <article className="w-full max-h-[90%] md:max-h-[95%] mt-14 md:mt-3 ~px-20/96 overflow-y-auto prose-base">
+      <article className='w-full max-h-[90%] md:max-h-[95%] mt-14 md:mt-3 ~px-20/96 overflow-y-auto prose-base'>
         <h1>{title}</h1>
         <TableOfContents headings={headings}></TableOfContents>
-        <Markdown value={content} renderer={{ heading: headingRenderer }} gfm={true} breaks={true} openLinksInNewTab={false} />
+        <Markdown
+          value={content}
+          renderer={{ heading: headingRenderer }}
+          gfm={true}
+          breaks={true}
+          openLinksInNewTab={false}
+        />
       </article>
-    )
+    );
   }
 }
 

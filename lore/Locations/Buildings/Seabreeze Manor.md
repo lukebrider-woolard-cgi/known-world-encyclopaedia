@@ -56,6 +56,6 @@ Use the cave beneath the manor as a drop for goods being smuggled into Twynburh.
 ## Notes
 - The manor is visited once a week by a stagecoach from the Chartered Company, which takes [[Thrakor]] into Twynburh for the day.
 - The majority of the previous occupant's furniture was auctioned off, leaving the place fairly empty. [[Thrakor]] has purchased some 'fine art' for the walls. 
-- [[Lydia]]'s ghostly orphans will become poltergeists in the attic bedroom whenever the party are staying at the manor.
+- [[Lydia]]'s ghostly orphans nearly became poltergeists in the attic bedroom when the party first arrived at the manor.
 - Katharryn and Perry fell on hard times during the manor's empty years, and so hold no qualms about the house now being owned by the [[Thieves' Guild]]. 
 

@@ -1,8 +1,8 @@
 import { KeepScale } from "react-zoom-pan-pinch";
-import { IconContext } from "react-icons"
-import { GiAirBalloon, GiCloakDagger, GiDiceTarget, GiDungeonGate, GiEyeTarget, GiFireplace } from "react-icons/gi"
+import { IconContext } from "react-icons";
+import { GiAirBalloon, GiCloakDagger, GiDiceTarget, GiDungeonGate, GiEyeTarget, GiFireplace } from "react-icons/gi";
 
-export type MapPinProps = {
+export type IMapPin = {
   type: string;
   name: string;
   link: string;
@@ -11,7 +11,12 @@ export type MapPinProps = {
   coordsY: number;
 };
 
-export function MapPin(props: MapPinProps) {
+type MapPinProps = {
+  mapPin: IMapPin;
+  openPin: (mapPin: IMapPin) => void;
+};
+
+export function MapPin({ mapPin, openPin }: MapPinProps) {
   function typeToIcon(type: string): JSX.Element {
     switch (type) {
       case "base":
@@ -47,12 +52,18 @@ export function MapPin(props: MapPinProps) {
   }
 
   return (
-    <div className="absolute z-10" style={{ "left": `${props.coordsX}%`, "bottom": `${props.coordsY}%` }}>
+    <div className='absolute z-10' style={{ left: `${mapPin.coordsX}%`, bottom: `${mapPin.coordsY}%` }}>
       <KeepScale>
-        <button title={props.name} className={`flex items-center justify-center h-8 w-8 rounded-full bg-white`}>
-          <IconContext.Provider value={{ size: "25", color: typeToColor(props.type) }}>{typeToIcon(props.type)}</IconContext.Provider>
+        <button
+          title={mapPin.name}
+          className={`flex items-center justify-center h-8 w-8 rounded-full bg-white`}
+          onClick={() => openPin(mapPin)}
+        >
+          <IconContext.Provider value={{ size: "25", color: typeToColor(mapPin.type) }}>
+            {typeToIcon(mapPin.type)}
+          </IconContext.Provider>
         </button>
       </KeepScale>
     </div>
-  )
+  );
 }
