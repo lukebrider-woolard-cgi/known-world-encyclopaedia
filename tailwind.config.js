@@ -16,25 +16,12 @@ export default {
         "arcane-lib":
           "linear-gradient(rgba(31, 41, 55, 0.75), rgba(31, 41, 55, 0.75)), url('/known-world-encyclopaedia/background.jpg')",
       },
-      fontFamily: {
-        // lora: ["Lora"],
-      },
       maxHeight: {
         90: "90%",
       },
     },
     screens,
     fontSize,
-    // typography: {
-    //   DEFAULT: {
-    //     css: {
-    //       p: {
-    //         marginTop: 0,
-    //         marginBottom: "1rem",
-    //       },
-    //     },
-    //   },
-    // },
   },
   plugins: [fluid, typography],
 };
