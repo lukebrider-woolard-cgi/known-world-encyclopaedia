@@ -14,5 +14,5 @@ export function headingRenderer(
   const childrenArray = React.Children.toArray(children);
   const text = childrenArray.reduce(flatten, "");
   const slug = text.toLowerCase().replace(/\W/g, "-");
-  return React.createElement("h" + level, { id: slug }, children);
+  return React.createElement("h" + level, { id: slug, key: slug }, children);
 }

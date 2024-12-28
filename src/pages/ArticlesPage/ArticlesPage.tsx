@@ -4,23 +4,23 @@ import Markdown from "marked-react";
 import LoadingSpinner from "../../components/LoadingSpinner";
 import TableOfContents, { type Headings } from "../../components/TableOfContents";
 import { headingRenderer } from "../../utils/headingRenderer";
-import { Article, navigation } from "../../utils/constants";
+import { wiki, Article } from "../../utils/constants";
 
 export function ArticlesPage() {
-  const [headings, setHeadings] = useState<Headings[]>([]);
   const { categoryId, articleId } = useParams();
-  const [title, setTitle] = useState("");
-  const [content, setContent] = useState(
+  const [headings, setHeadings] = useState<Headings[]>([]);
+  const [title, setTitle] = useState<string>("");
+  const [content, setContent] = useState<string>(
     "# Welcome to the Encyclopaedia of the Known World"
   );
-  const [loading, setLoading] = useState(false);
+  const [loading, setLoading] = useState<boolean>(false);
 
   useEffect(() => {
     setLoading(true);
     setTitle("");
     setContent("");
 
-    const article: Article = navigation
+    const article: Article = wiki
       .find((cat) => cat.id === categoryId)!
       .articles.find((art) => art.id === articleId)!;
 
@@ -58,11 +58,10 @@ export function ArticlesPage() {
     )
   } else {
     return (
-      <article className="mt-14 md:mt-3 ~px-20/96 overflow-y-auto prose-base">
+      <article className="w-full max-h-[90%] md:max-h-[95%] mt-14 md:mt-3 ~px-20/96 overflow-y-auto prose-base">
         <h1>{title}</h1>
         <TableOfContents headings={headings}></TableOfContents>
         <Markdown value={content} renderer={{ heading: headingRenderer }} gfm={true} breaks={true} openLinksInNewTab={false} />
-        <div className="min-h-6"></div>
       </article>
     )
   }

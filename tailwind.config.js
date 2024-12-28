@@ -14,12 +14,18 @@ export default {
   },
   theme: {
     extend: {
+      aspectRatio: {
+        map: "4096 / 3351",
+      },
       backgroundImage: {
         "arcane-lib":
           "linear-gradient(rgba(31, 41, 55, 0.75), rgba(31, 41, 55, 0.75)), url('/known-world-encyclopaedia/background.jpg')",
       },
       fontFamily: {
         // lora: ["Lora"],
+      },
+      maxHeight: {
+        90: "90%",
       },
     },
     screens,

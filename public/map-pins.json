@@ -1,0 +1,36 @@
+{
+  "pins": [
+    {
+      "type": "base",
+      "name": "Seabreeze Manor",
+      "link": "",
+      "prose": "",
+      "coordsX": 45.7,
+      "coordsY": 69.8
+    },
+    {
+      "type": "target",
+      "name": "Sorcerers Three",
+      "link": "",
+      "prose": "",
+      "coordsX": 30.3,
+      "coordsY": 74.7
+    },
+    {
+      "type": "intrigue",
+      "name": "Twynburh",
+      "link": "",
+      "prose": "",
+      "coordsX": 45,
+      "coordsY": 70.1
+    },
+    {
+      "type": "target",
+      "name": "Ballthasar Ascended",
+      "link": "",
+      "prose": "",
+      "coordsX": 71.7,
+      "coordsY": 27
+    }
+  ]
+}
