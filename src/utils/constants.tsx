@@ -210,3 +210,8 @@ export const wiki: Category[] = [
     ],
   },
 ];
+
+export enum Maps {
+  Provincial = "The Known World Provinces.jpg",
+  Thematic = "The Known World.jpg"
+}
