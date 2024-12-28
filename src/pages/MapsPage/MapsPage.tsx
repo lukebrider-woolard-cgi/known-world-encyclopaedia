@@ -70,7 +70,12 @@ export function MapsPage() {
           <h3 className='text-center'>{modalState.name}</h3>
           <p>{modalState.prose}</p>
           {modalState.link ? (
-            <button onClick={() => navigate(`/known-world-encyclopaedia${modalState.link}`)}>More Info</button>
+            <button
+              className='text-indigo-800 hover:text-indigo-500 font-bold'
+              onClick={() => navigate(`/known-world-encyclopaedia${modalState.link}`)}
+            >
+              More Info
+            </button>
           ) : (
             <></>
           )}
