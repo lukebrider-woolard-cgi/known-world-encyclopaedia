@@ -6,6 +6,7 @@ import { MdOutlineZoomIn, MdOutlineZoomOut } from "react-icons/md";
 import MapPin, { type IMapPin } from "../../components/MapPin";
 import MapPinModal from "../../components/MapPinModal";
 import { Maps } from "../../utils/constants";
+import { typeToColor } from "../../utils/typeToColor";
 
 type MapKeys = keyof typeof Maps;
 
@@ -68,10 +69,19 @@ export function MapsPage() {
       return (
         <div className='flex flex-col gap-2 prose-base text-black whitespace-pre-wrap'>
           <h3 className='text-center'>{modalState.name}</h3>
-          <p>{modalState.prose}</p>
+          {modalState.objective ? (
+            <span className='text-sm'>
+              <strong>Current Objective: </strong>
+              {modalState.objective}
+            </span>
+          ) : (
+            <></>
+          )}
+          <hr className='my-2' />
+          <span className='text-sm'>{modalState.prose}</span>
           {modalState.link ? (
             <button
-              className='text-indigo-800 hover:text-indigo-500 font-bold'
+              className='text-sm text-indigo-800 hover:text-indigo-500 font-bold'
               onClick={() => navigate(`/known-world-encyclopaedia${modalState.link}`)}
             >
               More Info
@@ -79,6 +89,14 @@ export function MapsPage() {
           ) : (
             <></>
           )}
+          <hr className='my-2' />
+          <div className='flex gap-1'>
+            {modalState.tags.sort().map((tag) => (
+              <span key={tag} className='rounded p-1 text-sm text-white' style={{ background: typeToColor(tag) }}>
+                {tag}
+              </span>
+            ))}
+          </div>
         </div>
       );
     } else {
