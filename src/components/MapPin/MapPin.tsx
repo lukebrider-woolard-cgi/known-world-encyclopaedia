@@ -1,12 +1,15 @@
 import { KeepScale } from "react-zoom-pan-pinch";
 import { IconContext } from "react-icons";
 import { GiAirBalloon, GiCloakDagger, GiDiceTarget, GiDungeonGate, GiEyeTarget, GiFireplace } from "react-icons/gi";
+import { typeToColor } from "../../utils/typeToColor";
 
 export type IMapPin = {
   type: string;
   name: string;
-  link: string;
+  objective?: string;
   prose: string;
+  link?: string;
+  tags: string[];
   coordsX: number;
   coordsY: number;
 };
@@ -31,23 +34,6 @@ export function MapPin({ mapPin, openPin }: MapPinProps) {
         return <GiCloakDagger />;
       default:
         return <GiDiceTarget />;
-    }
-  }
-
-  function typeToColor(type: string): string {
-    switch (type) {
-      case "base":
-        return "#bd0b5e";
-      case "ship":
-        return "#5817a3";
-      case "target":
-        return "#5c0b06";
-      case "dungeon":
-        return "#212920";
-      case "intrigue":
-        return "#322436";
-      default:
-        return "#000000";
     }
   }
 
