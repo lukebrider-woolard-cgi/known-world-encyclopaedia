@@ -47,6 +47,7 @@ export function Sidebar() {
           <Link
             to='/known-world-encyclopaedia/maps'
             className='flex items-center p-4 w-72 md:w-full bg-gray-800 hover:brightness-150'
+            onClick={() => setSidebarOpen(false)}
           >
             <IconContext.Provider value={{ size: "30" }}>
               <div className='pr-2'>
