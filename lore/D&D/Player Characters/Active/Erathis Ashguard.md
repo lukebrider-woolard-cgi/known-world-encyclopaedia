@@ -91,7 +91,7 @@ None
 #### Relationships
 - Gideon Gillson (father)
 	- initially proud of mage son
-- Hiram Gideonsom (younger brother)
+- Hiram Gideonson (younger brother)
 	- resentful that Erathis was special, later angry at all the backlash and investigation
 - Prim Keeliden (mother)
 	- upset son left
