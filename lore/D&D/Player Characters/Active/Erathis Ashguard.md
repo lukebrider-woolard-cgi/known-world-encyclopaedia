@@ -90,11 +90,11 @@ None
 - Wants to discover Alabastia's fate, aware Inquisition may still exist
 #### Relationships
 - Gideon Gillson (father)
-	- demanding
-- Hiram Gideonsom (younger brother)
-	- resentful that Erathis got to leave
-- Prim Keeliden
-	- supportive
+	- initially proud of mage son
+- Hiram Gideonson (younger brother)
+	- resentful that Erathis was special, later angry at all the backlash and investigation
+- Prim Keeliden (mother)
+	- upset son left
 #### Secrets
 - Former Inquisitor - has regrets about times where he carried out his duties
 #### Flavour
