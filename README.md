@@ -4,7 +4,7 @@
 
 To display Known World lore created in markdown files for Obsidian on a GitHub Pages web app.
 
-URL: https://lukebrider-woolard.github.io/known-world-encyclopaedia/
+URL: www.theknownworld.cc
 
 ## Development:
 
