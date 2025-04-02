@@ -70,7 +70,7 @@ None
 #### Current Story Notes
 - Is hunting Lester Bell after promising his dying mother that he would get revenge
 #### Relationships
-- Deceased minor-nobility faminly
+- Deceased minor-nobility family
 - 
 #### Secrets
 None

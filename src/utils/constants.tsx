@@ -223,6 +223,8 @@ export const wiki: Category[] = [
 ];
 
 export enum Maps {
-  Provincial = "The Known World Provinces.jpg",
-  Thematic = "The Known World.jpg",
+  Thematic = "tkw-base-map.jpg",
+  Provincial = "tkw-provinces-map.jpg",
+  Political = "tkw-political-map.jpg",
+  Biomes = "tkw-biomes-map.jpg",
 }

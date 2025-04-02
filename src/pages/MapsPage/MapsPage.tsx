@@ -12,7 +12,7 @@ type MapKeys = keyof typeof Maps;
 
 export function MapsPage() {
   const navigate = useNavigate();
-  const [visibleMap, setVisibleMap] = useState<Maps>(Maps.Provincial);
+  const [visibleMap, setVisibleMap] = useState<Maps>(Maps.Thematic);
   const [mapPins, setMapPins] = useState<IMapPin[]>([]);
   const [modalOpen, setModalOpen] = useState<boolean>(false);
   const [modalState, setModalState] = useState<IMapPin | null>(null);
