@@ -13,8 +13,7 @@ export default {
         map: "4096 / 3351",
       },
       backgroundImage: {
-        "arcane-lib":
-          "linear-gradient(rgba(31, 41, 55, 0.75), rgba(31, 41, 55, 0.75)), url('/known-world-encyclopaedia/background.jpg')",
+        "arcane-lib": "linear-gradient(rgba(31, 41, 55, 0.75), rgba(31, 41, 55, 0.75)), url('/background.jpg')",
       },
       maxHeight: {
         90: "90%",

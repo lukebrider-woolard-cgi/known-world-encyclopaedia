@@ -18,7 +18,7 @@ export function MapsPage() {
   const [modalState, setModalState] = useState<IMapPin | null>(null);
 
   useEffect(() => {
-    fetch("/known-world-encyclopaedia/map-pins.json")
+    fetch("/map-pins.json")
       .then((res) => res.text())
       .then((text) => {
         const jsonResponse = JSON.parse(text);
@@ -82,7 +82,7 @@ export function MapsPage() {
           {modalState.link ? (
             <button
               className='text-sm text-indigo-800 hover:text-indigo-500 font-bold'
-              onClick={() => navigate(`/known-world-encyclopaedia${modalState.link}`)}
+              onClick={() => navigate(`${modalState.link}`)}
             >
               More Info
             </button>
