@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import { BrowserRouter, Routes, Route } from "react-router";
+import { BrowserRouter, Routes, Route, Navigate } from "react-router";
 import App from "./App";
 import ArticlesPage from "./pages/ArticlesPage";
 import MapsPage from "./pages/MapsPage";
@@ -15,6 +15,7 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
           <Route index element={<WelcomePage />} />
           <Route path='articles/category/:categoryId/article/:articleId' element={<ArticlesPage />} />
           <Route path='maps' element={<MapsPage />} />
+          <Route path='*' element={<Navigate to='/' />} />
         </Route>
       </Routes>
     </BrowserRouter>
