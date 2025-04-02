@@ -45,7 +45,7 @@ export function Sidebar() {
       >
         <div className='flex flex-col items-center'>
           <Link
-            to='/known-world-encyclopaedia/maps'
+            to='/maps'
             className='flex items-center p-4 w-72 md:w-full bg-gray-800 hover:brightness-150'
             onClick={() => setSidebarOpen(false)}
           >
