@@ -9,7 +9,7 @@ import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
-    <BrowserRouter basename='/known-world-encyclopaedia'>
+    <BrowserRouter>
       <Routes>
         <Route path='/' element={<App />}>
           <Route index element={<WelcomePage />} />
